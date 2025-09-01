@@ -1,0 +1,989 @@
+﻿page,match,classification,suggested_fix,reason,context
+31,0.1g,suspect_micro_as_g,0.1 ㎍,g(그램)로 OCR되었으나 제형 힌트+소량(0.1g) → ㎍(마이크로그램) 오인 가능.,"opyl 외용제 에이베리스점안액0.002% 고시 제2021-26호 21.2.1. 177 Rebamipide 0.1g/5ml 외용제 레바아이점안액2% 등, 레바아이점안액(1회용) 등 고시 제2023-197호 23.11.1."
+184,0.1g,suspect_micro_as_g,0.1 ㎍,g(그램)로 OCR되었으나 제형 힌트+소량(0.1g) → ㎍(마이크로그램) 오인 가능.,"투여 시 요양급여를 인정함. (고시 제2021-26호, ’21.2.1.) [131] Rebamipide 0.1g/5ml 외용제 (품명: 레바아이점안액2% 등, 레바아이점안액(1회용) 등) 허가사항 범위(성인 안구건"
+221,3g,suspect_micro_as_g,3 ㎍,g(그램)로 OCR되었으나 제형 힌트+소량(3g) → ㎍(마이크로그램) 오인 가능.,"❘ 구 분 세부인정기준 및 방법 및 관해 유지). - 다 음 - 가) 신증범위 단백뇨(＞3g/24h 또는 ＞3g/g)가 있는 경우 나) 최소 3개월동안 보존적인 치료에도 불구하고, 단백뇨가"
+221,3g,suspect_micro_as_g,3 ㎍,g(그램)로 OCR되었으나 제형 힌트+소량(3g) → ㎍(마이크로그램) 오인 가능.,"부인정기준 및 방법 및 관해 유지). - 다 음 - 가) 신증범위 단백뇨(＞3g/24h 또는 ＞3g/g)가 있는 경우 나) 최소 3개월동안 보존적인 치료에도 불구하고, 단백뇨가 1g/24h이상(또"
+222,2g,suspect_micro_as_g,2 ㎍,g(그램)로 OCR되었으나 제형 힌트+소량(2g) → ㎍(마이크로그램) 오인 가능.,"환 환자로서 스테로이드 치료 중 재발이 있는 경우 1) 투여용량: 600-1200mg/m2/d (최대 2g/d) 2) 투여기간: 2년 동안 재발없이 임상적으로 안정화 된 후에, 단계적인 감량 후 중단"
+306,3g,suspect_micro_as_g,3 ㎍,g(그램)로 OCR되었으나 제형 힌트+소량(3g) → ㎍(마이크로그램) 오인 가능.,"nuclear DNA 변이가 확인된 경우 나. 인정용량 : 30∼100mg/kg/day, 1일 최대 3g (고시 제2022-207호, ’22.9.1.) [219] Milrinone 주사제 (품명: 프리마코주)"
+375,11g,suspect_micro_as_g,11 ㎍,g(그램)로 OCR되었으나 제형 힌트+소량(11g) → ㎍(마이크로그램) 오인 가능.,"분 세부인정기준 및 방법 - 다만, 동 조건에 해당하여 약제를 투여하다 중단한 경우 Hb 10-11g/dL(또는 Hct 30-33%)의 유지를 위하여 재투여 시 요양급여를 인정함. 2) Hb 11g/"
+375,11g,suspect_micro_as_g,11 ㎍,g(그램)로 OCR되었으나 제형 힌트+소량(11g) → ㎍(마이크로그램) 오인 가능.,"-11g/dL(또는 Hct 30-33%)의 유지를 위하여 재투여 시 요양급여를 인정함. 2) Hb 11g/dL 또는 Hct 33%까지 요양급여를 인정하며, 진료비 청구 시 매월별 혈액검사 결과치를 첨부하여 야"
+375,12g,suspect_micro_as_g,12 ㎍,g(그램)로 OCR되었으나 제형 힌트+소량(12g) → ㎍(마이크로그램) 오인 가능.,"종양 환자의 빈혈치료 1) Hb 10g/dL 이하 또는 Hct 30% 이하인 경우 2) Hb 12g/dL 또는 Hct 36%까지 요양급여를 인정하며, 진료비 청구 시 매월별 혈액검사 결과치를 첨부 하여야"
+375,10g,suspect_micro_as_g,10 ㎍,g(그램)로 OCR되었으나 제형 힌트+소량(10g) → ㎍(마이크로그램) 오인 가능.,동 인정기준 이외에는 약값 전액을 환자가 부담토록 함. - 아 래 - 가. 헤모글로불린(Hb) 10g/dL 이하 또는 헤마토크리트(Hct) 30% 이하이면서 Erythropoietin 500mU/ml 이하인
+375,12g,suspect_micro_as_g,12 ㎍,g(그램)로 OCR되었으나 제형 힌트+소량(12g) → ㎍(마이크로그램) 오인 가능.,"l 이하인 IPSS risk category low 또는 Intermediate-1 환자 나. Hb 12g/dL 또는 Hct 36%까지 요양급여를 인정하며, 진료비 청구 시 매월별 혈액검사 결과치를 첨부 하여야"
+376,11g,suspect_micro_as_g,11 ㎍,g(그램)로 OCR되었으나 제형 힌트+소량(11g) → ㎍(마이크로그램) 오인 가능.,"미만인 환자에 한함) - 다만, 동 조건에 해당하여 약제를 투여하다 중단한 경우 Hb 10-11g/dL(또는 Hct 30-33%)의 유지를 위하여 재투여 시 요양급여를 인정함. 2) Hb 11g/"
+376,11g,suspect_micro_as_g,11 ㎍,g(그램)로 OCR되었으나 제형 힌트+소량(11g) → ㎍(마이크로그램) 오인 가능.,"-11g/dL(또는 Hct 30-33%)의 유지를 위하여 재투여 시 요양급여를 인정함. 2) Hb 11g/dL 또는 Hct 33%까지 요양급여를 인정하며, 진료비 청구 시 매월별 혈액검사 결과치를 첨부 하여야"
+376,12g,suspect_micro_as_g,12 ㎍,g(그램)로 OCR되었으나 제형 힌트+소량(12g) → ㎍(마이크로그램) 오인 가능.,"종양 환자의 빈혈치료 1) Hb 10g/dL 이하 또는 Hct 30% 이하인 경우 2) Hb 12g/dL 또는 Hct 36%까지 요양급여를 인정하며, 진료비 청구 시 매월별 혈액검사 결과치를 첨부 하여야"
+376,10g,suspect_micro_as_g,10 ㎍,g(그램)로 OCR되었으나 제형 힌트+소량(10g) → ㎍(마이크로그램) 오인 가능.,동 인정기준 이외에는 약값 전액을 환자가 부담토록 함. - 아 래 - 가. 헤모글로불린(Hb) 10g/dL 이하 또는 헤마토크리트 (Hct) 30% 이하이면서 Erythropoietin 500mU/ml 이하
+377,12g,suspect_micro_as_g,12 ㎍,g(그램)로 OCR되었으나 제형 힌트+소량(12g) → ㎍(마이크로그램) 오인 가능.,"❘ 370 ❘ 구 분 세부인정기준 및 방법 나. Hb 12g/dL 또는Hct 36%까지 요양급여를 인정하며, 진료비 청구 시 매월별 혈액검사 결과치를 첨부하여야 함."
+380,11g,suspect_micro_as_g,11 ㎍,g(그램)로 OCR되었으나 제형 힌트+소량(11g) → ㎍(마이크로그램) 오인 가능.,"미만인 환자에 한함) - 다만, 동 조건에 해당하여 약제를 투여하다 중단한 경우 Hb 10-11g/dL(또는 Hct 30-33%)의 유지를 위하여 재투여 시 요양급여를 인정함."
+381,11g,suspect_micro_as_g,11 ㎍,g(그램)로 OCR되었으나 제형 힌트+소량(11g) → ㎍(마이크로그램) 오인 가능.,"❘ 374 ❘ 구 분 세부인정기준 및 방법 2) Hb 11g/dL 또는 Hct 33%까지 요양급여를 인정하며, 진료비 청구 시 매월별 혈액검사 결과치를 첨부 하여야"
+381,10g,suspect_micro_as_g,10 ㎍,g(그램)로 OCR되었으나 제형 힌트+소량(10g) → ㎍(마이크로그램) 오인 가능.,동 인정기준 이외에는 약값 전액을 환자가 부담토록 함. - 아 래 - 가. 헤모글로불린(Hb) 10g/dL 이하 또는 헤마토크리트 (Hct) 30% 이하이면서 Erythropoietin 500mU/ml 이하
+381,12g,suspect_micro_as_g,12 ㎍,g(그램)로 OCR되었으나 제형 힌트+소량(12g) → ㎍(마이크로그램) 오인 가능.,"저위험군(IPSS risk category low 또는 Intermediate-1) 환자 나. Hb 12g/dL 또는 Hct 36%까지 요양급여를 인정하며, 진료비 청구 시 매월별 혈액검사 결과치를 첨부하여 야"
+403,11g,suspect_micro_as_g,11 ㎍,g(그램)로 OCR되었으나 제형 힌트+소량(11g) → ㎍(마이크로그램) 오인 가능.,"tion) 20% 미만 인 경우 나. 임신으로 인한 철결핍성 빈혈의 경우 혈액검사결과 헤모글로빈(Hb) 11g/dL이하이고, 타 경구 철분제제 투여 시 위장장애가 있는 경우에 급여 하며, 투여기간은 4∼6개월로 함."
+403,10g,suspect_micro_as_g,10 ㎍,g(그램)로 OCR되었으나 제형 힌트+소량(10g) → ㎍(마이크로그램) 오인 가능.,"급여 하며, 투여기간은 4∼6개월로 함. 다. 급성출혈 등으로 인한 산후 빈혈의 경우 혈액검사결과 Hb 10g/dL 이하인 경우에 급여하며, 투여기간은 4주로 함."
+404,10g,suspect_micro_as_g,10 ㎍,g(그램)로 OCR되었으나 제형 힌트+소량(10g) → ㎍(마이크로그램) 오인 가능.,"는 약값 전액을 환자가 부담토록 함. - 아 래 - 가. 일반 환자 1) 헤모글로빈(Hb) 10g/dL(단, 임신부는 11g/dL) 이하이고 경구투여가 곤란한 경우로서 출혈 등이 있어 철분을 반드시 신"
+404,10g,suspect_micro_as_g,10 ㎍,g(그램)로 OCR되었으나 제형 힌트+소량(10g) → ㎍(마이크로그램) 오인 가능.,"신속한 투여가 필요한 환자는 Hb 10g/dL 이하인 경우 나. 투석중이 아닌 만성신부전증 환자 Hb 10g/dL 이하인 경우에 투여하고, 목표(유지) 수치는 Hb 11g/dL까지 요양 급여를 인정하며, ○"
+404,11g,suspect_micro_as_g,11 ㎍,g(그램)로 OCR되었으나 제형 힌트+소량(11g) → ㎍(마이크로그램) 오인 가능.,"나. 투석중이 아닌 만성신부전증 환자 Hb 10g/dL 이하인 경우에 투여하고, 목표(유지) 수치는 Hb 11g/dL까지 요양 급여를 인정하며, ○Serum ferritin 100ng/mL 미만 또는 Transf"
+404,11g,suspect_micro_as_g,11 ㎍,g(그램)로 OCR되었으나 제형 힌트+소량(11g) → ㎍(마이크로그램) 오인 가능.,"환자(다만, ferric hydroxide carboxymaltose complex 주사제는 제외) Hb 11g/dL 이하인 경우에 투여 시 인정하며, 1) 혈액투석환자는 Serum ferritin 200ng/mL"
+406,10g,suspect_micro_as_g,10 ㎍,g(그램)로 OCR되었으나 제형 힌트+소량(10g) → ㎍(마이크로그램) 오인 가능.,"rate 20% 미만인 경우 나. 임신으로 인한 철결핍성 빈혈의 경우 혈액검사결과 헤모글로불린(Hb) 10g/㎗ 이하이고 타 경구 철분제제 투여 시 위장장애가 있는 경우에 급여하며, 투여기간은 4~6개월로 함."
+406,10g,suspect_micro_as_g,10 ㎍,g(그램)로 OCR되었으나 제형 힌트+소량(10g) → ㎍(마이크로그램) 오인 가능.,"급여하며, 투여기간은 4~6개월로 함. 다. 급성출혈 등으로 인한 산후 빈혈의 경우 혈액검사결과 Hb 10g/㎗ 이하인 경우에 급여하며, 투여기간은 4주로 함. (고시 제2013-127호, ʼ13.9.1.)"
+410,40g,suspect_micro_as_g,40 ㎍,g(그램)로 OCR되었으나 제형 힌트+소량(40g) → ㎍(마이크로그램) 오인 가능.,"며, 동 인정기준 이외 에는 약값 전액을 환자가 부담토록 함. - 아 래 - 1일 식이 단백 섭취량이 40g 이하(성인기준)로 제한되어 있는 진행성 만성신부전으로 판정받은 환자로서 가. 투석 전 환자 중 혈청 크레"
+410,4.0g,suspect_micro_as_g,4.0 ㎍,g(그램)로 OCR되었으나 제형 힌트+소량(4.0g) → ㎍(마이크로그램) 오인 가능.,"환자 중 혈청 크레아티닌 2.0mg/dL- 5.0mg/dL인 환자 나. 혈액투석 환자 중 알부민 수치가 4.0g/dL 이하이면서 고인산혈증(5.5mg/dL 초과) 환자 (고시 제2013-127호, ʼ13.9.1.)"
+414,5g,suspect_micro_as_g,5 ㎍,g(그램)로 OCR되었으나 제형 힌트+소량(5g) → ㎍(마이크로그램) 오인 가능.,"세부인정기준 및 방법 ※ 치명적 출혈, 증상이 있는 두개강 내 출혈, 5g/dL 이상의 헤모글로빈 감소 또는 4 단위 이상 의 혈액 또는 농축 적혈구 수혈을 요하는 출혈,"
+414,5g,suspect_micro_as_g,5 ㎍,g(그램)로 OCR되었으나 제형 힌트+소량(5g) → ㎍(마이크로그램) 오인 가능.,"승압제 투약이 필요할 정도의 저혈압을 초래하는 출혈, 수술이 필요한 출혈 나. 투여횟수: 1회(5g) (고시 제2019-21호, ʼ19.2.1.) [332] Oxidized regenerated cellu"
+478,9.0g,suspect_micro_as_g,9.0 ㎍,g(그램)로 OCR되었으나 제형 힌트+소량(9.0g) → ㎍(마이크로그램) 오인 가능.,"1) 성인(18∼70세)으로 경증-중등도의 증상을 보이는 경우 2) 혈액학적 검사결과 헤모글로빈이 9.0g/dL 이상이고 혈소판 수치가 50,000/μL 이상인 경우 3) 효소대체요법이 불가능한 경우(효소"
+568,1g,suspect_micro_as_g,1 ㎍,g(그램)로 OCR되었으나 제형 힌트+소량(1g) → ㎍(마이크로그램) 오인 가능.,"n을 투여한 경우 - 1주간의 doxycycline 또는 minocycline 투여 후, 첫 날 1g 1일 1회, 둘째 날부터 1일 1회 500mg을 3일간 투여 (총 투여량 2.5g) 나) 초치료로"
+568,2.5g,suspect_micro_as_g,2.5 ㎍,g(그램)로 OCR되었으나 제형 힌트+소량(2.5g) → ㎍(마이크로그램) 오인 가능.,"경우 - 첫 날 1g 1일 1회, 둘째 날부터 1일 1회 500mg을 3일간 투여 (총 투여량 2.5g) 3. 허가사항 범위를 초과하여 아래와 같은 기준으로 투여 시 약값 전액을 환자가 부담토록 함. - 아"
+620,1.5g,suspect_micro_as_g,1.5 ㎍,g(그램)로 OCR되었으나 제형 힌트+소량(1.5g) → ㎍(마이크로그램) 오인 가능.,"정 ⑤ 자발적 세균성 복막염(Spontaneous bacterial peritonitis): 진단 시 1.5g/kg, 3일째 1g/kg 투여 인정. 단, serum creatinine>1mg/dL 또는 BUN>30"
+620,1g,suspect_micro_as_g,1 ㎍,g(그램)로 OCR되었으나 제형 힌트+소량(1g) → ㎍(마이크로그램) 오인 가능.,"복막염(Spontaneous bacterial peritonitis): 진단 시 1.5g/kg, 3일째 1g/kg 투여 인정. 단, serum creatinine>1mg/dL 또는 BUN>30mg/dL 또는 to"
+620,1g,suspect_micro_as_g,1 ㎍,g(그램)로 OCR되었으나 제형 힌트+소량(1g) → ㎍(마이크로그램) 오인 가능.,"함 ⑥ 간신증후군(Hepatorenal syndrome): Type I에 혈관수축제와 병용 시 첫날 1g/kg, 이후 2~15일 동안 20~40g/day 인정 단, ④치료적 복수천자, ⑤자발적 세균성복막"
+620,40g,suspect_micro_as_g,40 ㎍,g(그램)로 OCR되었으나 제형 힌트+소량(40g) → ㎍(마이크로그램) 오인 가능.,"l syndrome): Type I에 혈관수축제와 병용 시 첫날 1g/kg, 이후 2~15일 동안 20~40g/day 인정 단, ④치료적 복수천자, ⑤자발적 세균성복막염, ⑥간신증후군은 혈중 알부민 수치에 관"
+621,1.5g,suspect_micro_as_g,1.5 ㎍,g(그램)로 OCR되었으나 제형 힌트+소량(1.5g) → ㎍(마이크로그램) 오인 가능.,"(MRI) 등으로 Vasospasm(뇌혈관 연축)이 확인된 경우에 한해 혈중 알부민 수치에 관계없이 1-1.5g/kg/day 용량으로 7일까지 투여 시 요양급여를 인정하고, 그 이상 투 여가 필요하여 투여한 경우에는"
+629,1g,suspect_micro_as_g,1 ㎍,g(그램)로 OCR되었으나 제형 힌트+소량(1g) → ㎍(마이크로그램) 오인 가능.,있는 경우 2) 투여용량 : 400mg/kg/day × 5일 또는 허가사항 범위(용법·용량)를 초과하여 1g/kg/day × 2일 3) 재투여 인정 기준 다음의 “치료와 연관된 변동(Treatment related
+631,1g,suspect_micro_as_g,1 ㎍,g(그램)로 OCR되었으나 제형 힌트+소량(1g) → ㎍(마이크로그램) 오인 가능.,우는 사례별로 인정함. 2) 투여용량 및 기간 가) 중증패혈증 : 허가사항 범위(용법·용량)를 초과하여 1g/kg를 2-3일간 나누어서 투여 나) 신생아패혈증 : 허가사항 범위를 초과하여 1g/kg로 투여 라. 특
+631,1g,suspect_micro_as_g,1 ㎍,g(그램)로 OCR되었으나 제형 힌트+소량(1g) → ㎍(마이크로그램) 오인 가능.,"용법 및 인정기간: 400mg/kg/day를 5일간 투여하거나, 허가사항 범위(용법·용량)를 초과 하여 1g/kg/day로 2일간 또는 2g/kg/ day로 1일간 투여 2) 소아(만 16세 미만 소아에 적용) 가"
+632,1g,suspect_micro_as_g,1 ㎍,g(그램)로 OCR되었으나 제형 힌트+소량(1g) → ㎍(마이크로그램) 오인 가능.,"용량 및 인정기간: 400mg/kg/day를 5일간 투여하거나, 허가사항 범위(용법·용량)를 초과하여 1g/kg/day로 2일간 또는 2g/kg/day로 1일간 투여[※주: 만성 ITP란 발병 6개월내에 관해 ("
+632,2g,suspect_micro_as_g,2 ㎍,g(그램)로 OCR되었으나 제형 힌트+소량(2g) → ㎍(마이크로그램) 오인 가능.,"kg/day를 5일간 투여하거나, 허가사항 범위(용법·용량)를 초과하여 1g/kg/day로 2일간 또는 2g/kg/day로 1일간 투여[※주: 만성 ITP란 발병 6개월내에 관해 (Remission)가 나타나지 않"
+634,2g,suspect_micro_as_g,2 ㎍,g(그램)로 OCR되었으나 제형 힌트+소량(2g) → ㎍(마이크로그램) 오인 가능.,❘ 627 ❘ 구 분 세부인정기준 및 방법 경우 2) 투여 용량: 400mg/kg/dayx5일 (또는 2g/kg/day을 2-5회 분할투여) 다. 골수이식(제대혈 조혈모세포이식 포함)후 감염 위험이 있는 경우에
+634,2g,suspect_micro_as_g,2 ㎍,g(그램)로 OCR되었으나 제형 힌트+소량(2g) → ㎍(마이크로그램) 오인 가능.,"스테로이드와 기존의 면역억제제 치료에 부작용이 있거나 반응이 없는 경우 2) 투여용량 및 기간 1.5~2g/kg을 2∼5일에 걸쳐 투여하며 2~4주 간격으로 3회까지 인정하며, 그 이후 투여횟수부터는 전액본인부"
+635,2g,suspect_micro_as_g,2 ㎍,g(그램)로 OCR되었으나 제형 힌트+소량(2g) → ㎍(마이크로그램) 오인 가능.,"❘ 628 ❘ 구 분 세부인정기준 및 방법 확진된 경우 총 2g/kg 범위 내에서 투여 사. 다병소성 운동신경병증(Multifocal Motor Neuropathy, M"
+635,2g,suspect_micro_as_g,2 ㎍,g(그램)로 OCR되었으나 제형 힌트+소량(2g) → ㎍(마이크로그램) 오인 가능.,"Motor Neuropathy, MMN)에 투여 시 다음과 같은 경우에 인정함 ○ 투여용량 및 기간 총 2g/kg(2∼5일에 걸쳐) 투여를 인정하고 이후 반응이 있는 경우에는 2∼4주 간격으로 1g/kg(또는 4"
+635,1g,suspect_micro_as_g,1 ㎍,g(그램)로 OCR되었으나 제형 힌트+소량(1g) → ㎍(마이크로그램) 오인 가능.,및 기간 총 2g/kg(2∼5일에 걸쳐) 투여를 인정하고 이후 반응이 있는 경우에는 2∼4주 간격으로 1g/kg(또는 4∼8주 간격으로 2g/kg)을 투여할 수 있음. 아. 만성염증성탈수초다발성신경병증(CIDP
+635,2g,suspect_micro_as_g,2 ㎍,g(그램)로 OCR되었으나 제형 힌트+소량(2g) → ㎍(마이크로그램) 오인 가능.,걸쳐) 투여를 인정하고 이후 반응이 있는 경우에는 2∼4주 간격으로 1g/kg(또는 4∼8주 간격으로 2g/kg)을 투여할 수 있음. 아. 만성염증성탈수초다발성신경병증(CIDP ; Chronic Inflamma
+635,2g,suspect_micro_as_g,2 ㎍,g(그램)로 OCR되었으나 제형 힌트+소량(2g) → ㎍(마이크로그램) 오인 가능.,"개월 이상 해당 약제에 불응성, 재발성인 환자로서 mRS※ ≥ 3점인 경우 2) 투여용량 및 기간 ○ 총 2g/kg(2~5일에 걸쳐) 투여를 인정하고, 호전되었다가 이후 다시 악화된 경우(mRS※ ≥ 3점 또는 1"
+635,2g,suspect_micro_as_g,2 ㎍,g(그램)로 OCR되었으나 제형 힌트+소량(2g) → ㎍(마이크로그램) 오인 가능.,"투여를 인정하고, 호전되었다가 이후 다시 악화된 경우(mRS※ ≥ 3점 또는 1점 이상 증가)에는 총 2g/kg(2~5일에 걸쳐) 투여 후 2~4주 간격으로 1g/kg(또는 4~8주 간격으로 2g/kg)을 6개"
+635,1g,suspect_micro_as_g,1 ㎍,g(그램)로 OCR되었으나 제형 힌트+소량(1g) → ㎍(마이크로그램) 오인 가능.,mRS※ ≥ 3점 또는 1점 이상 증가)에는 총 2g/kg(2~5일에 걸쳐) 투여 후 2~4주 간격으로 1g/kg(또는 4~8주 간격으로 2g/kg)을 6개월간 투여할 수 있음. 3) 혈장분리교환술(Plasmap
+635,2g,suspect_micro_as_g,2 ㎍,g(그램)로 OCR되었으나 제형 힌트+소량(2g) → ㎍(마이크로그램) 오인 가능.,증가)에는 총 2g/kg(2~5일에 걸쳐) 투여 후 2~4주 간격으로 1g/kg(또는 4~8주 간격으로 2g/kg)을 6개월간 투여할 수 있음. 3) 혈장분리교환술(Plasmapheresis)과 Human imm
+636,2g,suspect_micro_as_g,2 ㎍,g(그램)로 OCR되었으나 제형 힌트+소량(2g) → ㎍(마이크로그램) 오인 가능.,corticosteroid에 불충분한 반 응을 보이거나 부작용 또는 금기 등으로 투여할 수 없는 경우 총 2g/kg 범위 내에서 인정. 차. 자가면역성뇌염(Autoimmune encephaltis) 환자 중 mRS※
+636,2g,suspect_micro_as_g,2 ㎍,g(그램)로 OCR되었으나 제형 힌트+소량(2g) → ㎍(마이크로그램) 오인 가능.,4) 뇌염을 시사하는 MRI 소견 다) 바이러스성 뇌염 등 다른 원인을 배제 2) 투여용량 및 기간 ○ 총 2g/kg(2∼5일에 걸쳐) 투여를 인정하고 이 후 추가 투여 필요시 4주 간격으로 1g/kg을 2일에 걸쳐
+636,1g,suspect_micro_as_g,1 ㎍,g(그램)로 OCR되었으나 제형 힌트+소량(1g) → ㎍(마이크로그램) 오인 가능.,용량 및 기간 ○ 총 2g/kg(2∼5일에 걸쳐) 투여를 인정하고 이 후 추가 투여 필요시 4주 간격으로 1g/kg을 2일에 걸쳐 투여 가능함 ※ Modified Rankin Scale(mRS) 0 - No sy
+637,1g,suspect_micro_as_g,1 ㎍,g(그램)로 OCR되었으나 제형 힌트+소량(1g) → ㎍(마이크로그램) 오인 가능.,"또는, 나) 주요장기 출혈이 동반되고 혈소판 10만이하 (≦ 100 x 103/uL) 2) 투여용량: 1g/kg/day × 2일 ※ “추정” 또는 “확진”의 정의는 코로나19 예방접종 대응 추진단 발간 「코로나1"
+638,1g,suspect_micro_as_g,1 ㎍,g(그램)로 OCR되었으나 제형 힌트+소량(1g) → ㎍(마이크로그램) 오인 가능.,"치료가 있었던 환자에서 증상 재발 시 2) 용법 및 인정기간: 400mg/kg/day × 5일 (또는, 1g/kg/day × 2일, 2g/kg/day × 1일) 3. 허가사항 범위를 초과하여 아래와 같은 기준으로 투"
+638,2g,suspect_micro_as_g,2 ㎍,g(그램)로 OCR되었으나 제형 힌트+소량(2g) → ㎍(마이크로그램) 오인 가능.,"재발 시 2) 용법 및 인정기간: 400mg/kg/day × 5일 (또는, 1g/kg/day × 2일, 2g/kg/day × 1일) 3. 허가사항 범위를 초과하여 아래와 같은 기준으로 투여 시 약값 전액을 환자가"
+650,10g,suspect_micro_as_g,10 ㎍,g(그램)로 OCR되었으나 제형 힌트+소량(10g) → ㎍(마이크로그램) 오인 가능.,기관의 정상 하한치 미만 (2) 분열적혈구(schistocytes) (3) 헤모글로빈 < 10g/dL (4) lactate dehydrogenase(LDH): 정상 상한치의 1.5배 이상
+55,0.1g,review_micro_as_g,0.1 ㎍ (검토),g(그램)로 OCR되었으나 소량(0.1g) → ㎍ 오인 가능성. 문맥 검토 요망.,············································ 654 Rebamipide 0.1g/5ml 외용제······························· 177 Recombinant bloo
+91,75g,review_micro_as_g,75 ㎍ (검토),g(그램)로 OCR되었으나 소량(75g) → ㎍ 오인 가능성. 문맥 검토 요망.,당 ≥ 126mg/dl 다) 당뇨의 전형적인 증상과 임의혈장혈당 ≥ 200mg/dl 라) 75g 경구당부하검사 후 2시간 혈장혈당 ≥ 200mg/dl 2) 병용요법 가) 2제요법
+221,1g,review_micro_as_g,1 ㎍ (검토),g(그램)로 OCR되었으나 소량(1g) → ㎍ 오인 가능성. 문맥 검토 요망.,"24h 또는 ＞3g/g)가 있는 경우 나) 최소 3개월동안 보존적인 치료에도 불구하고, 단백뇨가 1g/24h이상(또는 1g/g 이상)인 경우 마. 동종각막이식술: 1) Cyclosporine에 부작용"
+221,1g,review_micro_as_g,1 ㎍ (검토),g(그램)로 OCR되었으나 소량(1g) → ㎍ 오인 가능성. 문맥 검토 요망.,")가 있는 경우 나) 최소 3개월동안 보존적인 치료에도 불구하고, 단백뇨가 1g/24h이상(또는 1g/g 이상)인 경우 마. 동종각막이식술: 1) Cyclosporine에 부작용이 있거나, Cyclo"
+221,1g,review_micro_as_g,1 ㎍ (검토),g(그램)로 OCR되었으나 소량(1g) → ㎍ 오인 가능성. 문맥 검토 요망.,2) 치료목적으로 투여 시 가) 투여대상: 스테로이드 저항성 또는 금기 환자 나) 투여용량: 1g 또는 15mg/kg을 1일 2회 아. 중증근무력증: Azathioprine 또는 스테로이드제에
+374,10g,review_micro_as_g,10 ㎍ (검토),g(그램)로 OCR되었으나 소량(10g) → ㎍ 오인 가능성. 문맥 검토 요망.,가. 만성신부전 환자의 빈혈치료(철결핍성 빈혈로 진단된 환자는 제외함) 1) 헤모글로불린(Hb) 10g/dL 이하 또는 헤마토크리트 (Hct) 30% 이하인 경우(투석을 받고 있지 않는 환자는 사구체여과율(G
+375,10g,review_micro_as_g,10 ㎍ (검토),g(그램)로 OCR되었으나 소량(10g) → ㎍ 오인 가능성. 문맥 검토 요망.,. 항암화학요법(Chemotherapy)을 받고 있는 비골수성 악성종양 환자의 빈혈치료 1) Hb 10g/dL 이하 또는 Hct 30% 이하인 경우 2) Hb 12g/dL 또는 Hct 36%까지 요양급여를
+376,10g,review_micro_as_g,10 ㎍ (검토),g(그램)로 OCR되었으나 소량(10g) → ㎍ 오인 가능성. 문맥 검토 요망.,가. 만성신부전 환자의 빈혈치료(철결핍성 빈혈로 진단된 환자는 제외함) 1) 헤모글로불린(Hb) 10g/dL 이하 또는 헤마토크리트 (Hct) 30% 이하인 경우(투석을 받고 있지 않는 환자는 사구체여과율(G
+376,10g,review_micro_as_g,10 ㎍ (검토),g(그램)로 OCR되었으나 소량(10g) → ㎍ 오인 가능성. 문맥 검토 요망.,. 항암화학요법(Chemotherapy)을 받고 있는 비골수성 악성종양 환자의 빈혈치료 1) Hb 10g/dL 이하 또는 Hct 30% 이하인 경우 2) Hb 12g/dL 또는 Hct 36%까지 요양급여를
+380,10g,review_micro_as_g,10 ㎍ (검토),g(그램)로 OCR되었으나 소량(10g) → ㎍ 오인 가능성. 문맥 검토 요망.,가. 만성신부전 환자의 빈혈치료(철결핍성 빈혈로 진단된 환자는 제외함) 1) 헤모글로불린(Hb) 10g/dL 이하 또는 헤마토크리트 (Hct) 30% 이하인 경우(투석을 받고 있지 않는 환자는 사구체여과율(G
+404,11g,review_micro_as_g,11 ㎍ (검토),g(그램)로 OCR되었으나 소량(11g) → ㎍ 오인 가능성. 문맥 검토 요망.,"담토록 함. - 아 래 - 가. 일반 환자 1) 헤모글로빈(Hb) 10g/dL(단, 임신부는 11g/dL) 이하이고 경구투여가 곤란한 경우로서 출혈 등이 있어 철분을 반드시 신속하게 투여할 필요성이 있는"
+404,10g,review_micro_as_g,10 ㎍ (검토),g(그램)로 OCR되었으나 소량(10g) → ㎍ 오인 가능성. 문맥 검토 요망.,"n) 20% 미만인 경우 2) 수술, 출산 등으로 인한 출혈로 신속한 투여가 필요한 환자는 Hb 10g/dL 이하인 경우 나. 투석중이 아닌 만성신부전증 환자 Hb 10g/dL 이하인 경우에 투여하고, 목표"
+405,10g,review_micro_as_g,10 ㎍ (검토),g(그램)로 OCR되었으나 소량(10g) → ㎍ 오인 가능성. 문맥 검토 요망.,turation 30% 미만인 경우 라. 항암화학요법을 받고 있는 비골수성 악성종양을 가진 환자 Hb 10g/dL 이하인 경우로서 1) 경구투여가 곤란한 환자로 Serum ferritin 100ng/mL 미
+568,1g,review_micro_as_g,1 ㎍ (검토),g(그램)로 OCR되었으나 소량(1g) → ㎍ 오인 가능성. 문맥 검토 요망.,"genitalium에 의한 비임균성 단순 생식기 감염 ○ 투여방법 1) 초치료 시 - 1g 한 번 투여 - 첫 날 500mg 1일 1회, 둘째 날부터 1일 1회 250mg을 4일간 투여"
+568,1.5g,review_micro_as_g,1.5 ㎍ (검토),g(그램)로 OCR되었으나 소량(1.5g) → ㎍ 오인 가능성. 문맥 검토 요망.,"- 첫 날 500mg 1일 1회, 둘째 날부터 1일 1회 250mg을 4일간 투여 (총 투여량 1.5g) 2) 치료 실패 또는 재발 시 가) 초치료로 azithromycin을 투여한 경우"
+568,2.5g,review_micro_as_g,2.5 ㎍ (검토),g(그램)로 OCR되었으나 소량(2.5g) → ㎍ 오인 가능성. 문맥 검토 요망.,"ine 투여 후, 첫 날 1g 1일 1회, 둘째 날부터 1일 1회 500mg을 3일간 투여 (총 투여량 2.5g) 나) 초치료로 doxycycline 또는 minocycline을 투여한 경우 - 첫 날"
+568,1g,review_micro_as_g,1 ㎍ (검토),g(그램)로 OCR되었으나 소량(1g) → ㎍ 오인 가능성. 문맥 검토 요망.,"나) 초치료로 doxycycline 또는 minocycline을 투여한 경우 - 첫 날 1g 1일 1회, 둘째 날부터 1일 1회 500mg을 3일간 투여 (총 투여량 2.5g) 3. 허가사항 범위를"
+631,1g,review_micro_as_g,1 ㎍ (검토),g(그램)로 OCR되었으나 소량(1g) → ㎍ 오인 가능성. 문맥 검토 요망.,·용량)를 초과하여 1g/kg를 2-3일간 나누어서 투여 나) 신생아패혈증 : 허가사항 범위를 초과하여 1g/kg로 투여 라. 특발성혈소판감소성자반증(ITP ; Idiopathic Thrombocytopenia P
+631,2g,review_micro_as_g,2 ㎍ (검토),g(그램)로 OCR되었으나 소량(2g) → ㎍ 오인 가능성. 문맥 검토 요망.,"kg/day를 5일간 투여하거나, 허가사항 범위(용법·용량)를 초과 하여 1g/kg/day로 2일간 또는 2g/kg/ day로 1일간 투여 2) 소아(만 16세 미만 소아에 적용) 가) 적응증: 아래의 1항목에 해당"
+632,2g,review_micro_as_g,2 ㎍ (검토),g(그램)로 OCR되었으나 소량(2g) → ㎍ 오인 가능성. 문맥 검토 요망.,"발병 위험이 있다고 진료의사가 판단하여 투여하는 경우 2) 투여용량 : 400mg/kg씩 5일까지 또는 2g/㎏ /day×1일 단, 1차 투여 종료 후 36시간 이상 발열이 지속되는 불응성 가와사키병(Refract"
+633,2g,review_micro_as_g,2 ㎍ (검토),g(그램)로 OCR되었으나 소량(2g) → ㎍ 오인 가능성. 문맥 검토 요망.,"eatine kinase)가 지속적으로 상승된 경우 2) 투여용량: 400mg/kg/day ×5일 (또는 2g/kg/day ×1일, 1g/kg/day ×2일)을 매월 반복하여 3개월 까지 투여가능하며 투여 후 호전되"
+633,1g,review_micro_as_g,1 ㎍ (검토),g(그램)로 OCR되었으나 소량(1g) → ㎍ 오인 가능성. 문맥 검토 요망.,"지속적으로 상승된 경우 2) 투여용량: 400mg/kg/day ×5일 (또는 2g/kg/day ×1일, 1g/kg/day ×2일)을 매월 반복하여 3개월 까지 투여가능하며 투여 후 호전되었다가 이후 다시 악화된 경"
+634,1g,review_micro_as_g,1 ㎍ (검토),g(그램)로 OCR되었으나 소량(1g) → ㎍ 오인 가능성. 문맥 검토 요망.,", 광선요법(Phototherapy)에도 호전되지 않아 교환수혈 위험이 있는 경우 2) 투여용량: 0.5-1g/kg(1회 투여 이후 효과가 불 충분한 경우 12시간 내 재투여 가능함) 마. 심상성(보통) 천포창, 낙엽"
+37,alpha,suspect_greek_broken,(문맥상 α 검토),a/b/g 형태가 α로 깨졌을 가능성.,te 경구제 영풍 클로미펜시트르산염정 고시 제2017-180호 17.10.1. 367 Darbepoetin alpha 주사제 네스프프리필드시린지주 등 고시 제2019-57호 19.4.1. 367 Erythropoietin 주
+38,alpha,suspect_greek_broken,(문맥상 α 검토),a/b/g 형태가 α로 깨졌을 가능성.,❘ 31 ❘ 성 분 명 품 명 고시번호 시행일 페이지 Lutropin alpha (r-hLH) 주사제 루베리스주 75IU 고시 제2024-55호 24.4.1. 371 Menotrophin
+40,G-,suspect_greek_broken,(문맥상 γ 검토),a/b/g 형태가 γ로 깨졌을 가능성.,423 Emicizumab 주사제 헴리브라피하주사 30mg 등 고시 제2023-82호 23.5.1. 426 G-CSF 주사제 filgrastim 그라신프리필드 시린지주 등 고시 제2013-127호 13.9.1. 428
+40,gamma,suspect_greek_broken,(문맥상 γ 검토),a/b/g 형태가 γ로 깨졌을 가능성.,22.8.1. 437 Recombinant blood coagulation factor Ⅸ Nonacog gamma 주사제 릭수비스주 고시 제2018-280호 19.1.1. 438 Romiplostim 주사제 로미플레이트주
+51,alpha,suspect_greek_broken,(문맥상 α 검토),a/b/g 형태가 α로 깨졌을 가능성.,··········································· 553 Darbepoetin alpha 주사제···································· 367 Darunavir ethan
+52,G-,suspect_greek_broken,(문맥상 γ 검토),a/b/g 형태가 γ로 깨졌을 가능성.,vir 주사제················································ 583 G-CSF 주사제 filgrastim ········································
+53,alpha,suspect_greek_broken,(문맥상 α 검토),a/b/g 형태가 α로 깨졌을 가능성.,Lung surfactant (폐계면활성제) 주사제·················· 316 Lutropin alpha (r-hLH) 주사제······························ 371 Macitentan 경구
+55,gamma,suspect_greek_broken,(문맥상 γ 검토),a/b/g 형태가 γ로 깨졌을 가능성.,······· 434 Recombinant blood coagulation factor Ⅸ Nonacog gamma 주사제·················································· 438 R
+260,Beta,suspect_greek_broken,(문맥상 β 검토),a/b/g 형태가 β로 깨졌을 가능성.,하는 경우 ※ ICS-LABA: Inhaled CorticoSteroids-Long Acting Beta-2 Agonist LAMA: Long Acting Muscarinic Antagonist - 다 음
+321,Beta,suspect_greek_broken,(문맥상 β 검토),a/b/g 형태가 β로 깨졌을 가능성.,해당하는 경우 ※ ICS-LABA: Inhaled CorticoSteroids-Long Acting Beta-2 Agonist LAMA: Long Acting Muscarinic Antagonist - 다 음
+325,Beta,suspect_greek_broken,(문맥상 β 검토),a/b/g 형태가 β로 깨졌을 가능성.,해당하는 경우 ※ ICS-LABA: Inhaled CorticoSteroids-Long Acting Beta-2 Agonist LAMA: Long Acting Muscarinic Antagonist - 다
+328,Beta,suspect_greek_broken,(문맥상 β 검토),a/b/g 형태가 β로 깨졌을 가능성.,만족하는 경우 ※ ICS-LABA: Inhaled CorticoSteroids-Long Acting Beta-2 Agonist LAMA: Long Acting Muscarinic Antagonist - 다 음
+347,beta,suspect_greek_broken,(문맥상 β 검토),a/b/g 형태가 β로 깨졌을 가능성.,"확보가 불가능한 경우) 나. 투여방법 ○ 효소대체요법(agalsidase alfa, agalsidase beta)과 병용투여는 인정하지 아니함. 남성 ②미세알부민뇨(>30mg/g) (최소 24시간 간격 2회 이상 검출"
+374,alpha,suspect_greek_broken,(문맥상 α 검토),a/b/g 형태가 α로 깨졌을 가능성.,"을 환자가 부담토록 함. (고시 제2017-180호, ʼ17.10.1.) [249] Darbepoetin alpha 주사제 (품명: 네스프프리필드시린지 주 등) 1. 허가사항 범위 내에서 아래와 같은 기준으로 투여 시"
+378,alpha,suspect_greek_broken,(문맥상 α 검토),a/b/g 형태가 α로 깨졌을 가능성.,"투여 시 요양급여를 인정함. (고시 제2019-210호, ʼ19.10.1.) [249] Lutropin alpha (r-hLH) 주사제 (품명: 루베리스주 75IU) 허가사항 범위 내에서 아래와 같은 기준으로 투여 시"
+435,G-,suspect_greek_broken,(문맥상 γ 검토),a/b/g 형태가 γ로 깨졌을 가능성.,"/내과 전문의의 처방에 한하여 요양 급여를 인정함. (고시 제2023-82호, ’23.5.1.) [339] G-CSF 주사제 filgrastim (품명: 그라신프리필드 시린지주 등), Lenograstim 1. 허"
+437,G-,suspect_greek_broken,(문맥상 γ 검토),a/b/g 형태가 γ로 깨졌을 가능성.,이상) 가) 비호지킨림프종 및 다발골수종 환자에서 기존의 가동화 방안 (항암제와 과립세포군촉진인자(G-CSF)의 병용 또는 G-CSF 단독)으로 실패하여 조혈모세포가 충분히 채집되지 않은 경우※ ※
+437,G-,suspect_greek_broken,(문맥상 γ 검토),a/b/g 형태가 γ로 깨졌을 가능성.,림프종 및 다발골수종 환자에서 기존의 가동화 방안 (항암제와 과립세포군촉진인자(G-CSF)의 병용 또는 G-CSF 단독)으로 실패하여 조혈모세포가 충분히 채집되지 않은 경우※ ※ 비호지킨림프종: 3일간 채
+438,G-,suspect_greek_broken,(문맥상 γ 검토),a/b/g 형태가 γ로 깨졌을 가능성.,g 미만인 경우 나) 비호지킨림프종 및 다발골수종 환자에서 가동화 방안(항암제와 과립세포군촉진인자(G-CSF)의 병용 또는 G-CSF 단독) 시행 중 다음의 ① 또는 ②에 해당하여 조혈모세포 채집의 실패가
+438,G-,suspect_greek_broken,(문맥상 γ 검토),a/b/g 형태가 γ로 깨졌을 가능성.,비호지킨림프종 및 다발골수종 환자에서 가동화 방안(항암제와 과립세포군촉진인자(G-CSF)의 병용 또는 G-CSF 단독) 시행 중 다음의 ① 또는 ②에 해당하여 조혈모세포 채집의 실패가 예상되는 경우 채집기간 중
+438,G-,suspect_greek_broken,(문맥상 γ 검토),a/b/g 형태가 γ로 깨졌을 가능성.,"* ② 조혈모세포 채집 첫째 날 채집량 < 1.0 × 106 CD34+cell/kg * 측정 시기: “G-CSF 단독”으로 가동화한 경우, G-CSF 투여 4-5일째 “G-CSF+항암화학요법”으로 가동화한 경우,"
+438,G-,suspect_greek_broken,(문맥상 γ 검토),a/b/g 형태가 γ로 깨졌을 가능성.,"< 1.0 × 106 CD34+cell/kg * 측정 시기: “G-CSF 단독”으로 가동화한 경우, G-CSF 투여 4-5일째 “G-CSF+항암화학요법”으로 가동화한 경우, WBC > 3000/uL 일 때"
+438,G-,suspect_greek_broken,(문맥상 γ 검토),a/b/g 형태가 γ로 깨졌을 가능성.,"D34+cell/kg * 측정 시기: “G-CSF 단독”으로 가동화한 경우, G-CSF 투여 4-5일째 “G-CSF+항암화학요법”으로 가동화한 경우, WBC > 3000/uL 일 때 2) 소아(만1세∼만18세"
+438,G-,suspect_greek_broken,(문맥상 γ 검토),a/b/g 형태가 γ로 깨졌을 가능성.,18세 미만) 가) 림프종 및 고형악성종양 환자에서 기존의 가동화방안 (항암제와 과립세포군촉진인자 (G-CSF)의 병용 또는 G-CSF 단독)으로 실패하여 조혈모세포가 충분히 채집되지 않은 경우※ ※
+438,G-,suspect_greek_broken,(문맥상 γ 검토),a/b/g 형태가 γ로 깨졌을 가능성.,림프종 및 고형악성종양 환자에서 기존의 가동화방안 (항암제와 과립세포군촉진인자 (G-CSF)의 병용 또는 G-CSF 단독)으로 실패하여 조혈모세포가 충분히 채집되지 않은 경우※ ※ 림프종: 3일간 채집량이
+438,G-,suspect_greek_broken,(문맥상 γ 검토),a/b/g 형태가 γ로 깨졌을 가능성.,/kg 미만인 경우 나) 림프종 및 고형악성종양 환자에서 가동화 방안 (항암제와 과립세포군촉진인자 (G-CSF)의 병용 또는 G-CSF 단독) 시행 중 다음의 ① 또는 ②에 해당하여 조혈모세포 채집의 실패가
+438,G-,suspect_greek_broken,(문맥상 γ 검토),a/b/g 형태가 γ로 깨졌을 가능성.,나) 림프종 및 고형악성종양 환자에서 가동화 방안 (항암제와 과립세포군촉진인자 (G-CSF)의 병용 또는 G-CSF 단독) 시행 중 다음의 ① 또는 ②에 해당하여 조혈모세포 채집의 실패가 예상되는 경우 채집기간 중
+439,G-,suspect_greek_broken,(문맥상 γ 검토),a/b/g 형태가 γ로 깨졌을 가능성.,"* ② 조혈모세포 채집 첫째 날 채집량 < 1.0 × 106 CD34+cell/kg * 측정 시기: “G-CSF 단독”으로 가동화한 경우, G-CSF 투여 4-5일째 “G-CSF+항암화학요법”으로 가동화한 경우,"
+439,G-,suspect_greek_broken,(문맥상 γ 검토),a/b/g 형태가 γ로 깨졌을 가능성.,"< 1.0 × 106 CD34+cell/kg * 측정 시기: “G-CSF 단독”으로 가동화한 경우, G-CSF 투여 4-5일째 “G-CSF+항암화학요법”으로 가동화한 경우, WBC > 3000/uL 일 때"
+439,G-,suspect_greek_broken,(문맥상 γ 검토),a/b/g 형태가 γ로 깨졌을 가능성.,"D34+cell/kg * 측정 시기: “G-CSF 단독”으로 가동화한 경우, G-CSF 투여 4-5일째 “G-CSF+항암화학요법”으로 가동화한 경우, WBC > 3000/uL 일 때 나. 투여 횟수 ○ 2"
+445,gamma,suspect_greek_broken,(문맥상 γ 검토),a/b/g 형태가 γ로 깨졌을 가능성.,.1.) [339] Recombinant blood coagulation factor Ⅸ Nonacog gamma 주사제 (품명: 릭수비스주) 1. 입원환자의 경우 허가사항 범위 내에서 투여 시 요양급여 함을 원칙으로
+454,Beta,suspect_greek_broken,(문맥상 β 검토),a/b/g 형태가 β로 깨졌을 가능성.,"됨. 이는 다음 요소의 결핍증 또는 장애에 따른 호모시스틴뇨증을 포함함. 1) Cystathionine Beta-Synthase(CBS) 2) 5,10-Methylenetetrahydrofolate reductase"
+575,G-,suspect_greek_broken,(문맥상 γ 검토),a/b/g 형태가 γ로 깨졌을 가능성.,여를 인정함. - 아 래 - 가. 급성골수성백혈병에 내인성감염의 예방을 위해 경구 투여로 위장관멸균(G-I sterilization) 나. 뇌 척수액에 농(Pus)이 증명된 경우 경막외(Epidural spac
+754,beta,suspect_greek_broken,(문맥상 β 검토),a/b/g 형태가 β로 깨졌을 가능성.,"lating hormone (follitropin, follitropin alfa, follitropin beta, corifollitropin alfa,urofollitropin) 1등급 251 Fosinopril 2"
+755,beta,suspect_greek_broken,(문맥상 β 검토),a/b/g 형태가 β로 깨졌을 가능성.,rgine 2등급 307 Insulin glulisine 2등급 308 <삭제> 309 Interferon beta-1a 2등급 310 Interferon beta-1b 2등급 311 Interleukin-2 = aldes
+755,beta,suspect_greek_broken,(문맥상 β 검토),a/b/g 형태가 β로 깨졌을 가능성.,sine 2등급 308 <삭제> 309 Interferon beta-1a 2등급 310 Interferon beta-1b 2등급 311 Interleukin-2 = aldesleukin 2등급 312 Ipragliflozi
+776,beta,suspect_greek_broken,(문맥상 β 검토),a/b/g 형태가 β로 깨졌을 가능성.,olimus 2등급 1004 Evening primrose oil 2등급 1005 Peginterferon beta-1a 2등급 1006 Trientine 2등급 1007 Zinc acetate 2등급 단일제에 한함 100
+37,20mcg,normalize,20 ㎍,ASCII 'ug/mcg' → 기호 '㎍'로 정규화 권장.,28정1밀리그램 등 고시 제2023-184호 23.10.1. 363 Levonorgestrol 제제 미레나 20mcg 고시 제2013-127호 13.9.1. 364 Medroxyprogesterone acetate 경구제 프
+38,500mcg,normalize,500 ㎍,ASCII 'ug/mcg' → 기호 '㎍'로 정규화 권장.,93호 17.11.1. 384 Recombinant human epidermal growth factor 500mcg (6×105 IU) 외용제 이지에프외용액 0.005% 고시 제2018-253호 18.12.1. 384 ✤
+39,20.87mcg,normalize,20.87 ㎍,ASCII 'ug/mcg' → 기호 '㎍'로 정규화 권장.,mecrolimus 외용제 엘리델크림 1% 고시 제2019-57호 19.4.1. 391 Tacalcitol 20.87mcg/g 외용제 본알파하이연고 고시 제2013-127호 13.9.1. 391 Tacrolimus 외용제 프로토픽
+42,10mcg,normalize,10 ㎍,ASCII 'ug/mcg' → 기호 '㎍'로 정규화 권장.,"호 19.2.1. 505 Indium chloride(111In) 3.3mCi, Pentetreotide 10mcg 주사제 옥트레오스캔주사 고시 제2013-127호 13.9.1. 506 Strontium chloride ("
+53,10mcg,normalize,10 ㎍,ASCII 'ug/mcg' → 기호 '㎍'로 정규화 권장.,"oate 흡입제·· 316 Indium chloride(111In) 3.3mCi, Pentetreotide 10mcg 주사제·······················································"
+55,500mcg,normalize,500 ㎍,ASCII 'ug/mcg' → 기호 '㎍'로 정규화 권장.,············ 434 Recombinant human epidermal growth factor 500mcg (6×105 IU) 외용제······························· 384 Remifenta
+56,20.87mcg,normalize,20.87 ㎍,ASCII 'ug/mcg' → 기호 '㎍'로 정규화 권장.,주사제········································ 442 Tacalcitol 20.87mcg/g 외용제······························ 391 Tacrolimus 외용제·····
+61,20mcg,normalize,20 ㎍,ASCII 'ug/mcg' → 기호 '㎍'로 정규화 권장.,··················································· 342 미레나 20mcg ······················································ 364
+98,37.5ug,normalize,37.5 ㎍,ASCII 'ug/mcg' → 기호 '㎍'로 정규화 권장.,"ydromorphone 1일당 24mg Tapentadol 1일당 300mg Fentanyl 패취제 3일당 37.5ug/h Morphine 경구제 1일당 90mg 3) 투여기간 1회 처방당 최대 30일까지 인정하며, 속효"
+371,20mcg,normalize,20 ㎍,ASCII 'ug/mcg' → 기호 '㎍'로 정규화 권장.,"(고시 제2023-184호, ʼ23.10.1.) [247] Levonorgestrol 제제 (품명: 미레나 20mcg) 1. 허가사항 중 월경과다증, 월경곤란증, 에스트로겐 대체 요법시 프로게스틴의 국소적용에 아래와 같은 기"
+391,500mcg,normalize,500 ㎍,ASCII 'ug/mcg' → 기호 '㎍'로 정규화 권장.,7.11.1.) [263] Recombinant human epidermal growth factor 500mcg (6×105 IU) 외용제 (품명: 이지에프외용액 0.005%) 허가사항 범위 내에서 아래와 같은 기준
+398,20.87mcg,normalize,20.87 ㎍,ASCII 'ug/mcg' → 기호 '㎍'로 정규화 권장.,"수 있는 밀봉요법은 피함). (고시 제2019-57호, ʼ19.4.1.) [269] Tacalcitol 20.87mcg/g 외용제 (품명: 본알파하이연고) 타 약제로 4주 이상 사용하여도 효과가 나타나지 않는 경우 2차적으"
+513,10mcg,normalize,10 ㎍,ASCII 'ug/mcg' → 기호 '㎍'로 정규화 권장.,"준 및 방법 [431] Indium chloride(111In) 3.3mCi, Pentetreotide 10mcg 주사제 (품명: 옥트레오스캔주사) 전산화단층영상진단(CT), 자기공명영상진단(MRI) 등 기존의 진단방"
+29,100mg,ok,100 mg,정상 밀리그램 표기(ASCII).,제 대웅프리미돈정 고시 제2018-18호 18.2.1. 121 Rufinamide 경구제 이노베론필름코팅정 100mg 등 고시 제2019-240호 19.11.1. 121 Sodium valproate 주사제 데파킨주 등 고시
+29,300mg,ok,300 mg,정상 밀리그램 표기(ASCII).,"13.9.1. 122 ✤ 114 해열, 진통, 소염제 자오가·우슬·방풍·두충·구척·흑두 건조엑스(20→1) 300mg 신바로캡슐 등 고시 제2014-140호 14.9.1. 123 편두통 치료제 고시 제2020-265호 20."
+29,60mg,ok,60 mg,정상 밀리그램 표기(ASCII).,알콕시아정 30밀리그램 등 고시 제2021-127호 21.5.1. 124 Loxoprofen sodium 60mg 경구제 동화록소닌정 등 고시 제2023-296호 24.1.1. 125 Methotrexate 프리필드시린지
+30,100mg,ok,100 mg,정상 밀리그램 표기(ASCII).,serin 경구제 로나센정 2밀리그램 등 고시 제2017-180호 17.10.1. 130 Bupropion 100mg 경구제 웰정 고시 제2013-127호 13.9.1. 130 Bupropion HCl 150mg 경구제 웰부
+30,150mg,ok,150 mg,정상 밀리그램 표기(ASCII).,ropion 100mg 경구제 웰정 고시 제2013-127호 13.9.1. 130 Bupropion HCl 150mg 경구제 웰부트린서방정 등 고시 제2013-127호 13.9.1. 130 Clozapine 경구제 클로자릴정
+31,0.1mg,ok,0.1 mg,정상 밀리그램 표기(ASCII).,분 명 품 명 고시번호 시행일 페이지 Clonidine hydrochloride 경구제 켑베이서방정 0.1mg 고시 제2019-252호 19.12.5. 144 Dimethyl fumarate 경구제 텍피데라캡슐 고시
+31,20mg,ok,20 mg,정상 밀리그램 표기(ASCII).,"주 고시 제2024-130호 24.7.1. 151 Glatiramer acetate 주사제 코팍손프리필드주 20mg/1ml 등 고시 제2021-26호 21.2.1. 152 Memantine 경구제 에빅사액 등, 에빅사정 등"
+31,200mg,ok,200 mg,정상 밀리그램 표기(ASCII).,"ntine 경구제 에빅사액 등, 에빅사정 등 고시 제2019-21호 19.2.1. 153 Modafinil 200mg 경구제 프로비질정 등 고시 제2021-294호 21.12.1. 154 Armodafinil 경구제 누비질정"
+31,25mg,ok,25 mg,정상 밀리그램 표기(ASCII).,등 고시 제2021-26호 21.2.1. 167 ✤ 121 국소마취제 Levobupivacaine HCl 25mg 주사제 카이로케인주 고시 제2013-127호 13.9.1. 169 Lidocaine HCl 주사제 휴온스
+31,10mg,ok,10 mg,정상 밀리그램 표기(ASCII).,te 주사제 아트라주 등 고시 제2017-193호 17.11.1. 170 baclofen 주사제 리오레살주 10mg/5mL 고시 제2022-131호 22.6.1. 170 Eperisone hydrochloride 경구제 뮤
+31,1ml,ok,1 mL,정상 밀리리터 표기.,"제2024-130호 24.7.1. 151 Glatiramer acetate 주사제 코팍손프리필드주 20mg/1ml 등 고시 제2021-26호 21.2.1. 152 Memantine 경구제 에빅사액 등, 에빅사정 등 고시"
+31,5mL,ok,5 mL,정상 밀리리터 표기.,제 아트라주 등 고시 제2017-193호 17.11.1. 170 baclofen 주사제 리오레살주 10mg/5mL 고시 제2022-131호 22.6.1. 170 Eperisone hydrochloride 경구제 뮤렉스정
+31,5ml,ok,5 mL,정상 밀리리터 표기.,"외용제 에이베리스점안액0.002% 고시 제2021-26호 21.2.1. 177 Rebamipide 0.1g/5ml 외용제 레바아이점안액2% 등, 레바아이점안액(1회용) 등 고시 제2023-197호 23.11.1. 177"
+32,18mg,ok,18 mg,정상 밀리그램 표기(ASCII).,❘ 25 ❘ 성 분 명 품 명 고시번호 시행일 페이지 Sodium hyaluronate 18mg/10ml 외용제비스메드점안액 고시 제2013-127호 13.9.1. 177 Tafluprost 외용제 타플
+32,10ml,ok,10 mL,정상 밀리리터 표기.,❘ 25 ❘ 성 분 명 품 명 고시번호 시행일 페이지 Sodium hyaluronate 18mg/10ml 외용제비스메드점안액 고시 제2013-127호 13.9.1. 177 Tafluprost 외용제 타플로탄점안액
+33,45mg,ok,45 mg,정상 밀리그램 표기(ASCII).,26 ❘ 성 분 명 품 명 고시번호 시행일 페이지 Ustekinumab 주사제 스텔라라 프리필드주 45mg 등 고시 제2024-130호 24.7.1. 246 ✤ 149 기타의 알레르기용약 Epinastine 경구제
+33,30mg,ok,30 mg,정상 밀리그램 표기(ASCII).,정 등 고시 제2013-127호 13.9.1. 263 Fimasartan potassium 경구제 카나브정 30mg 등 고시 제2017-193호 17.11.1. 263 Iloprost 흡입액 벤타비스흡입액 고시 제2019-
+33,1mg,ok,1 mg,정상 밀리그램 표기(ASCII).,"fil 경구제 파텐션정 20밀리그램 등 고시 제2019-93호 19.6.7. 267 Treprostinil 1mg/mL, 2.5mg/mL, 5mg/mL 주사제레모둘린 주사 고시 제2019-93호 19.6.7. 269 Z"
+33,2.5mg,ok,2.5 mg,정상 밀리그램 표기(ASCII).,"파텐션정 20밀리그램 등 고시 제2019-93호 19.6.7. 267 Treprostinil 1mg/mL, 2.5mg/mL, 5mg/mL 주사제레모둘린 주사 고시 제2019-93호 19.6.7. 269 Zofenopril"
+33,5mg,ok,5 mg,정상 밀리그램 표기(ASCII).,"등 고시 제2019-93호 19.6.7. 267 Treprostinil 1mg/mL, 2.5mg/mL, 5mg/mL 주사제레모둘린 주사 고시 제2019-93호 19.6.7. 269 Zofenopril calcium 경"
+34,25mg,ok,25 mg,정상 밀리그램 표기(ASCII).,n 경구제 아스피린 프로텍트정 100밀리그람 등 고시 제2018-97호 18.6.1. 292 Aspirin 25mg + Dipyridamole 200mg 경구제 아디녹스캡슐 등 고시 제2018-18호 18.2.1. 294
+34,200mg,ok,200 mg,정상 밀리그램 표기(ASCII).,밀리그람 등 고시 제2018-97호 18.6.1. 292 Aspirin 25mg + Dipyridamole 200mg 경구제 아디녹스캡슐 등 고시 제2018-18호 18.2.1. 294 Citicoline 경구제 소마지나정
+34,500mg,ok,500 mg,정상 밀리그램 표기(ASCII).,일성독시움정 등 고시 제2013-127호 13.9.1. 294 Ferric citrate 경구제 네폭실캡슐 500mg 고시 제2023-120호 23.7.1. 295 Finerenone 경구제 케렌디아정 10밀리그램 등 고시
+34,5mg,ok,5 mg,정상 밀리그램 표기(ASCII).,"8 Milrinone 주사제 프리마코주 고시 제2013-127호 13.9.1. 299 Nicergoline 5mg, 10mg 경구제 사미온정 등 고시 제2015-239호 16.1.1. 300 Pentoxifylline 경"
+34,10mg,ok,10 mg,정상 밀리그램 표기(ASCII).,"rinone 주사제 프리마코주 고시 제2013-127호 13.9.1. 299 Nicergoline 5mg, 10mg 경구제 사미온정 등 고시 제2015-239호 16.1.1. 300 Pentoxifylline 경구제 트렌탈"
+34,400mg,ok,400 mg,정상 밀리그램 표기(ASCII).,"제 엔트레스토 필름코팅정 50㎎ 등 고시 제2023-120호 23.7.1. 300 Sevelamer HCl 400mg, 800mg 경구제레나젤정 등 고시 제2018-174호 18.9.1. 301 Sevelamer carbon"
+34,800mg,ok,800 mg,정상 밀리그램 표기(ASCII).,"필름코팅정 50㎎ 등 고시 제2023-120호 23.7.1. 300 Sevelamer HCl 400mg, 800mg 경구제레나젤정 등 고시 제2018-174호 18.9.1. 301 Sevelamer carbonate 800"
+34,800mg,ok,800 mg,정상 밀리그램 표기(ASCII).,"0mg 경구제레나젤정 등 고시 제2018-174호 18.9.1. 301 Sevelamer carbonate 800mg 경구제 렌벨라산, 렌벨라정 등"
+34,α,ok,(그대로),그리스 문자 정상 검출.,rostadil 주사제 에글란딘주 등 고시 제2021-294호 21.12.1. 288 Alprostadil α-cyclodextrin 주사제 알푸로덱스주 20마이크로그램 고시 제2022-207호 22.9.1. 289
+34,α,ok,(그대로),그리스 문자 정상 검출.,m carbonate 경구제 포스레놀정 등 고시 제2018-174호 18.9.1. 298 Limaprost α-cyclodextrin 경구제 동아오팔몬정 등 고시 제2023-296호 24.1.1. 298 L-Carni
+35,2.5mg,ok,2.5 mg,정상 밀리그램 표기(ASCII).,카정 15밀리그램 등 고시 제2022-250호 22.11.1. 302 Vericiguat 경구제 베르쿠보정 2.5mg 등 고시 제2023-165호 23.9.1. 304 vitis vinifera ext. 엔테론정 50밀리그람
+36,20mg,ok,20 mg,정상 밀리그램 표기(ASCII).,용제 헥사메딘가글액 등 고시 제2018-253호 18.12.1. 326 Doxycycline hyclate 20mg 경구제 덴티스타캡슐 고시 제2022-160호 22.7.1. 326 ✤ 232 소화성궤양용제 프로톤 펌프 억
+36,2mg,ok,2 mg,정상 밀리그램 표기(ASCII).,"놀텍정 고시 제2018-58호 18.4.1. 333 Irsogladine maleate 경구제 가스론엔정 2mg 등, 4mg 고시 제2013-127호 13.9.1. 333 Lafutidine 경구제 스토가정10mg 등"
+36,4mg,ok,4 mg,정상 밀리그램 표기(ASCII).,"제2018-58호 18.4.1. 333 Irsogladine maleate 경구제 가스론엔정 2mg 등, 4mg 고시 제2013-127호 13.9.1. 333 Lafutidine 경구제 스토가정10mg 등 고시 제201"
+36,5mg,ok,5 mg,정상 밀리그램 표기(ASCII).,✤ 239 기타의 소화기관용약 Beclomethasone dipropionate 경구제 클리퍼지속성 장용정 5mg 고시 제2013-127호 13.9.1. 338 Calcium polycarbophil 경구제 실콘정 등 고
+37,14mg,ok,14 mg,정상 밀리그램 표기(ASCII).,등 고시 제2013-127호 13.9.1. 338 E.Coli strain Nissle 1917 동결건조물 14mg 경구제뮤타플로캡슐 고시 제2017-193호 17.11.1. 338 Mesalazine 제제 펜타사 좌약 등
+37,24mg,ok,24 mg,정상 밀리그램 표기(ASCII).,고시 제2018-253호 18.12.1. 342 Somatrogon 주사제(성장호르몬제) 엔젤라프리필드펜주 24mg 등 고시 제2023-165호 23.9.1. 343 Somatropin 서방형 주사제 (성장호르몬제) 유트로
+37,2.3mg,ok,2.3 mg,정상 밀리그램 표기(ASCII).,사메타손주사액 등 고시 제2019-313호 20.1.1. 358 Budesonide (micronized) 2.3mg 제제엔토코트 고시 제2022-160호 22.7.1. 359 Deflazacort 경구제 캘코트정 등 고시
+37,5000IU,ok,5000 IU,정상 국제단위 표기.,주사제 고시 제2022-111호 22.5.1. 366 태반성성선자극호르몬 (hCG) 주사제 아이브이에프씨주 5000IU 등 고시 제2017-180호 17.10.1. 367 Clomiphene citrate 경구제 영풍 클로미펜
+37,α,ok,(그대로),그리스 문자 정상 검출.,ropoietin 주사제 에포카인주 등 고시 제2019-38호 19.3.1. 369 Follitropin-α + lutropin α(r-hLH) 복합주사제퍼고베리스주 고시 제2024-55호 24.4.1. 370 Gn
+37,α,ok,(그대로),그리스 문자 정상 검출.,에포카인주 등 고시 제2019-38호 19.3.1. 369 Follitropin-α + lutropin α(r-hLH) 복합주사제퍼고베리스주 고시 제2024-55호 24.4.1. 370 GnRH antagonist
+38,5mg,ok,5 mg,정상 밀리그램 표기(ASCII).,"377 ✤ 259 기타의 비뇨생식기관 및 항문용약 5알파 환원효소 억제제 경구제 (finasteride 5mg, dutasteride 0.5mg) 고시 제2019-240호 19.11.8. 378 Alfuzosin 경구"
+38,0.5mg,ok,0.5 mg,정상 밀리그램 표기(ASCII).,"생식기관 및 항문용약 5알파 환원효소 억제제 경구제 (finasteride 5mg, dutasteride 0.5mg) 고시 제2019-240호 19.11.8. 378 Alfuzosin 경구제 자트랄엑스엘정10밀리그람 등 고"
+38,0.5mg,ok,0.5 mg,정상 밀리그램 표기(ASCII).,"Atosiban 주사제 트랙토실주 등 고시 제2015-184호 15.11.1. 379 dutasteride 0.5mg, tamsulosin hydrochloride 0.4mg 복합경구제 듀오다트캡슐 고시 제2022-56호"
+38,0.4mg,ok,0.4 mg,정상 밀리그램 표기(ASCII).,"호 15.11.1. 379 dutasteride 0.5mg, tamsulosin hydrochloride 0.4mg 복합경구제 듀오다트캡슐 고시 제2022-56호 22.3.1. 379 Fesoterodine fumarate"
+38,4mg,ok,4 mg,정상 밀리그램 표기(ASCII).,"고시 제2022-56호 22.3.1. 379 Fesoterodine fumarate 경구제 토비애즈서방정 4mg, 8mg 고시 제2013-127호 13.9.1. 380 Mirabegron 경구제 베타미가서방정 등 고시"
+38,8mg,ok,8 mg,정상 밀리그램 표기(ASCII).,"2022-56호 22.3.1. 379 Fesoterodine fumarate 경구제 토비애즈서방정 4mg, 8mg 고시 제2013-127호 13.9.1. 380 Mirabegron 경구제 베타미가서방정 등 고시 제2020"
+38,4mg,ok,4 mg,정상 밀리그램 표기(ASCII).,구제 유로시트라씨산 등 고시 제2019-191호 19.9.1. 381 Silodosin 경구제 트루패스캡슐 4mg 등 고시 제2017-62호 17.4.1. 381 Solifenacin 경구제 베시케어정 등 고시 제2016
+38,12.5mg,ok,12.5 mg,정상 밀리그램 표기(ASCII).,% 고시 제2018-253호 18.12.1. 389 ✤ 266 피부연화제(부식제를 포함) Imiquimod 12.5mg 외용제 알다라크림 고시 제2016-49호 16.4.1. 390 ✤ 269 기타의 외피용약 Calcipotr
+38,75IU,ok,75 IU,정상 국제단위 표기.,분 명 품 명 고시번호 시행일 페이지 Lutropin alpha (r-hLH) 주사제 루베리스주 75IU 고시 제2024-55호 24.4.1. 371 Menotrophin 주사제 아이브이에프엠주 75IU 등 고
+38,75IU,ok,75 IU,정상 국제단위 표기.,리스주 75IU 고시 제2024-55호 24.4.1. 371 Menotrophin 주사제 아이브이에프엠주 75IU 등 고시 제2022-111호 22.5.1. 372 Menotrophin HP 주사제 아이브이에프엠 에이치피
+38,105 IU,ok,105 IU,정상 국제단위 표기.,"1. 384 Recombinant human epidermal growth factor 500mcg (6×105 IU) 외용제 이지에프외용액 0.005% 고시 제2018-253호 18.12.1. 384 ✤ 264 진통, 진양"
+38,β,ok,(그대로),그리스 문자 정상 검출.,HP 주사제 아이브이에프엠 에이치피주 등 Methoxy polyethylene glycol-epoetin β 주사제미쎄라프리필드주 고시 제2019-38호 19.3.1. 373 Octreotide 주사제 산도스타틴주
+39,200mg,ok,200 mg,정상 밀리그램 표기(ASCII).,"주, 페린젝트주 등 고시 제2024-72호 24.5.1. 397 Iron acetyl-transferrin 200mg 경구제 알부맥스캅셀 등 고시 제2013-127호 13.9.1. 398 ✤ 325 단백아미노산 제제 경장영양"
+39,α,ok,(그대로),그리스 문자 정상 검출.,L-alanyl-L-glutamine 주사제 디펩티벤주 등 고시 제2019-240호 19.11.1. 402 α-Keto-DL-isoleucine calcium 67.0mg외 9종 경구제케토스테릴정 고시 제2013-12
+40,30mg,ok,30 mg,정상 밀리그램 표기(ASCII).,25밀리그램 등 고시 제2024-100호 24.6.1. 423 Emicizumab 주사제 헴리브라피하주사 30mg 등 고시 제2023-82호 23.5.1. 426 G-CSF 주사제 filgrastim 그라신프리필드 시린지
+40,100mg,ok,100 mg,정상 밀리그램 표기(ASCII).,l 유로솔액 등 고시 제2020-265호 20.12.1. 445 ✤ 391 간장질환용제 Lamivudine 100mg 경구제 제픽스정 등 고시 제2019-93호 19.6.7. 446 ✤ 392 해독제 구형흡착탄 경구제 크레메
+40,3.5mg,ok,3.5 mg,정상 밀리그램 표기(ASCII).,콜킨정 등 고시 제2013-127호 13.9.1. 450 ✤ 395 효소제제 Agalsidase alfa 3.5mg 주사제 레프라갈주 고시 제2019-313호 20.1.1. 451
+40,500 IU,ok,500 IU,정상 국제단위 표기.,❘ 성 분 명 품 명 고시번호 시행일 페이지 Damoctocog alfa pegol 주사제 지비주 500 IU 등 고시 제2023-184호 23.10.1. 422 Eltrombopag olamine 경구제 레볼레이드정
+40,250 IU,ok,250 IU,정상 국제단위 표기.,on factor VIII-Fc fusion protein Efmoroctocog α 주사제 엘록테이트주 250 IU 등 고시 제2023-146호 23.8.1. 434 Recombinant blood coagulation f
+40,250 IU,ok,250 IU,정상 국제단위 표기.,"lood coagulation factor Ⅷ, Rurioctocog α pegol 주사제 애디노베이트주 250 IU 등 Lonoctocog alfa 주사제 앱스틸라주 250 IU 등 Recombinant blood coag"
+40,250 IU,ok,250 IU,정상 국제단위 표기.,ocog α pegol 주사제 애디노베이트주 250 IU 등 Lonoctocog alfa 주사제 앱스틸라주 250 IU 등 Recombinant blood coagulation factor Ⅸ 주사제베네픽스주 고시 제2020-
+40,250 IU,ok,250 IU,정상 국제단위 표기.,"or Ⅸ, albumun fusion protein Albutrepenonacog α 주사제 아이델비온주 250 IU 등 고시 제2024-130호 24.7.1. 436 Recombinant blood coagulation f"
+40,250 IU,ok,250 IU,정상 국제단위 표기.,lation factor Ⅸ-Fc fusion protein Eftrenonacog α 주사제알프로릭스주 250 IU 등 고시 제2022-184호 22.8.1. 437 Recombinant blood coagulation f
+40,α,ok,(그대로),그리스 문자 정상 검출.,ood coagulation factor VIII-Fc fusion protein Efmoroctocog α 주사제 엘록테이트주 250 IU 등 고시 제2023-146호 23.8.1. 434 Recombinant b
+40,α,ok,(그대로),그리스 문자 정상 검출.,"1. 434 Recombinant blood coagulation factor Ⅷ, Rurioctocog α pegol 주사제 애디노베이트주 250 IU 등 Lonoctocog alfa 주사제 앱스틸라주 250 IU"
+40,α,ok,(그대로),그리스 문자 정상 검출.,"gulation factor Ⅸ, albumun fusion protein Albutrepenonacog α 주사제 아이델비온주 250 IU 등 고시 제2024-130호 24.7.1. 436 Recombinant b"
+40,α,ok,(그대로),그리스 문자 정상 검출.,blood coagulation factor Ⅸ-Fc fusion protein Eftrenonacog α 주사제알프로릭스주 250 IU 등 고시 제2022-184호 22.8.1. 437 Recombinant bl
+41,37mg,ok,37 mg,정상 밀리그램 표기(ASCII).,❘ 34 ❘ 성 분 명 품 명 고시번호 시행일 페이지 Agalsidase β 37mg 주사제 파브라자임주 등 고시 제2020-17호 20.2.1. 452 Alglucosidase alfa 주사
+41,40mg,ok,40 mg,정상 밀리그램 표기(ASCII).,54 Avalglucosidase alfa 주사제 넥스비아자임주 Asfotase alfa 주사제 스트렌식주 40mg/mL 등 고시 제2024-55호 24.4.1. 454 Elosulfase alfa 5mg 주사제 비미짐주
+41,5mg,ok,5 mg,정상 밀리그램 표기(ASCII).,사제 스트렌식주 40mg/mL 등 고시 제2024-55호 24.4.1. 454 Elosulfase alfa 5mg 주사제 비미짐주 고시 제2016-83호 16.6.1. 457 Galsulfase 주사제 나글라자임주 고시
+41,60mg,ok,60 mg,정상 밀리그램 표기(ASCII).,"고시 제2021-194호 21.7.23. 463 BDDE bridged sodium hyaluronate 60mg 주사제시노비안주, 하이히알원스주, 하이알원샷주 고시 제2020-79호 20.5.1. 463 Bromocry"
+41,20mg,ok,20 mg,정상 밀리그램 표기(ASCII).,ate 시럽제 마시본액 등 고시 제2020-133호 20.7.1. 475 Sodium hyaluronate 20mg 주사제 히루안플러스주 등 고시 제2020-79호 20.5.1. 475 Sodium hyaluronate 2
+41,25mg,ok,25 mg,정상 밀리그램 표기(ASCII).,g 주사제 히루안플러스주 등 고시 제2020-79호 20.5.1. 475 Sodium hyaluronate 25mg 주사제 하이알주 등 고시 제2020-79호 20.5.1. 476 Thioctic acid 주사제 부광치옥타
+41,5mg,ok,5 mg,정상 밀리그램 표기(ASCII).,id 주사제 부광치옥타시드주 등 고시 제2013-127호 13.9.1. 477 Zoledronic acid 5mg/100ml 주사제 대웅졸레드론산주사액 5밀리그램/100밀리리터 등 고시 제2024-72호 24.5.1. 4
+41,100ml,ok,100 mL,정상 밀리리터 표기.,사제 부광치옥타시드주 등 고시 제2013-127호 13.9.1. 477 Zoledronic acid 5mg/100ml 주사제 대웅졸레드론산주사액 5밀리그램/100밀리리터 등 고시 제2024-72호 24.5.1. 478 α-l
+41,β,ok,(그대로),그리스 문자 정상 검출.,❘ 34 ❘ 성 분 명 품 명 고시번호 시행일 페이지 Agalsidase β 37mg 주사제 파브라자임주 등 고시 제2020-17호 20.2.1. 452 Alglucosidase al
+41,α,ok,(그대로),그리스 문자 정상 검출.,0ml 주사제 대웅졸레드론산주사액 5밀리그램/100밀리리터 등 고시 제2024-72호 24.5.1. 478 α-lipoic acid(또는 Thioctic acid)경구제 고시 제2016-31호 16.3.1. 480
+42,α,ok,(그대로),그리스 문자 정상 검출.,482 GnRH agonist 주사제 고시 제2018-253호 18.12.1. 483 Interferon α-2a 주사제 로페론에이프리필드주 고시 제2015-118호 15.7.1. 486 Interferon α-2b
+42,α,ok,(그대로),그리스 문자 정상 검출.,on α-2a 주사제 로페론에이프리필드주 고시 제2015-118호 15.7.1. 486 Interferon α-2b 주사제 인트론에이멀티도스펜 고시 제2016-110호 16.7.1. 488 letrozole 경구제 페
+43,200mg,ok,200 mg,정상 밀리그램 표기(ASCII).,24.4.1. 554 Linezolid 2㎎/㎖주사제 자이복스주 등 Tedizolid 경구제 시벡스트로정 200mg 등 고시 제2018-253호 18.12.1. 554 Teicoplanin 주사제 타고시드주 등 고시 제20
+43,100mg,ok,100 mg,정상 밀리그램 표기(ASCII).,".9.1. 562 ✤ 615 주로 그람음성균, 리케치아, 비루스에 작용하는 것 Doxycycline 50, 100mg 제제 국제독시사이클린하이클레이트수화물 캡슐100밀리그램 등 고시 제2023-252호 23.12.20. 56"
+43,300mg,ok,300 mg,정상 밀리그램 표기(ASCII).,"곰팡이, 원충에 작용하는 것 Pentamidine isethionate 주사제 화이자펜타미딘이세티온산염주 300mg 고시 제2018-158호 18.8.1. 564 ✤ 617 주로 악성종양에 작용하는 것 Bleomycin H"
+44,250mg,ok,250 mg,정상 밀리그램 표기(ASCII).,619 기타의 항생물질 제제(복합항생물질제제를 포함) Clarithromycin 경구제 클래리시드필름코팅정 250mg 등 고시 제2022-111호 22.5.1. 570 ✤ 621 설화제 Sulfadiazine 단일성분 경구제
+44,100mg,ok,100 mg,정상 밀리그램 표기(ASCII).,3-127호 13.9.1. 573 ✤ 622 항결핵제 Bedaquiline fumarate 경구제 서튜러정 100mg 고시 제2024-55호 24.4.1. 574 Delamanid 경구제 델티바정 50mg 고시 제2024-5
+44,50mg,ok,50 mg,정상 밀리그램 표기(ASCII).,경구제 서튜러정 100mg 고시 제2024-55호 24.4.1. 574 Delamanid 경구제 델티바정 50mg 고시 제2024-55호 24.4.1. 575 Pretomanid 경구제 도브프렐라정 200mg 고시 제20
+44,200mg,ok,200 mg,정상 밀리그램 표기(ASCII).,구제 델티바정 50mg 고시 제2024-55호 24.4.1. 575 Pretomanid 경구제 도브프렐라정 200mg 고시 제2024-55호 24.4.1. 576 ✤ 623 치나제 Dapsone 경구제 태준답손정 25mg 등
+44,25mg,ok,25 mg,정상 밀리그램 표기(ASCII).,200mg 고시 제2024-55호 24.4.1. 576 ✤ 623 치나제 Dapsone 경구제 태준답손정 25mg 등 고시 제2018-253호 18.12.1. 577 ✤ 629 기타의 화학료법제 에이즈치료제 고시 제201
+44,100mg,ok,100 mg,정상 밀리그램 표기(ASCII).,8 Acyclovir 제제 조비락스 등 고시 제2019-38호 19.3.1. 578 Balofloxacin 100mg 큐록신정 고시 제2017-77호 17.5.1. 579 Ciprofloxacin 경구제 사이톱신정 등 고시
+44,433.64mg,ok,433.64 mg,정상 밀리그램 표기(ASCII).,n 경구제 사이톱신정 등 고시 제2017-77호 17.5.1. 580 Darunavir ethanolate 433.64mg 경구제 프레지스타정 400mg 고시 제2013-127호 13.9.1. 580 Darunavir ethano
+44,400mg,ok,400 mg,정상 밀리그램 표기(ASCII).,17-77호 17.5.1. 580 Darunavir ethanolate 433.64mg 경구제 프레지스타정 400mg 고시 제2013-127호 13.9.1. 580 Darunavir ethanolate 650.46mg 경구제
+44,650.46mg,ok,650.46 mg,정상 밀리그램 표기(ASCII).,프레지스타정 400mg 고시 제2013-127호 13.9.1. 580 Darunavir ethanolate 650.46mg 경구제 프레지스타정 600mg 고시 제2016-31호 16.3.1. 581 Darunavir ethanol
+44,600mg,ok,600 mg,정상 밀리그램 표기(ASCII).,3-127호 13.9.1. 580 Darunavir ethanolate 650.46mg 경구제 프레지스타정 600mg 고시 제2016-31호 16.3.1. 581 Darunavir ethanolate + Cobicistat
+44,250mg,ok,250 mg,정상 밀리그램 표기(ASCII).,Etravirine 경구제 인텔렌스정 고시 제2013-127호 13.9.1. 582 Famciclovir 250mg 경구제 팜비어정 250mg 등 고시 제2013-127호 13.9.1. 582 Ganciclovir 주사제
+44,250mg,ok,250 mg,정상 밀리그램 표기(ASCII).,인텔렌스정 고시 제2013-127호 13.9.1. 582 Famciclovir 250mg 경구제 팜비어정 250mg 등 고시 제2013-127호 13.9.1. 582 Ganciclovir 주사제 싸이메빈정주 등 고시 제20
+45,5000IU,ok,5000 IU,정상 국제단위 표기.,"2013-127호 13.9.1. 633 Immunoglobulin anti-D(Rh) 600, 1500, 5000IU 주사제 윈로에스디에프주 고시 제2013-127호 13.9.1. 634 Immunoglobulin G, Hu"
+46,250mg,ok,250 mg,정상 밀리그램 표기(ASCII).,"주사제 울토미리스주 등 고시 제2024-55호 24.4.1. 654 ✤ 641 항원충제 Atovaquone 250mg, Proguanil HCl 100mg 경구제 말라론정 고시 제2013-127호 13.9.1. 658 Me"
+46,100mg,ok,100 mg,정상 밀리그램 표기(ASCII).,"55호 24.4.1. 654 ✤ 641 항원충제 Atovaquone 250mg, Proguanil HCl 100mg 경구제 말라론정 고시 제2013-127호 13.9.1. 658 Metronidazole 주사제 트리젤주 등"
+46,β,ok,(그대로),그리스 문자 정상 검출.,"Eculizumab 주사제 솔리리스주 등 고시 제2024-55호 24.4.1. 640 Interferon β-1a 주사제 레비프프리필드주사, 레비도즈프리필드펜, 아보넥스주 등 고시 제2021-26호 21.2.1. 6"
+46,β,ok,(그대로),그리스 문자 정상 검출.,", 레비도즈프리필드펜, 아보넥스주 등 고시 제2021-26호 21.2.1. 649 Peginterferon β-1a 주사제 플레그리디펜주 등 Interferon β-1b 베타페론주사 고시 제2021-26호 21.2.1"
+46,β,ok,(그대로),그리스 문자 정상 검출.,26호 21.2.1. 649 Peginterferon β-1a 주사제 플레그리디펜주 등 Interferon β-1b 베타페론주사 고시 제2021-26호 21.2.1. 650 Interferon-γ 주사제 인터맥스감마주
+46,γ,ok,(그대로),그리스 문자 정상 검출.,Interferon β-1b 베타페론주사 고시 제2021-26호 21.2.1. 650 Interferon-γ 주사제 인터맥스감마주 200만단위 고시 제2016-21호 16.2.1. 651 Natalizumab 주사제
+50,5mg,ok,5 mg,정상 밀리그램 표기(ASCII).,"························· 481 5알파 환원효소 억제제 경구제 (finasteride 5mg, dutasteride 0.5mg) ······································"
+50,0.5mg,ok,0.5 mg,정상 밀리그램 표기(ASCII).,"······· 481 5알파 환원효소 억제제 경구제 (finasteride 5mg, dutasteride 0.5mg) ··········································· 378 6-Mercapto"
+50,3.5mg,ok,3.5 mg,정상 밀리그램 표기(ASCII).,······································· 524 Agalsidase alfa 3.5mg 주사제······························ 451 Agalsidase β 37mg 주사제
+50,37mg,ok,37 mg,정상 밀리그램 표기(ASCII).,fa 3.5mg 주사제······························ 451 Agalsidase β 37mg 주사제··································· 452 Agomelatine 경구제·
+50,25mg,ok,25 mg,정상 밀리그램 표기(ASCII).,사제············································· 454 Aspirin 25mg + Dipyridamole 200mg 경구제····· 294 Aspirin 경구제··············
+50,200mg,ok,200 mg,정상 밀리그램 표기(ASCII).,··························· 454 Aspirin 25mg + Dipyridamole 200mg 경구제····· 294 Aspirin 경구제···································
+50,250mg,ok,250 mg,정상 밀리그램 표기(ASCII).,"············································ 379 Atovaquone 250mg, Proguanil HCl 100mg 경구제 ··································"
+50,100mg,ok,100 mg,정상 밀리그램 표기(ASCII).,"······················· 379 Atovaquone 250mg, Proguanil HCl 100mg 경구제 ·······················································"
+50,100mg,ok,100 mg,정상 밀리그램 표기(ASCII).,·········································· 170 Balofloxacin 100mg ············································· 579 Baricitin
+50,60mg,ok,60 mg,정상 밀리그램 표기(ASCII).,······················· 189 BDDE bridged sodium hyaluronate 60mg 주사제··· 463 Beclometasone dipropionate + Formoterol fumarate
+50,β,ok,(그대로),그리스 문자 정상 검출.,alfa 3.5mg 주사제······························ 451 Agalsidase β 37mg 주사제··································· 452 Agomelatine
+50,α,ok,(그대로),그리스 문자 정상 검출.,··········································· 275 Alprostadil α-cyclodextrin 주사제·························· 289 Alprostadil
+51,2.3mg,ok,2.3 mg,정상 밀리그램 표기(ASCII).,경구제···························· 464 Budesonide (micronized) 2.3mg 제제·················· 359 Buprenorphine 패취제 ················
+51,100mg,ok,100 mg,정상 밀리그램 표기(ASCII).,패취제 ········································· 387 Bupropion 100mg 경구제···································· 130 Bupropion HCl 1
+51,150mg,ok,150 mg,정상 밀리그램 표기(ASCII).,g 경구제···································· 130 Bupropion HCl 150mg 경구제····························· 130 Burosumab 주사제·········
+51,433.64mg,ok,433.64 mg,정상 밀리그램 표기(ASCII).,·································· 581 Darunavir ethanolate 433.64mg 경구제··············· 580 Darunavir ethanolate 650.46mg 경구제···
+51,650.46mg,ok,650.46 mg,정상 밀리그램 표기(ASCII).,nolate 433.64mg 경구제··············· 580 Darunavir ethanolate 650.46mg 경구제··············· 581 Deferasirox 경구제·····················
+51,100mg,ok,100 mg,정상 밀리그램 표기(ASCII).,"······································· 263 Doxycycline 50, 100mg 제제······························· 563 Doxycycline hyclate 2"
+51,20mg,ok,20 mg,정상 밀리그램 표기(ASCII).,g 제제······························· 563 Doxycycline hyclate 20mg 경구제························ 326
+52,0.5mg,ok,0.5 mg,정상 밀리그램 표기(ASCII).,"··········································· 195 dutasteride 0.5mg, tamsulosin hydrochloride 0.4mg 복합경구제·····················"
+52,0.4mg,ok,0.4 mg,정상 밀리그램 표기(ASCII).,"··········· 195 dutasteride 0.5mg, tamsulosin hydrochloride 0.4mg 복합경구제·····················································"
+52,14mg,ok,14 mg,정상 밀리그램 표기(ASCII).,······················· 379 E.Coli strain Nissle 1917 동결건조물 14mg 경구제·· 338 Eculizumab 주사제···································
+52,5mg,ok,5 mg,정상 밀리그램 표기(ASCII).,제······································ 470 Elosulfase alfa 5mg 주사제·································· 457 Eltrombopag olami
+52,250mg,ok,250 mg,정상 밀리그램 표기(ASCII).,e+Fenofibrate 복합경구제························ 282 Famciclovir 250mg 경구제···································· 582 Famotidine ····
+52,α,ok,(그대로),그리스 문자 정상 검출.,··········································· 135 Follitropin-α + lutropin α(r-hLH) 복합주사제········· 370 Fondaparinux sodium
+52,α,ok,(그대로),그리스 문자 정상 검출.,······························ 135 Follitropin-α + lutropin α(r-hLH) 복합주사제········· 370 Fondaparinux sodium 주사제··········
+53,12.5mg,ok,12.5 mg,정상 밀리그램 표기(ASCII).,············································· 135 Imiquimod 12.5mg 외용제··································· 390 Immunoglobulin a
+53,200mg,ok,200 mg,정상 밀리그램 표기(ASCII).,······························· 651 Iron acetyl-transferrin 200mg 경구제··················· 398 Irsogladine maleate 경구제·········
+53,100mg,ok,100 mg,정상 밀리그램 표기(ASCII).,············································ 334 Lamivudine 100mg 경구제··································· 446 Lamotrigine 경구제·
+53,25mg,ok,25 mg,정상 밀리그램 표기(ASCII).,··································· 120 Levobupivacaine HCl 25mg 주사제······················ 169 Levofloxacin 경구제·············
+53,60mg,ok,60 mg,정상 밀리그램 표기(ASCII).,····································· 282 Loxoprofen sodium 60mg 경구제························ 125 Lung surfactant (폐계면활성제) 주사
+53,5000IU,ok,5000 IU,정상 국제단위 표기.,"·················· 390 Immunoglobulin anti-D(Rh) 600, 1500, 5000IU 주사제·······················································"
+53,α,ok,(그대로),그리스 문자 정상 검출.,············································ 535 Interferon α-2a 주사제·········································· 486 Interf
+53,α,ok,(그대로),그리스 문자 정상 검출.,사제·········································· 486 Interferon α-2b 주사제········································· 488 Interfe
+53,β,ok,(그대로),그리스 문자 정상 검출.,주사제········································· 488 Interferon β-1a 주사제·········································· 649 Interf
+53,β,ok,(그대로),그리스 문자 정상 검출.,사제·········································· 649 Interferon β-1b ····················································· 65
+53,γ,ok,(그대로),그리스 문자 정상 검출.,············································ 650 Interferon-γ 주사제··············································· 651 Iron
+53,α,ok,(그대로),그리스 문자 정상 검출.,············································· 387 Limaprost α-cyclodextrin 경구제··························· 298 Linezolid 2
+53,β,ok,(그대로),그리스 문자 정상 검출.,··················· 125 Methoxy polyethylene glycol-epoetin β 주사제···· 373
+54,200mg,ok,200 mg,정상 밀리그램 표기(ASCII).,HCl 주사제····································· 492 Modafinil 200mg 경구제······································ 154 Montelukast 경
+54,5mg,ok,5 mg,정상 밀리그램 표기(ASCII).,"ate 경구제···································· 593 Nicergoline 5mg, 10mg 경구제···························· 300 Nicorandil 주사제···"
+54,10mg,ok,10 mg,정상 밀리그램 표기(ASCII).,"구제···································· 593 Nicergoline 5mg, 10mg 경구제···························· 300 Nicorandil 주사제·········"
+54,β,ok,(그대로),그리스 문자 정상 검출.,fa-2a 주사제································ 652 Peginterferon β-1a 주사제···································· 649 Pegvisomant
+55,800mg,ok,800 mg,정상 밀리그램 표기(ASCII).,"··································· 137 Sevelamer carbonate 800mg 경구제···················· 301 Sevelamer HCl 400mg, 800mg 경구제·"
+55,400mg,ok,400 mg,정상 밀리그램 표기(ASCII).,"r carbonate 800mg 경구제···················· 301 Sevelamer HCl 400mg, 800mg 경구제················ 301 Sildenafil 경구제··············"
+55,800mg,ok,800 mg,정상 밀리그램 표기(ASCII).,"nate 800mg 경구제···················· 301 Sevelamer HCl 400mg, 800mg 경구제················ 301 Sildenafil 경구제·····················"
+55,18mg,ok,18 mg,정상 밀리그램 표기(ASCII).,"te, D-sorbitol 복합 제제················ 337 Sodium hyaluronate 18mg/10ml 외용제·············· 177 Sodium hyaluronate 20mg 주사제·····"
+55,20mg,ok,20 mg,정상 밀리그램 표기(ASCII).,luronate 18mg/10ml 외용제·············· 177 Sodium hyaluronate 20mg 주사제······················· 475 Sodium hyaluronate 25mg 주사제·
+55,25mg,ok,25 mg,정상 밀리그램 표기(ASCII).,nate 20mg 주사제······················· 475 Sodium hyaluronate 25mg 주사제······················· 476 Sodium ozagrel 주사제··········
+55,5ml,ok,5 mL,정상 밀리리터 표기.,······································· 654 Rebamipide 0.1g/5ml 외용제······························· 177 Recombinant blood co
+55,10ml,ok,10 mL,정상 밀리리터 표기.,-sorbitol 복합 제제················ 337 Sodium hyaluronate 18mg/10ml 외용제·············· 177 Sodium hyaluronate 20mg 주사제··········
+55,105 IU,ok,105 IU,정상 국제단위 표기.,·· 434 Recombinant human epidermal growth factor 500mcg (6×105 IU) 외용제······························· 384 Remifentanil 주사제···
+55,α,ok,(그대로),그리스 문자 정상 검출.,"·· 433 Recombinant blood coagulation factor Ⅷ, Rurioctocog α pegol 주사제······························ 434 Recombinant blo"
+55,α,ok,(그대로),그리스 문자 정상 검출.,"gulation factor Ⅸ, albumun fusion protein Albutrepenonacog α 주사제······ 436 Recombinant blood coagulation factor Ⅸ-Fc fus"
+55,α,ok,(그대로),그리스 문자 정상 검출.,blood coagulation factor Ⅸ-Fc fusion protein Eftrenonacog α 주사제························· 437 Recombinant blood coagulat
+55,α,ok,(그대로),그리스 문자 정상 검출.,ood coagulation factor VIII-Fc fusion protein Efmoroctocog α 주사제························ 434 Recombinant human epidermal
+56,1mg,ok,1 mg,정상 밀리그램 표기(ASCII).,"·········································· 135 Treprostinil 1mg/mL, 2.5mg/mL, 5mg/mL 주사제·· 269 Triamcinolone acetonide 주사제"
+56,2.5mg,ok,2.5 mg,정상 밀리그램 표기(ASCII).,"·································· 135 Treprostinil 1mg/mL, 2.5mg/mL, 5mg/mL 주사제·· 269 Triamcinolone acetonide 주사제··········"
+56,5mg,ok,5 mg,정상 밀리그램 표기(ASCII).,"······················· 135 Treprostinil 1mg/mL, 2.5mg/mL, 5mg/mL 주사제·· 269 Triamcinolone acetonide 주사제···················"
+56,5mg,ok,5 mg,정상 밀리그램 표기(ASCII).,경구제···································· 271 Zoledronic acid 5mg/100ml 주사제······················ 478 α-Keto-DL-isoleucine ca
+56,100ml,ok,100 mL,정상 밀리리터 표기.,··································· 271 Zoledronic acid 5mg/100ml 주사제······················ 478 α-Keto-DL-isoleucine calcium
+56,α,ok,(그대로),그리스 문자 정상 검출.,271 Zoledronic acid 5mg/100ml 주사제······················ 478 α-Keto-DL-isoleucine calcium 67.0mg외 9종 경구제 ·················
+56,α,ok,(그대로),그리스 문자 정상 검출.,······················································· 403 α-lipoic acid(또는 Thioctic acid)경구제·················· 480 가글 용
+57,300mg,ok,300 mg,정상 밀리그램 표기(ASCII).,························ 509 자오가·우슬·방풍·두충·구척·흑두 건조엑스(20→1) 300mg ···························································
+60,2mg,ok,2 mg,정상 밀리그램 표기(ASCII).,"❘ 53 ❘ 가스론엔정 2mg 등, 4mg ····································· 333 가스터주 등····"
+60,4mg,ok,4 mg,정상 밀리그램 표기(ASCII).,"❘ 53 ❘ 가스론엔정 2mg 등, 4mg ····································· 333 가스터주 등···········"
+60,500mg,ok,500 mg,정상 밀리그램 표기(ASCII).,················································· 307 네폭실캡슐 500mg ················································ 295 넥스비아자임
+60,50mg,ok,50 mg,정상 밀리그램 표기(ASCII).,·················································· 326 델티바정 50mg ····················································· 575 도
+60,200mg,ok,200 mg,정상 밀리그램 표기(ASCII).,················································ 408 도브프렐라정 200mg ············································· 576 도파체크주사···
+61,10mg,ok,10 mg,정상 밀리그램 표기(ASCII).,알트리스 나잘스프레이액····································· 183 리오레살주 10mg/5mL ·········································· 170 리팜핀정 등··
+61,2.5mg,ok,2.5 mg,정상 밀리그램 표기(ASCII).,················································· 603 베르쿠보정 2.5mg 등············································ 304 베시케어정 등··
+61,5mL,ok,5 mL,정상 밀리리터 표기.,나잘스프레이액····································· 183 리오레살주 10mg/5mL ·········································· 170 리팜핀정 등······
+61,75IU,ok,75 IU,정상 국제단위 표기.,················································· 562 루베리스주 75IU ···················································· 371 루센
+62,100mg,ok,100 mg,정상 밀리그램 표기(ASCII).,롬이디티에이주사·········································· 505 서튜러정 100mg ··················································· 574 서팩텐
+62,45mg,ok,45 mg,정상 밀리그램 표기(ASCII).,드세레텍주 등····································· 505 스텔라라 프리필드주 45mg 등······························· 246 스토가정10mg 등············
+62,40mg,ok,40 mg,정상 밀리그램 표기(ASCII).,················································· 143 스트렌식주 40mg/mL 등······································· 454 스티렌정 등·····
+62,200mg,ok,200 mg,정상 밀리그램 표기(ASCII).,"······ 595 시노비안주, 하이히알원스주, 하이알원샷주··············· 463 시벡스트로정 200mg 등········································ 554 시빈코정 50,100,2"
+63,24mg,ok,24 mg,정상 밀리그램 표기(ASCII).,필드시린지주······································· 166 엔젤라프리필드펜주 24mg 등································· 343 엔커버액 등··············
+63,250 IU,ok,250 IU,정상 국제단위 표기.,·· 126 아스피린 프로텍트정 100밀리그람 등····················· 292 아이델비온주 250 IU 등········································ 436 아이벡스프로글리셈현탁액·
+63,5000IU,ok,5000 IU,정상 국제단위 표기.,로글리셈현탁액······································· 469 아이브이에프씨주 5000IU 등································· 367 아이브이에프엠 에이치피주 등·····
+63,75IU,ok,75 IU,정상 국제단위 표기.,이브이에프엠 에이치피주 등································ 372 아이브이에프엠주 75IU 등····································· 372 아이비글로불린에스엔주 등···
+63,250 IU,ok,250 IU,정상 국제단위 표기.,알푸로덱스주 20마이크로그램································· 289 알프로릭스주 250 IU 등········································ 437 애드베이트주 등·····
+63,250 IU,ok,250 IU,정상 국제단위 표기.,··············································· 433 애디노베이트주 250 IU 등····································· 434 액토스정 등··········
+63,250 IU,ok,250 IU,정상 국제단위 표기.,················································· 308 앱스틸라주 250 IU 등··········································· 434 얄액 등······
+63,250 IU,ok,250 IU,정상 국제단위 표기.,················································ 458 엘록테이트주 250 IU 등········································ 434 엘리델크림 1% ····
+64,100mg,ok,100 mg,정상 밀리그램 표기(ASCII).,············································· 568 이노베론필름코팅정 100mg 등······························· 121 이달비정 20밀리그램 등·········
+64,30mg,ok,30 mg,정상 밀리그램 표기(ASCII).,·················································· 219 카나브정 30mg 등················································ 263 카나쿨린정
+64,500 IU,ok,500 IU,정상 국제단위 표기.,유 주 등·············································· 481 지비주 500 IU 등················································· 422 지셀레카
+65,0.1mg,ok,0.1 mg,정상 밀리그램 표기(ASCII).,················································ 403 켑베이서방정 0.1mg ·············································· 144 코리트산 등··
+65,20mg,ok,20 mg,정상 밀리그램 표기(ASCII).,U 등··········································· 620 코팍손프리필드주 20mg/1ml 등····························· 152 콘드론·················
+65,250mg,ok,250 mg,정상 밀리그램 표기(ASCII).,············································ 464 클래리시드필름코팅정 250mg 등··························· 570 클로스원캡슐 등··················
+65,5mg,ok,5 mg,정상 밀리그램 표기(ASCII).,············································ 402 클리퍼지속성 장용정 5mg ······································ 338 키너렛주············
+65,25mg,ok,25 mg,정상 밀리그램 표기(ASCII).,리필드시린지주 등········································ 209 태준답손정 25mg 등············································· 577 테그레톨정 등·
+65,4mg,ok,4 mg,정상 밀리그램 표기(ASCII).,"··············································· 145 토비애즈서방정 4mg, 8mg ···································· 380 튜베르쿨린피피디알티23에"
+65,8mg,ok,8 mg,정상 밀리그램 표기(ASCII).,"·········································· 145 토비애즈서방정 4mg, 8mg ···································· 380 튜베르쿨린피피디알티23에스에스아이"
+65,4mg,ok,4 mg,정상 밀리그램 표기(ASCII).,················································ 600 트루패스캡슐 4mg 등············································ 381 트리암시놀론주 등
+65,250mg,ok,250 mg,정상 밀리그램 표기(ASCII).,·················································· 464 팜비어정 250mg 등·············································· 582 패스터텍주··
+65,1ml,ok,1 mL,정상 밀리리터 표기.,········································· 620 코팍손프리필드주 20mg/1ml 등····························· 152 콘드론·····················
+66,400mg,ok,400 mg,정상 밀리그램 표기(ASCII).,················································ 581 프레지스타정 400mg ············································· 580 프레지스타정 60
+66,600mg,ok,600 mg,정상 밀리그램 표기(ASCII).,mg ············································· 580 프레지스타정 600mg ············································· 581 프레탈정 등···
+66,30mg,ok,30 mg,정상 밀리그램 표기(ASCII).,·············································· 326 헴리브라피하주사 30mg 등···································· 426 화이자펜타미딘이세티온산염주 30
+66,300mg,ok,300 mg,정상 밀리그램 표기(ASCII).,mg 등···································· 426 화이자펜타미딘이세티온산염주 300mg ···················· 564 후락시파린주 등··························
+69,000IU,ok,000 IU,정상 국제단위 표기.,"래 - 가. 초치료 시 1) 대상환자 가) HBeAg(+)로서 HBV-DNA≥20,000IU/mL 이거나 또는, HBeAg(-)로서 HBV-DNA≥ 2,000IU/mL인 만성활동성 B형간염 환자에서"
+69,000IU,ok,000 IU,정상 국제단위 표기.,"BeAg(+)로서 HBV-DNA≥20,000IU/mL 이거나 또는, HBeAg(-)로서 HBV-DNA≥ 2,000IU/mL인 만성활동성 B형간염 환자에서 (1) AST(Aspartate Transaminase)"
+70,0.5mg,ok,0.5 mg,정상 밀리그램 표기(ASCII).,"여방법 가) Lamivudine, Clevudine, Telbivudine, Entecavir 0.5mg, Adefovir, Tenofovir disoproxil, Tenofovir alafenamide, Be"
+71,1mg,ok,1 mg,정상 밀리그램 표기(ASCII).,에서 10배 이상 증가한 경우 2) 투여방법 내성 약제 치료약제 단독요법 병용요법 entecavir 1mg tenofovir disoproxil 또는 tenofovir alafenamide (lamivudine
+71,0.5mg,ok,0.5 mg,정상 밀리그램 표기(ASCII).,ivudine) + (adefovir 또는 tenofovir disoproxil) entecavir 0.5mg + (adefovir 또는 tenofovir disoproxil) entecavir 1mg + (a
+71,1mg,ok,1 mg,정상 밀리그램 표기(ASCII).,r 0.5mg + (adefovir 또는 tenofovir disoproxil) entecavir 1mg + (adefovir 또는 tenofovir disoproxil) 단 독 내 성 lamivudine
+71,0.5mg,ok,0.5 mg,정상 밀리그램 표기(ASCII).,bivudine 인정 인정 인정 adefovir 인정 인정 인정 인정 다 약 제 내 성 entecavir 0.5mg 인정 인정 entecavir 1mg 인정 인정 adefovir 인정 인정주 인정
+71,1mg,ok,1 mg,정상 밀리그램 표기(ASCII).,vir 인정 인정 인정 인정 다 약 제 내 성 entecavir 0.5mg 인정 인정 entecavir 1mg 인정 인정 adefovir 인정 인정주 인정
+72,0.5mg,ok,0.5 mg,정상 밀리그램 표기(ASCII).,"간이식을 받은 환자: Lamivudine, Clevudine, Telbivudine, Entecavir 0.5mg, Adefovir, Tenofovir disoproxil 경구제 중 1종"
+72,60mL,ok,60 mL,정상 밀리리터 표기.,ivudine: 만 16세 이상 2) Clevudine: 만 18세 이상. 크레아티닌 클리어런스가 60mL/분 미만인 환자는 금기임. 3) Entecavir: 만 2세 이상 4) Adefovir: 만
+73,1mg,ok,1 mg,정상 밀리그램 표기(ASCII).,"없거나 적절하지 않은 경우에 한하며, 투여소견서를 첨부하여야 함) 나. 간이식 전에 Entecavir 1mg, Adefovir 또는 Tenofovir disoproxil를 투여 받은 환자로서 B형 간염으로 간이식을"
+73,1mg,ok,1 mg,정상 밀리그램 표기(ASCII).,"ofovir disoproxil를 투여 받은 환자로서 B형 간염으로 간이식을 받은 환자: Entecavir 1mg, Adefovir, Tenofovir disoproxil 경구제 중 1종 - 단, 가. 초치료"
+75,"000 
+IU",ok,000 IU,정상 국제단위 표기.,"세부인정기준 및 방법 가. 투여대상 ○ HBsAg(+)인 임산부로서 HBV-DNA ≥ 200,000 IU/mL인 경우 나. 투여방법 1) 투여용량: Tenofovir disoproxil 300mg를"
+78,90mg,ok,90 mg,정상 밀리그램 표기(ASCII).,"가지고 있는 환자 바. Ticagrelor와 Aspirin의 병용요법 1) Ticagrelor 90mg, Aspirin 병용 가) 투여대상: 급성관상동맥증후군 나) 투여기간: 1년 이내"
+78,60mg,ok,60 mg,정상 밀리그램 표기(ASCII).,"가) 투여대상: 급성관상동맥증후군 나) 투여기간: 1년 이내 2) Ticagrelor 60mg, Aspirin 병용 가) 투여대상 심근경색 발병 이후 Aspirin과 ADP 수용체 저해제 (t"
+80,160 mg,ok,160 mg,정상 밀리그램 표기(ASCII).,고저밀도지단백콜레스테롤(LDL-C)혈증 1) 투여대상 가) 위험요인*이 0∼1개인 경우: 혈중 LDL-C≥160 mg/dL일 때 나) 위험요인*이 2개 이상인 경우: 혈중 LDL-C≥130 mg/dL일 때 다) 관상동맥질환
+80,130 mg,ok,130 mg,정상 밀리그램 표기(ASCII).,"인 경우: 혈중 LDL-C≥160 mg/dL일 때 나) 위험요인*이 2개 이상인 경우: 혈중 LDL-C≥130 mg/dL일 때 다) 관상동맥질환 또는 이에 준하는 위험(말초 동맥질환, 복부대동맥류, 증상이 동반된"
+81,100 mg,ok,100 mg,정상 밀리그램 표기(ASCII).,"❘ 74 ❘ 구 분 세부인정기준 및 방법 경동맥질환, 당뇨병)인 경우: 혈중 LDL-C≥ 100 mg/dL일 때 라) 급성 관동맥 증후군인 경우: 혈중 LDL-C≥70 mg/dL일 때 2) 해당 약제: HM"
+81,70 mg,ok,70 mg,정상 밀리그램 표기(ASCII).,"병)인 경우: 혈중 LDL-C≥ 100 mg/dL일 때 라) 급성 관동맥 증후군인 경우: 혈중 LDL-C≥70 mg/dL일 때 2) 해당 약제: HMG-CoA 환원효소억제제, 담즙산 제거제, Fibrate계열 약제 중 1종"
+81,500 mg,ok,500 mg,정상 밀리그램 표기(ASCII).,"제, Fibrate계열 약제 중 1종 나. 순수 고트리글리세라이드(TG)혈증 1) 투여대상 가) 혈중 TG≥500 mg/dL일 때 나) 위험요인*또는 당뇨병이 있는 경우: 혈중 TG≥200 mg/dL일 때 2) 해당 약제:"
+81,200 mg,ok,200 mg,정상 밀리그램 표기(ASCII).,"1) 투여대상 가) 혈중 TG≥500 mg/dL일 때 나) 위험요인*또는 당뇨병이 있는 경우: 혈중 TG≥200 mg/dL일 때 2) 해당 약제: Fibrate 계열, Niacin 계열 중 1종 다. 고LDL-C 및 고TG혈"
+81,40 mg,ok,40 mg,정상 밀리그램 표기(ASCII).,"② 고혈압(BP≥140/90 mmHg 또는 항고혈압제 복용) ③ 낮은 고밀도지단백콜레스테롤(HDL-C)(<40 mg/dL) ④ 관상동맥질환 조기 발병의 가족력(부모, 형제자매 중 남자<55세, 여자<65세에서 관상동맥질환"
+81,60 mg,ok,60 mg,정상 밀리그램 표기(ASCII).,", 여자<65세에서 관상동맥질환이 발병한 경우) ⑤ 연령(남자≥45세, 여자≥55세) ※ HDL-C≥60 mg/dL은 보호인자로 간주하여 총 위험 요인 수에서 하나를 감한다. (고시 제2014-34호, ʼ14.3.1."
+82,α,ok,(그대로),그리스 문자 정상 검출.,"아니하며, 타당한 사유 기재 시 사례별로 인정함. - 다 음 - 가) Diuretic + α Blocker 나) β Blocker + ACE inhibitor 다) β Block"
+82,β,ok,(그대로),그리스 문자 정상 검출.,사례별로 인정함. - 다 음 - 가) Diuretic + α Blocker 나) β Blocker + ACE inhibitor 다) β Blocker + Angiotensin Ⅱ
+82,β,ok,(그대로),그리스 문자 정상 검출.,tic + α Blocker 나) β Blocker + ACE inhibitor 다) β Blocker + Angiotensin Ⅱ receptor antagonist 라) ACE i
+85,450mg,ok,450 mg,정상 밀리그램 표기(ASCII).,ciferol 복합제 나. 투여대상 6개월 이내에 최소 90일을 초과하여 prednisolone을 총 450mg 이상(또는 그에 상응하는 글루코코르티코이드 약제 용량)을 투여받은 환자로서 1) 폐경 후 여성 및
+91,126mg,ok,126 mg,정상 밀리그램 표기(ASCII).,❘ 84 ❘ 구 분 세부인정기준 및 방법 나) 공복혈장혈당 ≥ 126mg/dl 다) 당뇨의 전형적인 증상과 임의혈장혈당 ≥ 200mg/dl 라) 75g 경구당부하
+91,200mg,ok,200 mg,정상 밀리그램 표기(ASCII).,방법 나) 공복혈장혈당 ≥ 126mg/dl 다) 당뇨의 전형적인 증상과 임의혈장혈당 ≥ 200mg/dl 라) 75g 경구당부하검사 후 2시간 혈장혈당 ≥ 200mg/dl 2) 병용요법
+91,200mg,ok,200 mg,정상 밀리그램 표기(ASCII).,전형적인 증상과 임의혈장혈당 ≥ 200mg/dl 라) 75g 경구당부하검사 후 2시간 혈장혈당 ≥ 200mg/dl 2) 병용요법 가) 2제요법 (1) 단독요법으로 2-4개월 이상 투약해도
+91,130mg,ok,130 mg,정상 밀리그램 표기(ASCII).,인정함. - 다 음 - (가) HbA1C ≥7.0% (나) 공복혈당 ≥130mg/dl (다) 식후혈당 ≥180mg/dl (2) HbA1C ≥7.5% 경우에는
+91,180mg,ok,180 mg,정상 밀리그램 표기(ASCII).,HbA1C ≥7.0% (나) 공복혈당 ≥130mg/dl (다) 식후혈당 ≥180mg/dl (2) HbA1C ≥7.5% 경우에는 Metformin을 포함한 2제 요법을 처음부터
+91,α,ok,(그대로),그리스 문자 정상 검출.,(3) 인정 가능 2제 요법 구 분 Metformin Sulfonylurea Meglitinide α-glucosidase inhibitor Thiazoli- dinedione DPP-IV inhibito
+91,α,ok,(그대로),그리스 문자 정상 검출.,정 Sulfonylurea 인정 인정 인정 인정 인정 인정 인정 인정 Meglitinide 인정 인정 인정 α-glucosidase inhibitor 인정 인정 인정 Thiazoli- dinedione 인정 인정 인정
+94,6mg,ok,6 mg,정상 밀리그램 표기(ASCII).,가 부담토록 함. - 다 음 - 1) Repaglinide 경구제(복합제 포함): 1일 최대 6mg 2) Pioglitazone 경구제(복합제 포함): 1일 최대 30mg 3) Metformi
+94,30mg,ok,30 mg,정상 밀리그램 표기(ASCII).,제(복합제 포함): 1일 최대 6mg 2) Pioglitazone 경구제(복합제 포함): 1일 최대 30mg 3) Metformin 성분이 포함된 복합제에 Metformin 단일제 추가 투여 시(복합제 용량
+94,550mg,ok,550 mg,정상 밀리그램 표기(ASCII).,"합제에 Metformin 단일제 추가 투여 시(복합제 용량 포함) 가) 일반형: 1일 최대 2,550mg 나) 서방형: 1일 최대 2,000mg 다) 일반형과 서방형 병용: 1일 최대 2,5"
+94,000mg,ok,000 mg,정상 밀리그램 표기(ASCII).,"합제 용량 포함) 가) 일반형: 1일 최대 2,550mg 나) 서방형: 1일 최대 2,000mg 다) 일반형과 서방형 병용: 1일 최대 2,550mg까지 인정하나, 서방형을 2,000mg까지"
+94,8mg,ok,8 mg,정상 밀리그램 표기(ASCII).,성분이 포함된 복합제에 Glimepiride 단일제 추가투여 시: 복합제 내 함량을 포함하여 1일 최대 8mg
+95,α,ok,(그대로),그리스 문자 정상 검출.,"nide계 Mitiglinide calcium hydrate, Nateglinide, Repaglinide α-glucosidase inhibitor계Acarbose, Miglitol, Voglibose Thiazol"
+95,α,ok,(그대로),그리스 문자 정상 검출.,"HCl, Nateglinide+Metformin HCl, Repaglinide+Metformin HCl α-glucosidase inhibitor계 +Biguanide계Voglibose+Metformin HCl"
+98,60mg,ok,60 mg,정상 밀리그램 표기(ASCII).,다 음 - 대상 약제 투여 용량 Oxycodone 단일 및 복합 경구제 Oxycodone으로 1일당 60mg Hydromorphone 1일당 24mg Tapentadol 1일당 300mg Fentanyl 패취제 3일
+98,24mg,ok,24 mg,정상 밀리그램 표기(ASCII).,xycodone 단일 및 복합 경구제 Oxycodone으로 1일당 60mg Hydromorphone 1일당 24mg Tapentadol 1일당 300mg Fentanyl 패취제 3일당 37.5ug/h Morphine 경구제
+98,300mg,ok,300 mg,정상 밀리그램 표기(ASCII).,Oxycodone으로 1일당 60mg Hydromorphone 1일당 24mg Tapentadol 1일당 300mg Fentanyl 패취제 3일당 37.5ug/h Morphine 경구제 1일당 90mg 3) 투여기간
+98,90mg,ok,90 mg,정상 밀리그램 표기(ASCII).,"ntadol 1일당 300mg Fentanyl 패취제 3일당 37.5ug/h Morphine 경구제 1일당 90mg 3) 투여기간 1회 처방당 최대 30일까지 인정하며, 속효성제제는 단기간 투여를 원칙으로 함."
+100,4mg,ok,4 mg,정상 밀리그램 표기(ASCII).,때까지 투여 하도록 함). - 다 음 - 신기능 1회 투여량 eGFR ≥60 mL/min/1.73m2 4mg 30 ≤eGFR <60 mL/min/1.73m2 2mg 15 ≤eGFR <30 mL/min/1.73m2 1
+100,2mg,ok,2 mg,정상 밀리그램 표기(ASCII).,회 투여량 eGFR ≥60 mL/min/1.73m2 4mg 30 ≤eGFR <60 mL/min/1.73m2 2mg 15 ≤eGFR <30 mL/min/1.73m2 1mg · tocilizumab 제제 (만 2세
+100,1mg,ok,1 mg,정상 밀리그램 표기(ASCII).,"g 30 ≤eGFR <60 mL/min/1.73m2 2mg 15 ≤eGFR <30 mL/min/1.73m2 1mg · tocilizumab 제제 (만 2세 이상) 스테로이드 제제와 병용 투여하되, b"
+100,60 mL,ok,60 mL,정상 밀리리터 표기.,14일이내 퇴원 시에는 퇴원할 때까지 투여 하도록 함). - 다 음 - 신기능 1회 투여량 eGFR ≥60 mL/min/1.73m2 4mg 30 ≤eGFR <60 mL/min/1.73m2 2mg 15 ≤eGFR <30
+100,60 mL,ok,60 mL,정상 밀리리터 표기.,- 다 음 - 신기능 1회 투여량 eGFR ≥60 mL/min/1.73m2 4mg 30 ≤eGFR <60 mL/min/1.73m2 2mg 15 ≤eGFR <30 mL/min/1.73m2 1mg · tocili
+100,30 mL,ok,30 mL,정상 밀리리터 표기.,mL/min/1.73m2 4mg 30 ≤eGFR <60 mL/min/1.73m2 2mg 15 ≤eGFR <30 mL/min/1.73m2 1mg · tocilizumab 제제 (만 2세 이상) 스테로이드
+101,800mg,ok,800 mg,정상 밀리그램 표기(ASCII).,"4 ❘ 구 분 세부인정기준 및 방법 제제와는 병용투여하지 않고, 다음의 용량으로(1회 투여 당 최대 800mg 까지) 60분 이상 동안 정맥 투여하며, 1회 투여를 원칙으로 함. - 다 음 - 몸무게 1회 투여"
+101,12mg,ok,12 mg,정상 밀리그램 표기(ASCII).,"투여하며, 1회 투여를 원칙으로 함. - 다 음 - 몸무게 1회 투여량 몸무게가 30kg 미만인 환자 12mg/kg 몸무게가 30kg 이상인 환자 8mg/kg (고시 제2022-184호, ’22.8.1.) [일반원칙]"
+101,8mg,ok,8 mg,정상 밀리그램 표기(ASCII).,"음 - 몸무게 1회 투여량 몸무게가 30kg 미만인 환자 12mg/kg 몸무게가 30kg 이상인 환자 8mg/kg (고시 제2022-184호, ’22.8.1.) [일반원칙] 병용금기 성분, 특정연령대 금기 성분"
+105,25mg,ok,25 mg,정상 밀리그램 표기(ASCII).,"및 작성요령(보건복지부 고시)｣에서 정한 바에 따라 요양급여비용명세서에 명시하여 제출하여야 한다. (예) 25mg, 50mg 함량의 약제가 각각 등재된 경우 - 1회 투약량이 50mg인 경우 → 50mg 1정 처방"
+105,50mg,ok,50 mg,정상 밀리그램 표기(ASCII).,"(보건복지부 고시)｣에서 정한 바에 따라 요양급여비용명세서에 명시하여 제출하여야 한다. (예) 25mg, 50mg 함량의 약제가 각각 등재된 경우 - 1회 투약량이 50mg인 경우 → 50mg 1정 처방 - 1회"
+105,50mg,ok,50 mg,정상 밀리그램 표기(ASCII).,"한다. (예) 25mg, 50mg 함량의 약제가 각각 등재된 경우 - 1회 투약량이 50mg인 경우 → 50mg 1정 처방 - 1회 투약량이 75mg 필요한 경우 → 50mg 1정과 25mg 1정 처방 (고시 제2"
+105,75mg,ok,75 mg,정상 밀리그램 표기(ASCII).,"약제가 각각 등재된 경우 - 1회 투약량이 50mg인 경우 → 50mg 1정 처방 - 1회 투약량이 75mg 필요한 경우 → 50mg 1정과 25mg 1정 처방 (고시 제2017-109호, ʼ17.7.1.) [일반"
+105,50mg,ok,50 mg,정상 밀리그램 표기(ASCII).,"- 1회 투약량이 50mg인 경우 → 50mg 1정 처방 - 1회 투약량이 75mg 필요한 경우 → 50mg 1정과 25mg 1정 처방 (고시 제2017-109호, ʼ17.7.1.) [일반원칙] 비타민제 소모성 질"
+105,25mg,ok,25 mg,정상 밀리그램 표기(ASCII).,"이 50mg인 경우 → 50mg 1정 처방 - 1회 투약량이 75mg 필요한 경우 → 50mg 1정과 25mg 1정 처방 (고시 제2017-109호, ʼ17.7.1.) [일반원칙] 비타민제 소모성 질환에는 허가된 용량"
+109,15mL,ok,15 mL,정상 밀리리터 표기.,사 (Cardio-pulmonary exercise testing) Peak O2 consumption≦15mL/ min/kg ⑦ BNP/NT-proBNP plasma levels 50/300 이상 ⑧ 심초음파검사소견
+110,11ml,ok,11 mL,정상 밀리리터 표기.,65m 미만 운동부하심폐검사(Cardiopulmon ary exercise testing) Peak VO2<11ml/min/kg (<35% pred.) VE/VCO2 slope≥45 NT-proBNP plasma level
+110,α,ok,(그대로),그리스 문자 정상 검출.,"성신부전증환자(혈액투석 및 복막투석환자) 가. 혈압강하제(고혈압 치료제) 1) 이뇨제 2) 교감신경차단제：α, β Adrenoreceptor blocking agents 3) 혈관확장제 4) 안지오텐신 전환효소억제"
+110,β,ok,(그대로),그리스 문자 정상 검출.,"전증환자(혈액투석 및 복막투석환자) 가. 혈압강하제(고혈압 치료제) 1) 이뇨제 2) 교감신경차단제：α, β Adrenoreceptor blocking agents 3) 혈관확장제 4) 안지오텐신 전환효소억제제(A"
+115,0.1ml,ok,0.1 mL,정상 밀리리터 표기.,") 대상 환자: 혈액 또는 안구 내에서 진균 감염이 확인된 경우 2) 투여 방법: 전방 내 주사(50μg/0.1ml), 유리체강 내 주사(50μg/0.1ml~100μg/0.1ml) 투여 시 인정 3. 허가사항 범위를 초"
+115,0.1ml,ok,0.1 mL,정상 밀리리터 표기.,"감염이 확인된 경우 2) 투여 방법: 전방 내 주사(50μg/0.1ml), 유리체강 내 주사(50μg/0.1ml~100μg/0.1ml) 투여 시 인정 3. 허가사항 범위를 초과하여 아래와 같은 경우에는 약값 전액을"
+115,0.1ml,ok,0.1 mL,정상 밀리리터 표기.,"2) 투여 방법: 전방 내 주사(50μg/0.1ml), 유리체강 내 주사(50μg/0.1ml~100μg/0.1ml) 투여 시 인정 3. 허가사항 범위를 초과하여 아래와 같은 경우에는 약값 전액을 환자가 부담토록 함."
+115,μ,ok,(그대로),그리스 문자 정상 검출.,"- 1) 대상 환자: 혈액 또는 안구 내에서 진균 감염이 확인된 경우 2) 투여 방법: 전방 내 주사(50μg/0.1ml), 유리체강 내 주사(50μg/0.1ml~100μg/0.1ml) 투여 시 인정 3. 허가사"
+115,μ,ok,(그대로),그리스 문자 정상 검출.,"진균 감염이 확인된 경우 2) 투여 방법: 전방 내 주사(50μg/0.1ml), 유리체강 내 주사(50μg/0.1ml~100μg/0.1ml) 투여 시 인정 3. 허가사항 범위를 초과하여 아래와 같은 경우에는 약"
+115,μ,ok,(그대로),그리스 문자 정상 검출.,"경우 2) 투여 방법: 전방 내 주사(50μg/0.1ml), 유리체강 내 주사(50μg/0.1ml~100μg/0.1ml) 투여 시 인정 3. 허가사항 범위를 초과하여 아래와 같은 경우에는 약값 전액을 환자가 부"
+122,0.35mg,ok,0.35 mg,정상 밀리그램 표기(ASCII).,"황에서 정맥주사가 어려울 때, 근육주사 등의 방법으로 투여하는 경우 2) 투여용량 가) 초기용량：0.2-0.35mg/kg 주사하며 총15mg을 초과하지 않도록 함 나) 유지용량：0.05-0.4mg/kg/hr로 유지하나 뇌"
+122,0.4mg,ok,0.4 mg,정상 밀리그램 표기(ASCII).,가) 초기용량：0.2-0.35mg/kg 주사하며 총15mg을 초과하지 않도록 함 나) 유지용량：0.05-0.4mg/kg/hr로 유지하나 뇌파 검사(EEG monitoring)하에서는 1mg/kg/hr까지 증량 가능
+122,1mg,ok,1 mg,정상 밀리그램 표기(ASCII).,함 나) 유지용량：0.05-0.4mg/kg/hr로 유지하나 뇌파 검사(EEG monitoring)하에서는 1mg/kg/hr까지 증량 가능
+123,0.1mg,ok,0.1 mg,정상 밀리그램 표기(ASCII).,"가능함 나. 인공호흡기와의 부조화(Ventilator fighting)에 진정목적으로 투여 시에는 0.1mg/kg/hr, 최대 0.2mg/kg/hr 용량으로 투여하며, Vecuronium 등 다른 제제를 같이 사"
+123,0.2mg,ok,0.2 mg,정상 밀리그램 표기(ASCII).,"의 부조화(Ventilator fighting)에 진정목적으로 투여 시에는 0.1mg/kg/hr, 최대 0.2mg/kg/hr 용량으로 투여하며, Vecuronium 등 다른 제제를 같이 사용할 때는 감량함. (고시 제2"
+125,2.5mg,ok,2.5 mg,정상 밀리그램 표기(ASCII).,avet syndrome)과 관련된 발작(seizure)의 치료 ○ 투여용량 1) 시작용량: 2.5mg/kg 하루 2회 복용(5mg/kg/day) 2) 유지용량: 투약 1주 후 5mg/kg 하루 2회복용
+125,5mg,ok,5 mg,정상 밀리그램 표기(ASCII).,련된 발작(seizure)의 치료 ○ 투여용량 1) 시작용량: 2.5mg/kg 하루 2회 복용(5mg/kg/day) 2) 유지용량: 투약 1주 후 5mg/kg 하루 2회복용 (10mg/kg/day)으로
+125,5mg,ok,5 mg,정상 밀리그램 표기(ASCII).,1) 시작용량: 2.5mg/kg 하루 2회 복용(5mg/kg/day) 2) 유지용량: 투약 1주 후 5mg/kg 하루 2회복용 (10mg/kg/day)으로 증량할 수 있음. - 최대 권장 유지 용량: 내
+125,10mg,ok,10 mg,정상 밀리그램 표기(ASCII).,"g 하루 2회 복용(5mg/kg/day) 2) 유지용량: 투약 1주 후 5mg/kg 하루 2회복용 (10mg/kg/day)으로 증량할 수 있음. - 최대 권장 유지 용량: 내약성이 좋고, 발작 감소가 필"
+125,10mg,ok,10 mg,정상 밀리그램 표기(ASCII).,"으로 증량할 수 있음. - 최대 권장 유지 용량: 내약성이 좋고, 발작 감소가 필요한 환자들은 10mg/kg 하루 2회복용 (20mg/ kg/day)으로 증량할 수 있으며, 주마다 2.5mg/ kg 하루 2회"
+125,20mg,ok,20 mg,정상 밀리그램 표기(ASCII).,"- 최대 권장 유지 용량: 내약성이 좋고, 발작 감소가 필요한 환자들은 10mg/kg 하루 2회복용 (20mg/ kg/day)으로 증량할 수 있으며, 주마다 2.5mg/ kg 하루 2회(5mg/day) 증량하도록 한"
+125,2.5mg,ok,2.5 mg,정상 밀리그램 표기(ASCII).,"필요한 환자들은 10mg/kg 하루 2회복용 (20mg/ kg/day)으로 증량할 수 있으며, 주마다 2.5mg/ kg 하루 2회(5mg/day) 증량하도록 한다. * 10mg/kg/day에서 20mg/k"
+125,5mg,ok,5 mg,정상 밀리그램 표기(ASCII).,"kg 하루 2회복용 (20mg/ kg/day)으로 증량할 수 있으며, 주마다 2.5mg/ kg 하루 2회(5mg/day) 증량하도록 한다. * 10mg/kg/day에서 20mg/kg/day로 빠르게 증량"
+125,10mg,ok,10 mg,정상 밀리그램 표기(ASCII).,"량할 수 있으며, 주마다 2.5mg/ kg 하루 2회(5mg/day) 증량하도록 한다. * 10mg/kg/day에서 20mg/kg/day로 빠르게 증량이 가능하다고 판단되는 환자의 경우, 2일 이상의 간"
+125,20mg,ok,20 mg,정상 밀리그램 표기(ASCII).,"2.5mg/ kg 하루 2회(5mg/day) 증량하도록 한다. * 10mg/kg/day에서 20mg/kg/day로 빠르게 증량이 가능하다고 판단되는 환자의 경우, 2일 이상의 간격을 두고 증량할 수 있다"
+126,α,ok,(그대로),그리스 문자 정상 검출.,ic pain) - 다 음 - 가. 당뇨병성 말초 신경병증성 통증 1) Thioctic acid(또는 α-lipoic acid) 경구제와 병용 투여 시 요양급여를 인정함. 2) 당뇨병성 말초 신경병증성 통증치료제
+128,100mg,ok,100 mg,정상 밀리그램 표기(ASCII).,"제2018-18호, ʼ18.2.1.) [113] Rufinamide 경구제 (품명: 이노베론필름코팅정 100mg 등) 허가사항 범위 내에서 아래와 같은 기준으로 투여 시 요양 급여를 인정함. - 아 래 - ○ 1"
+130,300mg,ok,300 mg,정상 밀리그램 표기(ASCII).,"소염제 구 분 세부인정기준 및 방법 [114] 자오가·우슬·방풍·두충 ·구척·흑두 건조엑스(20→1)300mg (품명: 신바로캡슐 등) 허가사항 범위 내에서 골관절증에 요양급여를 인정하며, 동 인정기준 이외에는 약"
+130,200mg,ok,200 mg,정상 밀리그램 표기(ASCII).,"통 나. 용량: 허가사항 범위 내에서 인정하며, 다만, Sumatriptan succinate는 1일 200mg, Zolmitriptan는 1일 5mg까지 인정함. ※ 대상 약제 Almotripta"
+132,60mg,ok,60 mg,정상 밀리그램 표기(ASCII).,❘ 125 ❘ 구 분 세부인정기준 및 방법 [114] Loxoprofen sodium 60mg 경구제 (품명: 동화록소닌정 등) 허가사항 범위 내에서 아래와 같은 기준으로 투여 시 요양 급여를 인정하며
+132,20mg,ok,20 mg,정상 밀리그램 표기(ASCII).,ate 경구제의 부작용으로 투약이 불가능한 경우 나. Methotrexate 경구제로 3개월(용량: 15~20mg/week) 이상 복용하였으나 효과가 불충분한 경우 2. 허가사항 범위를 초과하여 크론병에 관해 유도 시
+132,25mg,ok,25 mg,정상 밀리그램 표기(ASCII).,"eek) 이상 복용하였으나 효과가 불충분한 경우 2. 허가사항 범위를 초과하여 크론병에 관해 유도 시 25mg/주, 관해 유지 시 15mg/주로 투여 시 인정함. 3. 자가주사로 처방 가능하며, 1회 처방기간은 최대"
+132,15mg,ok,15 mg,정상 밀리그램 표기(ASCII).,"효과가 불충분한 경우 2. 허가사항 범위를 초과하여 크론병에 관해 유도 시 25mg/주, 관해 유지 시 15mg/주로 투여 시 인정함. 3. 자가주사로 처방 가능하며, 1회 처방기간은 최대 4주분 (방문 시 투여분 포함"
+137,100mg,ok,100 mg,정상 밀리그램 표기(ASCII).,"투여 시 요양급여를 인정함. (고시 제2017-180호, ʼ17.10.1.) [117] Bupropion 100mg 경구제 (품명: 웰정) 1. 허가사항 범위 내에서 투여 시 요양급여 함을 원칙으로 함. 2. 만 24세"
+137,150mg,ok,150 mg,정상 밀리그램 표기(ASCII).,"하여 투여하여야 함. (고시 제2013-127호, ʼ13.9.1.) [117] Bupropion HCl 150mg 경구제 (품명: 웰부트린서방정 등) 1. 허가사항 중 우울병으로 확진된 경우, 서방정인 동 약제의"
+137,300mg,ok,300 mg,정상 밀리그램 표기(ASCII).,"린서방정 등) 1. 허가사항 중 우울병으로 확진된 경우, 서방정인 동 약제의 특성을 고려하여 1일 최대 300mg 까지는 요양급여 함. 다만, 만 24세 이하인 자의 우울병에는 허가사항 중 사용상의 주의사항(경고, 이상"
+138,12.5mg,ok,12.5 mg,정상 밀리그램 표기(ASCII).,나 부작용이 발생한 경우 나. 용법·용량 : 저녁에 한 번 투여함 1) 초기용량: 1일 12.5mg 투여하고 12.5mg씩 주당 2회 증량 가능하며 두 번째 주말에 최대 50mg 이상을 초과하면 안 됨
+138,50mg,ok,50 mg,정상 밀리그램 표기(ASCII).,1) 초기용량: 1일 12.5mg 투여하고 12.5mg씩 주당 2회 증량 가능하며 두 번째 주말에 최대 50mg 이상을 초과하면 안 됨 2) 유지용량 가) 1일 25∼37.5mg 투여. 나)
+138,37.5mg,ok,37.5 mg,정상 밀리그램 표기(ASCII).,"며 두 번째 주말에 최대 50mg 이상을 초과하면 안 됨 2) 유지용량 가) 1일 25∼37.5mg 투여. 나) 단, 예외적인 경우에만 1일 50mg 투약을 초과 해야 하며 최소 1주일의 기간 동안"
+138,50mg,ok,50 mg,정상 밀리그램 표기(ASCII).,"2) 유지용량 가) 1일 25∼37.5mg 투여. 나) 단, 예외적인 경우에만 1일 50mg 투약을 초과 해야 하며 최소 1주일의 기간 동안 50mg 용량으로 치료효과가 불충분한 경우 주의하여 12"
+138,50mg,ok,50 mg,정상 밀리그램 표기(ASCII).,"투여. 나) 단, 예외적인 경우에만 1일 50mg 투약을 초과 해야 하며 최소 1주일의 기간 동안 50mg 용량으로 치료효과가 불충분한 경우 주의하여 12.5mg씩 증량 가능함. 1일 최대용량 100mg을 초과"
+141,α,ok,(그대로),그리스 문자 정상 검출.,가 있어야 함 2. 당뇨병성 말초 신경병증성 통증에 요양급여를 인정함. 가. Thioctic acid(또는 α-lipoic acid) 경구제와 병용 투여 시 요양급여를 인정함. 나. 당뇨병성 말초 신경병증성 통증치료제
+151,0.1mg,ok,0.1 mg,정상 밀리그램 표기(ASCII).,"’21.2.1.) [119] Clonidine hydrochloride 경구제 (품명: 켑베이서방정 0.1mg) 허가사항 범위 내에서 아래와 같이 투여 시 요양급여를 인정하며, 동 인정기준 이외에는 약값 전액을 환자"
+153,3mg,ok,3 mg,정상 밀리그램 표기(ASCII).,"동 인정기준 이외에는 약값 전액을 환자가 부담토록 함 - 아 래 - 가. 투여대상 1) 3mg, 5mg, 10mg 경구제 및 87.5mg, 175mg 패취제 가), 나) 조건을 동시에 충족하는 알츠하이"
+153,5mg,ok,5 mg,정상 밀리그램 표기(ASCII).,"기준 이외에는 약값 전액을 환자가 부담토록 함 - 아 래 - 가. 투여대상 1) 3mg, 5mg, 10mg 경구제 및 87.5mg, 175mg 패취제 가), 나) 조건을 동시에 충족하는 알츠하이머 형태"
+153,10mg,ok,10 mg,정상 밀리그램 표기(ASCII).,"에는 약값 전액을 환자가 부담토록 함 - 아 래 - 가. 투여대상 1) 3mg, 5mg, 10mg 경구제 및 87.5mg, 175mg 패취제 가), 나) 조건을 동시에 충족하는 알츠하이머 형태 (뇌혈관 질"
+153,87.5mg,ok,87.5 mg,정상 밀리그램 표기(ASCII).,"환자가 부담토록 함 - 아 래 - 가. 투여대상 1) 3mg, 5mg, 10mg 경구제 및 87.5mg, 175mg 패취제 가), 나) 조건을 동시에 충족하는 알츠하이머 형태 (뇌혈관 질환을 동반한 알츠하이머"
+153,175mg,ok,175 mg,정상 밀리그램 표기(ASCII).,"함 - 아 래 - 가. 투여대상 1) 3mg, 5mg, 10mg 경구제 및 87.5mg, 175mg 패취제 가), 나) 조건을 동시에 충족하는 알츠하이머 형태 (뇌혈관 질환을 동반한 알츠하이머 포함)의 경증"
+153,23mg,ok,23 mg,정상 밀리그램 표기(ASCII).,"(2) GDS(Global Deterioration Scale) stage 3∼7 2) 23mg 경구제 가), 나) 조건을 동시에 충족하는 알츠하이머 형태 (뇌혈관 질환을 동반한 알츠하이머 포함)의 중등"
+154,5mg,ok,5 mg,정상 밀리그램 표기(ASCII).,"평가방법 6-12개월 간격으로 재평가하여 계속투여 여부를 결정하며, 재평가에서 MMSE의 경우에는 26점(5mg, 10mg 경구제 및 87.5mg, 175mg 패취제) 또는 20점 (23mg 경구제)을 초과하여도 지속"
+154,10mg,ok,10 mg,정상 밀리그램 표기(ASCII).,"-12개월 간격으로 재평가하여 계속투여 여부를 결정하며, 재평가에서 MMSE의 경우에는 26점(5mg, 10mg 경구제 및 87.5mg, 175mg 패취제) 또는 20점 (23mg 경구제)을 초과하여도 지속 투여를 인정"
+154,87.5mg,ok,87.5 mg,정상 밀리그램 표기(ASCII).,"재평가하여 계속투여 여부를 결정하며, 재평가에서 MMSE의 경우에는 26점(5mg, 10mg 경구제 및 87.5mg, 175mg 패취제) 또는 20점 (23mg 경구제)을 초과하여도 지속 투여를 인정함. ○ 다만,"
+154,175mg,ok,175 mg,정상 밀리그램 표기(ASCII).,"투여 여부를 결정하며, 재평가에서 MMSE의 경우에는 26점(5mg, 10mg 경구제 및 87.5mg, 175mg 패취제) 또는 20점 (23mg 경구제)을 초과하여도 지속 투여를 인정함. ○ 다만, MMSE 10"
+154,23mg,ok,23 mg,정상 밀리그램 표기(ASCII).,"MMSE의 경우에는 26점(5mg, 10mg 경구제 및 87.5mg, 175mg 패취제) 또는 20점 (23mg 경구제)을 초과하여도 지속 투여를 인정함. ○ 다만, MMSE 10점 미만이고 CDR 3 (또는 G"
+159,20mg,ok,20 mg,정상 밀리그램 표기(ASCII).,"30호, ʼ24.7.1.) [119] Glatiramer acetate 주사제 (품명: 코팍손프리 필드주 20mg/1ml 등) 허가사항 범위 내에서 아래와 같은 기준으로 투여 시 요양급여를 인정하며, 동 인정기준 이외에"
+159,1ml,ok,1 mL,정상 밀리리터 표기.,"ʼ24.7.1.) [119] Glatiramer acetate 주사제 (품명: 코팍손프리 필드주 20mg/1ml 등) 허가사항 범위 내에서 아래와 같은 기준으로 투여 시 요양급여를 인정하며, 동 인정기준 이외에는 약값"
+161,200mg,ok,200 mg,정상 밀리그램 표기(ASCII).,"값 전액을 환자가 부담토록 함. (고시 제2019-21호, ʼ19.2.1.) [119] Modafinil 200mg 경구제 (품명: 프로비질정 등), Armodafinil 경구제 (품명: 누비질정) 1. 허가사항 범위 내"
+165,α,ok,(그대로),그리스 문자 정상 검출.,hic pain) 1) 당뇨병성 말초 신경병증성 통증 가) Thioctic acid(또는 α-lipoic acid) 경구제와 병용투여 시 요양급여를 인정함 나) 당뇨병성 말초 신경병증성 통
+166,α,ok,(그대로),그리스 문자 정상 검출.,hic pain) 1) 당뇨병성 말초 신경병증성 통증 가) Thioctic acid(또는 α-lipoic acid) 경구제와 병용투여 시 요양급여를 인정함. 나) 당뇨병성 말초 신경병증성
+176,25mg,ok,25 mg,정상 밀리그램 표기(ASCII).,❘ 121 국소마취제 구 분 세부인정기준 및 방법 [121] Levobupivacaine HCl 25mg 주사제 (품명: 카이로케인주) 허가사항 범위 내에서 아래와 같은 기준으로 투여하는 경우에 요양급여를 인
+177,10mg,ok,10 mg,정상 밀리그램 표기(ASCII).,"자 (고시 제2017-193호, ʼ17.11.1.) [122] baclofen 주사제 (품명: 리오레살주 10mg/5mL) 식품의약품안전처장이 인정한 범위 내에서 경구근이완제 (baclofen 등)로 반응이 불충분하거나"
+177,5mL,ok,5 mL,정상 밀리리터 표기.,"제2017-193호, ʼ17.11.1.) [122] baclofen 주사제 (품명: 리오레살주 10mg/5mL) 식품의약품안전처장이 인정한 범위 내에서 경구근이완제 (baclofen 등)로 반응이 불충분하거나 부작용"
+179,120mg,ok,120 mg,정상 밀리그램 표기(ASCII).,"내에서 투여 시 요양급여 함을 원칙으로 함. 2. 허가사항 범위(용법․용량)를 초과하여 신경성방광에 최대 120mg/일까지 사용한 경우에도 요양급여를 인정함. (고시 제2017-193호, ʼ17.11.1.) [123] G"
+183,μ,ok,(그대로),그리스 문자 정상 검출.,"r Edema, DME) ○최단 중심망막두께(Central retinal thickness) 300μm 이상인 경우 ※ Ranibizumab 주사제 또는 Aflibercept 주사제 또는 Faric"
+184,18mg,ok,18 mg,정상 밀리그램 표기(ASCII).,"아니함. (고시 제2023-197호, ʼ23.11.1.) [131] Sodium hyaluronate 18mg/10ml 외용제 (품명: 비스메드점안액) 허가사항 범위 내에서 아래와 같은 기준으로 투여 시 요양 급여를"
+184,5ml,ok,5 mL,정상 밀리리터 표기.,"요양급여를 인정함. (고시 제2021-26호, ’21.2.1.) [131] Rebamipide 0.1g/5ml 외용제 (품명: 레바아이점안액2% 등, 레바아이점안액(1회용) 등) 허가사항 범위(성인 안구건조증 환"
+184,10ml,ok,10 mL,정상 밀리리터 표기.,"(고시 제2023-197호, ʼ23.11.1.) [131] Sodium hyaluronate 18mg/10ml 외용제 (품명: 비스메드점안액) 허가사항 범위 내에서 아래와 같은 기준으로 투여 시 요양 급여를 인정함."
+186,μ,ok,(그대로),그리스 문자 정상 검출.,"❘ 179 ❘ 구 분 세부인정기준 및 방법 300μm 이상인 경우 2) 재투여는 최소 3개월 이상 간격으로 투여하되, 환자의 상태를 보면서 치료상의 유익"
+193,α,ok,(그대로),그리스 문자 정상 검출.,"사용상 주의사항(금기 등)’을 반드시 참고하여 투여하여야 함. 4. 동 약제를 사용하는 경우에는 「TNF-α inhibitor 사용 시 잠복결핵 치료지침」을 따라야 함. (고시 제2024-72호, ʼ24.5.1.)"
+194,α,ok,(그대로),그리스 문자 정상 검출.,"하여 첫 6개월째의 평가 결과가 유지되면 지속적인 투여를 인정함. 다. 종양괴사인자알파저해제(TNF-α inhibitor: Adalimumab, Etanercept, Golimumab, Infliximab 주"
+196,20mg,ok,20 mg,정상 밀리그램 표기(ASCII).,"생체구분 없음), 손 및 팔이식에 투여 시 나. 투여용량 및 횟수 1) 투여 용량: 1회 20mg 2) 투여 횟수: 2회 3. 허가사항 범위(효능․효과)를 초과하여 아래와 같은 기준 으로 투여 시"
+196,20mg,ok,20 mg,정상 밀리그램 표기(ASCII).,"불응성인 급성이식편대숙주질환, 발 및 다리이식에 투여 시 나. 투여용량 및 횟수 1) 투여 용량: 1회 20mg 2) 투여 횟수: 2회 (고시 제2020-17호, ʼ20.2.1.)"
+196,α,ok,(그대로),그리스 문자 정상 검출.,"사용 상 주의사항(금기 등)’을 반드시 참고하여 투여하여야 함. 5. 동 약제를 사용하는 경우에는「TNF-α inhibitor 사용 시 잠복결핵 치료지침」을 따라야 함. (고시 제2024-72호, ʼ24.5.1.)"
+201,α,ok,(그대로),그리스 문자 정상 검출.,"개월마다 평가하여 최초 평가 결과가 유지되면 지속적인 투여를 인정함. 다. 종양괴사인자알파저해제(TNF-α inhibitor: Adalimumab, Etanercept, Infliximab 주사제), 또는 Ust"
+202,α,ok,(그대로),그리스 문자 정상 검출.,"부작용이 없는 환자의 경우 최대 60∼90일분까지 인정함. 바. 동 약제를 사용하는 경우에는 「TNF-α inhibitor 사용시 잠복결핵 치료지침」을 따라야 함. (고시 제2024-130호, ʼ24.7.1.)"
+208,α,ok,(그대로),그리스 문자 정상 검출.,"는 Rectal bleeding subscore 0점 또는 1점인 경우 2. 종양괴사인자알파저해제(TNF-α inhibitor: Adalimumab, Etanercept, Golimumab, Infliximab 주"
+208,α,ok,(그대로),그리스 문자 정상 검출.,"용 상 주의사항(금기 등)’을 반드시 참고하여 투여하여야 함. 5. 동 약제를 사용하는 경우에는 「TNF-α inhibitor 사용 시 잠복결핵 치료지침」을 따라야 함. (고시 제2024-20호, ʼ24.2.1.)"
+213,α,ok,(그대로),그리스 문자 정상 검출.,"❘ 206 ❘ 구 분 세부인정기준 및 방법 3. 다른 종양괴사인자알파저해제(TNF-α inhibitor: Adalimumab, Etanercept, Infliximab 주사제) 또는 Abat"
+213,α,ok,(그대로),그리스 문자 정상 검출.,"보이고 부작용이 없는 환자의 경우 최대 2∼3회분까지 인정함. 6. 동 약제를 사용하는 경우에는 「TNF-α inhibitor 사용시 잠복결핵 치료지침」을 따라야 함. (고시 제2023-296호, ʼ24.1.1.)"
+215,α,ok,(그대로),그리스 문자 정상 검출.,"❘ 208 ❘ 구 분 세부인정기준 및 방법 3) 종양괴사인자알파저해제(TNF-α inhibitor: Adalimumab, Etanercept, Infliximab 주사제), 또는 Ixe"
+216,α,ok,(그대로),그리스 문자 정상 검출.,"방법 다. 활동성 및 진행성 건선성 관절염 1) 투여대상 1종 이상의 종양괴사인자알파저해제(TNF-α inhibitor) 또는 IL-17 inhibitor에 반응이 불충분하거나 부작용, 금기 등으로 치료를"
+216,α,ok,(그대로),그리스 문자 정상 검출.,". 3) 동 약제에 효과가 없거나 부작용으로 투약을 지속할 수 없어 이전에 투여한 적이 없는 TNF-α inhibitor (Etanercept, Adalimumab, Infliximab, Golimumab"
+219,α,ok,(그대로),그리스 문자 정상 검출.,"다 평가하여 첫 16주째의 평가결 과가 유지되면 지속적인 투여를 인정함. 2. 종양괴사인자알파저해제(TNF-α inhibitor: Adalimumab, Etanercept, Golimumab, Infliximab 주"
+219,α,ok,(그대로),그리스 문자 정상 검출.,"이고 부작용이 없는 환자의 경우 최대 8∼12주분까지 인정함. 5. 동 약제를 사용하는 경우에는 「TNF-α inhibitor 사용시 잠복결핵 치료지침」을 따라야 함. (고시 제2024-130호, ʼ24.7.1.)"
+220,750mg,ok,750 mg,정상 밀리그램 표기(ASCII).,"코르티코스테로이드 의 경우는 환자 상태에 따라 추가 여부를 결정할 수 있음 2) 투여 용량: 1회 750mg 이내, 1일 2회 투여 라. 루푸스신염: 1) WHO 분류 단계 Ⅲ, Ⅳ로 확진된 환자 (관해 유"
+221,15mg,ok,15 mg,정상 밀리그램 표기(ASCII).,"항의 주의사항 참고)이 있는 경우 (2) 제대혈이식 시 일차요법 나) 투여용량 및 기간: 15mg/kg을 1일 3회, 이식당일 에서 이식 후 27일까지 2) 치료목적으로 투여 시 가) 투여대상"
+221,15mg,ok,15 mg,정상 밀리그램 표기(ASCII).,적으로 투여 시 가) 투여대상: 스테로이드 저항성 또는 금기 환자 나) 투여용량: 1g 또는 15mg/kg을 1일 2회 아. 중증근무력증: Azathioprine 또는 스테로이드제에
+222,3000mg,ok,3000 mg,정상 밀리그램 표기(ASCII).,RSS(Modified Rodnan Skin Score) 12점 이상인 경우 2) 투여용량: 250∼3000mg/day 타. 시신경척수염 범주질환(Neuromyelitis optica spectrum disor
+222,1200mg,ok,1200 mg,정상 밀리그램 표기(ASCII).,") 항 MOG 항체 연관 질환 환자로서 스테로이드 치료 중 재발이 있는 경우 1) 투여용량: 600-1200mg/m2/d (최대 2g/d) 2) 투여기간: 2년 동안 재발없이 임상적으로 안정화 된 후에, 단계적인"
+223,3000mg,ok,3000 mg,정상 밀리그램 표기(ASCII).,5% ≦ Forced Vital Capacity(FVC) < 80%’인 경우 2) 투여용량: 250∼3000mg/day 3. 허가사항 범위를 초과하여 아래와 같은 기준으로 투여하는 경우에는 약값 전액을 환자가 부담토
+223,750mg,ok,750 mg,정상 밀리그램 표기(ASCII).,"는 코르티코스테로이드의 경우는 환자 상태에 따라 추가 여부를 결정할 수 있음 2) 투여 용량: 1회 750mg 이내, 1일 2회 투여 4. 허가사항을 초과하여 혈우병A, B 항체 환자의 면역관용 요법에 투여하고자 건강"
+225,α,ok,(그대로),그리스 문자 정상 검출.,"는 Rectal bleeding subscore 0점 또는 1점인 경우 2. 종양괴사인자알파저해제(TNF-α inhibitor: Adalimumab, Golimumab, Infliximab 주사제) 또는 Ustek"
+226,3.75mg,ok,3.75 mg,정상 밀리그램 표기(ASCII).,래 - 가. 재생불량성빈혈 및 발작야간혈색뇨증환자의 조혈모 세포이식수술시 전처치요법으로 총 투여용량을 3.75mg/kg ~ 10mg/kg 범위 내에서 인정 나. 재생불량성빈혈 치료 시 용법·용량을 초과하여 3.5mg
+226,10mg,ok,10 mg,정상 밀리그램 표기(ASCII).,량성빈혈 및 발작야간혈색뇨증환자의 조혈모 세포이식수술시 전처치요법으로 총 투여용량을 3.75mg/kg ~ 10mg/kg 범위 내에서 인정 나. 재생불량성빈혈 치료 시 용법·용량을 초과하여 3.5mg/kg씩 5일간 투
+226,3.5mg,ok,3.5 mg,정상 밀리그램 표기(ASCII).,.75mg/kg ~ 10mg/kg 범위 내에서 인정 나. 재생불량성빈혈 치료 시 용법·용량을 초과하여 3.5mg/kg씩 5일간 투여 시에도 인정 다. 동종조혈모세포이식이 불가능한 골수이형성증후군에 투여 시 인정
+226,10mg,ok,10 mg,정상 밀리그램 표기(ASCII).,군에 투여 시 인정 라. 동종조혈모세포이식 시 이식편대숙주반응의 고위험군 에서 전처치요법으로 총 용량 10mg/kg 범위 내에서 분할 투여 시 인정 마. 췌장 및 췌도이식에 투여 시 인정 바. 소장이식에 투
+227,1.5mg,ok,1.5 mg,정상 밀리그램 표기(ASCII).,❘ 220 ❘ 구 분 세부인정기준 및 방법 1) 투여용량: 1일 1-1.5mg/kg 2) 투여일수: 5일 이내 3. 허가사항 범위를 초과하여 아래와 같은 기준으로 투여 시 약값
+227,1.5mg,ok,1.5 mg,정상 밀리그램 표기(ASCII).,"액을 환자가 부담토록 함. - 아 래 - ○ 발 및 다리이식에 투여 시 1) 투여용량: 1일 1-1.5mg/kg 2) 투여일수: 5일 이내 (고시 제2019-210호, ʼ19.10.1.) [142] Risank"
+228,α,ok,(그대로),그리스 문자 정상 검출.,"월마다 평가하여 최초 평가결과가 유지되면 지속적인 투여를 인정함. 3) 종양괴사인자알파저해제(TNF-α inhibitor: Adalimumab, Etanercept, Infliximab 주사제), 또는 Gus"
+228,α,ok,(그대로),그리스 문자 정상 검출.,"함. 나. 활동성 및 진행성 건선성 관절염 1) 투여대상 1종 이상의 종양괴사인자알파저해제(TNF-α inhibitor) 또는 IL-17 inhibitor에 반응이 불충분하거나 부작용, 금기 등으로 치료를"
+229,α,ok,(그대로),그리스 문자 정상 검출.,". 3) 동 약제에 효과가 없거나 부작용으로 투약을 지속할 수 없어 이전에 투여한 적이 없는 TNF-α inhibitor (Etanercept, Adalimumab, Infliximab, Golimumab"
+232,α,ok,(그대로),그리스 문자 정상 검출.,"다 평가하여 첫 16주째의 평가결 과가 유지되면 지속적인 투여를 인정함. 2. 종양괴사인자알파저해제(TNF-α inhibitor: Adalimumab, Etanercept, Golimumab, Infliximab 주"
+232,α,ok,(그대로),그리스 문자 정상 검출.,"고 부작용이 없는 환자의 경우 최대 8∼12주 분까지 인정함. 5. 동 약제를 사용하는 경우에는 「TNF-α inhibitor 사용시 잠복결핵 치료지침」을 따라야 함. (고시 제2024-130호, ʼ24.7.1.)"
+233,1.5mg,ok,1.5 mg,정상 밀리그램 표기(ASCII).,"대상: 소장이식 후 3개월이 지난 환자로 Tacrolimus 투여로 신장기능이 저하되어 혈청 크레아티닌 1.5mg/dL 초과, 사구체여과율(GFR) 75mL/min 미만인 경우 2) 투여방법: Tacrolimus와 병용"
+233,75mL,ok,75 mL,정상 밀리리터 표기.,"crolimus 투여로 신장기능이 저하되어 혈청 크레아티닌 1.5mg/dL 초과, 사구체여과율(GFR) 75mL/min 미만인 경우 2) 투여방법: Tacrolimus와 병용투여 3) 투여기간: 6개월 이내 나. 신이식"
+237,40mg,ok,40 mg,정상 밀리그램 표기(ASCII).,확진된 환자로 다음 중 한 가지에 해당하는 경우 - 다 음 - 가) 고용량의글루코코르티코이드(40mg/day prednisolone-equivalent 이상) 단독 또는 1종 이상의 면역억제제와 병용요법으
+237,10 mg,ok,10 mg,정상 밀리그램 표기(ASCII).,- 가) 임상적 증상의 현저한 호전이 있음. 나) ESR ≤ 30 mm/hr 또는 CRP ≤ 10 mg/L
+241,α,ok,(그대로),그리스 문자 정상 검출.,"하여 첫 6개월째의 평가 결과가 유지되면 지속적인 투여를 인정함. 3) 종양괴사인자알파저해제(TNF-α inhibitor: Adalimumab, Etanercept, Golimumab, Infliximab 주"
+242,α,ok,(그대로),그리스 문자 정상 검출.,"Rectal bleeding subscore 0점 또는 1점인 경우 3) 종양괴사인자알파저해제(TNF-α inhibitor: Adalimumab, Golimumab, Infliximab 주사제) 또는 Ustek"
+243,α,ok,(그대로),그리스 문자 정상 검출.,첨부하여야 함. 다. 중증의 강직성척추염 1) 투여대상 1종 이상의 종양괴사인자알파저해제(TNF-α inhibitor) 또는 IL-17A inhibitor에 반응이 불충분하거나 부작용 등으로 치료를 중단
+244,α,ok,(그대로),그리스 문자 정상 검출.,". 3) 동 약제에 효과가 없거나 부작용으로 투약을 지속할 수 없어 이전에 투여한 적이 없는 TNF-α inhibitor (Etanercept, Adalimumab, Infliximab, Golimumab"
+244,α,ok,(그대로),그리스 문자 정상 검출.,"사용 상 주의사항(금기 등)’을 반드시 참고하여 투여하여야 함. 4. 동 약제를 사용하는 경우에는「TNF-α inhibitor 사용 시 잠복결핵 치료지침」을 따라야 함. (고시 제2023-296호, ʼ24.1.1."
+247,α,ok,(그대로),그리스 문자 정상 검출.,"하여 첫 6개월째의 평가 결과가 유지되면 지속적인 투여를 인정함. 다. 종양괴사인자알파저해제(TNF-α inhibitor: Adalimumab, Etanercept, Golimumab, Infliximab 주"
+248,α,ok,(그대로),그리스 문자 정상 검출.,반드시 제출하여야 함. 3. 중증의 강직성척추염 가. 투여대상 1종 이상의 종양괴사인자알파저해제(TNF-α inhibitor) 또는 IL-17A inhibitor에 반응이 불충분하거나 부작용 등으로 치료를 중단
+249,α,ok,(그대로),그리스 문자 정상 검출.,"함. 다. 동 약제에 효과가 없거나 부작용으로 투약을 지속할 수 없어 이전에 투여한 적이 없는 TNF-α inhibitor (Etanercept, Adalimumab, Infliximab, Golimumab"
+251,α,ok,(그대로),그리스 문자 정상 검출.,"Rectal bleeding subscore 0점 또는 1점인 경우 다. 종양괴사인자알파저해제(TNF-α inhibitor: Adalimumab, Golimumab, Infliximab 주사제) 또는 Ustek"
+252,α,ok,(그대로),그리스 문자 정상 검출.,"score의 25% 이상 감소된 경우에 한하여 유지요법을 인정함. 다. 종양괴사인자알파저해제(TNF-α inhibitor: Adalimumab, Infliximab 주사제) 또는 Ustekinumab, Ved"
+252,α,ok,(그대로),그리스 문자 정상 검출.,사용상 주의사항(금기 등)’을 반드시 참고하여 투여하여야 함. 8. 동 약제를 사용하는 경우에는 「TNF-α inhibitor 사용 시 (4) 다음 6항목 중 환자가 현재 나타내는 해당 항목의 개수 × 20
+253,45mg,ok,45 mg,정상 밀리그램 표기(ASCII).,"제2024-72호, ʼ24.5.1.) [142] Ustekinumab 주사제 (품명: 스텔라라 프리필드주 45mg 등) 허가사항 범위 내에서 아래와 같은 기준으로 투여 시 요양 급여를 인정하며, 동 인정기준 이외에는 약값"
+254,α,ok,(그대로),그리스 문자 정상 검출.,"월마다 평가하여 최초 평가결과가 유지되면 지속적인 투여를 인정함. 3) 종양괴사인자알파저해제(TNF-α inhibitor: Adalimumab, Etanercept, Infliximab 주사제) 또는 Gus"
+254,α,ok,(그대로),그리스 문자 정상 검출.,"함. 나. 활동성 및 진행성 건선성 관절염 1) 투여대상 1종 이상의 종양괴사인자알파저해제(TNF-α inhibitor) 또는 IL-17 inhibitor에 반응이 불충분하거나 부작용, 금기 등으로 치료를"
+255,α,ok,(그대로),그리스 문자 정상 검출.,"❘ 248 ❘ 구 분 세부인정기준 및 방법 수 없어 이전에 투여한 적이 없는 TNF-α inhibitor (Etanercept, Adalimumab, Infliximab, Golimumab"
+256,α,ok,(그대로),그리스 문자 정상 검출.,"core의 25% 이상 감소한 경우에 한하여 유지요법을 인정함. 3) 종양괴사인자알파저해제 (TNF-α inhibitor: Adalimumab, Infliximab 주사제) 또는 Vedolizumab 주사제,"
+257,α,ok,(그대로),그리스 문자 정상 검출.,"Rectal bleeding subscore 0점 또는 1점인 경우 3) 종양괴사인자알파저해제(TNF-α inhibitor: Adalimumab, Golimumab, Infliximab 주사제) 또는 Vedo"
+260,76IU,ok,76 IU,정상 국제단위 표기.,arinic Antagonist - 다 음 - (1) 치료 시작 전 면역글로불린 E의 수치가 76IU/mL 이상 (2) 통년성 대기 알러젠에 대하여 시험관 내(in vitro)
+261,76IU,ok,76 IU,정상 국제단위 표기.,음의 조건을 모두 만족하는 경우 - 다 음 - (1) 치료 시작 전 면역글로불린 E의 수치가 76IU/mL 이상 (2) 통년성 대기 알러젠에 대하여 시험관 내(in vitro) 반응 또는 피부반응
+263,15mg,ok,15 mg,정상 밀리그램 표기(ASCII).,"유발할 수 있는 미토콘드리아 DNA 또는 nuclear DNA 변이가 확인된 경우 나. 인정용량: 5 ~ 15mg/kg/day, 1일 최대 600mg (고시 제2019-191호, ʼ19.9.1.)"
+263,600mg,ok,600 mg,정상 밀리그램 표기(ASCII).,"또는 nuclear DNA 변이가 확인된 경우 나. 인정용량: 5 ~ 15mg/kg/day, 1일 최대 600mg (고시 제2019-191호, ʼ19.9.1.)"
+264,1mg,ok,1 mg,정상 밀리그램 표기(ASCII).,"래 - 가. 일반 환자로서 마취 및 수술 중에 빈맥이 나타날 경우： 일시용량(Bolus dose)(0.5-1mg/kg)을 3회까지 인정 나. 심혈관계 질환(고혈압, 심장질환 등)을 가진 환자의"
+265,1mg,ok,1 mg,정상 밀리그램 표기(ASCII).,❘ 258 ❘ 구 분 세부인정기준 및 방법 비심장 수술시：일시용량(Bolus dose) (0.5-1mg/kg)와 유지용량(Maintenance dose)(50-300μg/kg/min)을 인정 다. 심혈관계(
+265,μ,ok,(그대로),그리스 문자 정상 검출.,시용량(Bolus dose) (0.5-1mg/kg)와 유지용량(Maintenance dose)(50-300μg/kg/min)을 인정 다. 심혈관계(Open heart) 수술시: 진료의사가 판단 하여 필요시에는 허가
+270,30mg,ok,30 mg,정상 밀리그램 표기(ASCII).,"127호, ʼ13.9.1.) [214] Fimasartan potassium 경구제 (품명: 카나브정 30mg 등) 허가사항 범위(본태성 고혈압) 내에서 투여 시 요양급여를 인정함. (고시 제2017-193호, ʼ"
+272,30mL,ok,30 mL,정상 밀리리터 표기.,"6) 임부 또는 임신하고 있을 가능성이 있는 부인 및 수유부 7) 신장애환자 (크레아티닌 클리어런스가 30mL/min 이하인 환자) (고시 제2019-93호, ʼ19.6.7.) [214] Macitentan 경구제"
+276,1mg,ok,1 mg,정상 밀리그램 표기(ASCII).,"눈의 시력이 손실된 환자 (고시 제2019-93호, ʼ19.6.7.) [214] Treprostinil 1mg/mL, 2.5mg/mL, 5mg/mL 주사제 (품명: 레모둘린 주사) 허가사항 범위 내에서 [일반원칙"
+276,2.5mg,ok,2.5 mg,정상 밀리그램 표기(ASCII).,"실된 환자 (고시 제2019-93호, ʼ19.6.7.) [214] Treprostinil 1mg/mL, 2.5mg/mL, 5mg/mL 주사제 (품명: 레모둘린 주사) 허가사항 범위 내에서 [일반원칙] 폐동맥고혈압약제"
+276,5mg,ok,5 mg,정상 밀리그램 표기(ASCII).,"제2019-93호, ʼ19.6.7.) [214] Treprostinil 1mg/mL, 2.5mg/mL, 5mg/mL 주사제 (품명: 레모둘린 주사) 허가사항 범위 내에서 [일반원칙] 폐동맥고혈압약제 “세부사항”"
+277,11ml,ok,11 mL,정상 밀리리터 표기.,미만 운동부하심폐검사 (Cardiopulmonary exercise testing) Peak VO2<11ml/min/kg(<35% pred.) VE/VCO2 slope≥45 NT-proBNP plasma levels
+279,30mg,ok,30 mg,정상 밀리그램 표기(ASCII).,신 24주에서 36주 사이에 자궁 수축이 있고 조산의 가능성이 있는 경우 나. 용법·용량 ○10-30mg 투여 후 자궁수축억제 정도에 따라 10-20mg을 4-8시간마다 또는 1일 용량으로 30-120mg 투
+279,120mg,ok,120 mg,정상 밀리그램 표기(ASCII).,"10-30mg 투여 후 자궁수축억제 정도에 따라 10-20mg을 4-8시간마다 또는 1일 용량으로 30-120mg 투여 다. 저혈압 임신부에는 주의하여 투여하여야 함. (고시 제2020-161호, ’20.8.1.)"
+282,100mg,ok,100 mg,정상 밀리그램 표기(ASCII).,투여하였으나 반응이 불충분한 경우(LDL-C 수치가 기저치 대비 50% 이상 감소하지 않거나 LDL-C≥100mg/dL인 경우) ※ 이형접합 가족성 고콜레스테롤혈증 확진은 Simon Broome(2006)에서 po
+282,70mg,ok,70 mg,정상 밀리그램 표기(ASCII).,여하였으나 반응이 불충분한 경우 (LDL-C 수치가 기저치 대비 50% 이상 감소하지 않거나 LDL-C≥70mg/dL인 경우)에 추가 투여
+283,100mg,ok,100 mg,정상 밀리그램 표기(ASCII).,"용량의 HMG-CoA reductase inhibitor와 Ezetimibe 투여에도 불구하고 LDL-C≥100mg/dL인 경우 ∙ 울혈성 심부전 과거력 (고시 제2024-37호, ʼ24.3.1.) [218] Cl"
+283,59mL,ok,59 mL,정상 밀리리터 표기.,나 경피적 관상동맥중재술 과거력 ∙ 당뇨병 ∙ 고혈압 ∙ 만성신장질환(eGFR 15-59mL/min/1.73m2) ∙ 현재 흡연 ∙ 최대내약용량의 HMG-CoA reductase inh
+285,0.2mg,ok,0.2 mg,정상 밀리그램 표기(ASCII).,"파린, 와파린, New Oral Anti-Coagulant 등 다. 투여용량 1) 24개월 이하 소아환자: 0.2mg/kg/day 2) 24개월 초과 소아환자: 1.0mg/kg/day ※ 최대 투여용량 75mg/day 라."
+285,1.0mg,ok,1.0 mg,정상 밀리그램 표기(ASCII).,nt 등 다. 투여용량 1) 24개월 이하 소아환자: 0.2mg/kg/day 2) 24개월 초과 소아환자: 1.0mg/kg/day ※ 최대 투여용량 75mg/day 라. 투여기간 - 환자상태 및 관상동맥 확장의 호전 여부에
+285,75mg,ok,75 mg,정상 밀리그램 표기(ASCII).,"소아환자: 0.2mg/kg/day 2) 24개월 초과 소아환자: 1.0mg/kg/day ※ 최대 투여용량 75mg/day 라. 투여기간 - 환자상태 및 관상동맥 확장의 호전 여부에 따라 투여 기간을 결정함. (다만, 나"
+286,70mg,ok,70 mg,정상 밀리그램 표기(ASCII).,투여하였으나 반응이 불충분한 경우(LDL-C 수치가 기저치 대비 50% 이상 감소하지 않거나 LDL-C≥70mg/dL인 경우)에 추가 투여 - 다 음 - 가. 치료 전 총 콜레스테롤>500mg/dL 혹은 LD
+286,500mg,ok,500 mg,정상 밀리그램 표기(ASCII).,않거나 LDL-C≥70mg/dL인 경우)에 추가 투여 - 다 음 - 가. 치료 전 총 콜레스테롤>500mg/dL 혹은 LDL-C≥ 300mg/dL이면서 10세 이전에 cutaneous 혹은 tendon xanth
+286,300mg,ok,300 mg,정상 밀리그램 표기(ASCII).,경우)에 추가 투여 - 다 음 - 가. 치료 전 총 콜레스테롤>500mg/dL 혹은 LDL-C≥ 300mg/dL이면서 10세 이전에 cutaneous 혹은 tendon xanthoma가 발견되었거나 양쪽 부모님이
+286,100mg,ok,100 mg,정상 밀리그램 표기(ASCII).,투여하였으나 반응이 불충분한 경우(LDL-C 수치가 기저치 대비 50% 이상 감소하지 않거나 LDL-C≥100mg/dL인 경우) ※ 이형접합 가족성 고콜레스테롤혈증 확진은 Simon Broome(2006)에서 po
+287,70mg,ok,70 mg,정상 밀리그램 표기(ASCII).,투여하였 으나 반응이 불충분한 경우(LDL-C 수치가 기저치 대 비 50% 이상 감소하지 않거나 LDL-C≥70mg/dL인 경우)에 추가 투여 * 초고위험군 - 주요 ASCVD1) 2개 이상이거나 - 주요
+288,100mg,ok,100 mg,정상 밀리그램 표기(ASCII).,"용량의 HMG-CoA reductase inhibitor와 Ezetimibe 투여에도 불구하고 LDL-C≥100mg/dL인 경우 ∙ 울혈성 심부전 과거력 (고시 제2024-37호, ʼ24.3.1.) [218] Ez"
+288,59mL,ok,59 mL,정상 밀리리터 표기.,구 분 세부인정기준 및 방법 ∙ 당뇨병 ∙ 고혈압 ∙ 만성신장질환(eGFR 15-59mL/min/1.73m2) ∙ 현재 흡연 ∙ 최대내약용량의 HMG-CoA reductase inh
+290,500 mg,ok,500 mg,정상 밀리그램 표기(ASCII).,❘ 283 ❘ 구 분 세부인정기준 및 방법 인정함. - 다 음 - 1) 혈중 TG≥500 mg/dL인 경우 1일 4g까지 인정 2) 위험요인* 또는 당뇨병이 있는 경우: 혈중 TG≥200 mg/dL일
+290,"200 
+mg",ok,200 mg,정상 밀리그램 표기(ASCII).,중 TG≥500 mg/dL인 경우 1일 4g까지 인정 2) 위험요인* 또는 당뇨병이 있는 경우: 혈중 TG≥200 mg/dL일 때 기존 유사 대체 약제(Fibrate 또는 Niacin계열) 사용시 부작용이 예상되는 경우 1일
+290,40 mg,ok,40 mg,정상 밀리그램 표기(ASCII).,"② 고혈압(BP≥140/90 mmHg 또는 항고혈압제 복용) ③ 낮은 고밀도지단백콜레스테롤(HDL-C)(<40 mg/dL) ④ 관상동맥질환 조기 발병의 가족력(부모, 형제자매 중 남자<55세, 여자<65세에서 관상동맥질환"
+290,60 mg,ok,60 mg,정상 밀리그램 표기(ASCII).,"세, 여자<65세에서 관상동맥질환이 발병한 경우) ⑤ 연령(남자≥45세, 여자≥55세) ※ HDL-C≥60 mg/dL은 보호인자로 간주하여 총 위험요인 수에서 하나를 감한다. (고시 제2015-18호, ʼ15.2.1."
+291,500 mg,ok,500 mg,정상 밀리그램 표기(ASCII).,도 불구하고 트리글리세라이드 (TG) 수치가 다음에 해당하는 경우 - 다 음 - 가) 혈중 TG≥500 mg/dL인 경우 1일 4캡슐까지 인정 나) 위험요인* 또는 당뇨병이 있는 경우: 혈중 TG≥200 mg
+291,"200 
+mg",ok,200 mg,정상 밀리그램 표기(ASCII).,≥500 mg/dL인 경우 1일 4캡슐까지 인정 나) 위험요인* 또는 당뇨병이 있는 경우: 혈중 TG≥200 mg/dL일 때 기존 유사 대체 약제(Fibrate 또는 Niacin계열) 사용 시 부작용이 예상되는 경우 1
+291,40 mg,ok,40 mg,정상 밀리그램 표기(ASCII).,"압(BP≥140/90 mmHg 또는 항고혈압제 복용) ③ 낮은 고밀도지단백콜레스테롤(HDL-C)(<40 mg/dL) ④ 관상동맥질환 조기 발병의 가족력(부모, 형제자매 중 남자<55세, 여자<65세에서 관"
+291,60 mg,ok,60 mg,정상 밀리그램 표기(ASCII).,"서 관상동맥질환이 발병한 경우) ⑤ 연령(남자≥45세, 여자≥55세) ※ HDL-C≥60 mg/dL은 보호인자로 간주하여 총 위험요인 수에서 하나를 감한다. (고시 제2022-227호, ’22.10."
+292,500 mg,ok,500 mg,정상 밀리그램 표기(ASCII).,불구하고 트리글리세라 이드(TG) 수치가 다음에 해당하는 경우 - 다 음 - 가) 혈중 TG≥500 mg/dL인 경우 1일 4캡슐까지 인정 나) 위험요인* 또는 당뇨병이 있는 경우: 혈중 TG≥ 200mg
+292,200mg,ok,200 mg,정상 밀리그램 표기(ASCII).,00 mg/dL인 경우 1일 4캡슐까지 인정 나) 위험요인* 또는 당뇨병이 있는 경우: 혈중 TG≥ 200mg/dL일 때 기존 유사 대체 약제(Fibrate 또는 Niacin계열) 사용 시 부작용이 예상되는 경우 1
+292,40mg,ok,40 mg,정상 밀리그램 표기(ASCII).,"혈압(BP≥140/90 mmHg 또는 항고혈압제 복용) ③낮은 고밀도지단백콜레스테롤(HDL-C)(<40mg/dL) ④관상동맥질환 조기 발병의 가족력(부모, 형제자매 중 남자<만 55세, 여자<만 65세에"
+292,60 mg,ok,60 mg,정상 밀리그램 표기(ASCII).,"서 관상동맥 질환이 발병한 경우) ⑤ 연령(남자≥만 45세, 여자≥만 55세) ※ HDL-C≥60 mg/dL은 보호인자로 간주하여 총 위험 요인 수에서 하나를 감한다. (고시 제2021-152호, ’21.6.1"
+295,10㎍,ok,10 ㎍,정상 마이크로그램 표기.,기준 이외에는 약값 전액을 환자가 부담토록 함. - 아 래 - 가. 투여기간 및 용량 : 1일 5∼10㎍씩 4주 범위 내에서 투여 나. 안정 시 통증의 개선을 위해 투여 시 투여기준 1) 임상증상 및 이학적소견
+295,0.25mg,ok,0.25 mg,정상 밀리그램 표기(ASCII).,❘ 288 ❘ 구 분 세부인정기준 및 방법 환자에게 0.25mg/kg 일시(Bolus) 관상동맥주입 후 12시간동안 10㎍/min 용량으로 연속 정맥주입 시 요양급여를
+296,15㎍,ok,15 ㎍,정상 마이크로그램 표기.,인정기준 이외에는 약값 전액을 환자가 부담토록 함. - 아 래 - 가. 동맥 내 투여는 1일 10~15㎍을 3주까지 인정(동맥내 주입 시 필요한 펌프는 산정할 수 없음 )
+296,α,ok,(그대로),그리스 문자 정상 검출.,"방목적으로 투 여한 경우 (고시 제2021-294호, ’21.12.1.) [219] Alprostadil α-cyclodextrin 주사제 (품명: 알푸로덱스주 20마이크로그램) 1. 허가사항 범위 내에서 투여"
+297,60㎍,ok,60 ㎍,정상 마이크로그램 표기.,❘ 290 ❘ 구 분 세부인정기준 및 방법 나. 정맥 내 투여는 1일 알프로스타딜로서 40~60㎍을 최대 4주 범위 내에서 인정 3. 허가사항 범위를 초과하여 아래와 같은 경우에도 요양 급여를 인정함.
+298,100mg,ok,100 mg,정상 밀리그램 표기(ASCII).,나. 급성 혈전성 관상동맥폐색증의 경우 발작 후 6시간 이내에 투여한 경우에 한하여 1치료기간 중 최대 100mg 범위에서 요양급여를 인정함. 다. 급성 허혈뇌졸중에 증상 발현 후 4.5시간 이내에 투여한 경우에 한
+298,0.9mg,ok,0.9 mg,정상 밀리그램 표기(ASCII).,에서 요양급여를 인정함. 다. 급성 허혈뇌졸중에 증상 발현 후 4.5시간 이내에 투여한 경우에 한하여 0.9mg/kg 범위에서 요양급여를 인정함. 2. 허가사항 범위를 초과하여 아래와 같은 기준으로 투여 시 요양급여
+298,100㎎,ok,100 ㎎,정상 밀리그램 표기(기호).,기간 및 용량 가) 투여시기: 증상발현 후 2주 이내 나) 기간 및 용량: 허가사항대로 100㎎을 2시간에 걸쳐 정맥주입 나. 급성 혈전성 관상동맥폐색증의 경우 발작 후 6시간 이내에 투여한 경우
+299,100mg,ok,100 mg,정상 밀리그램 표기(ASCII).,관계가 있다고 추정되는 태반이나 탈락막의 혈전생성을 방지하기 위해 혈소판 응집억제 작용으로 저용량(80~100mg/day)을 투여한 경우 나. 말초동맥성질환에 투여한 경우 다. 전자간증 예방목적으로 다음 중 하나 이상에
+301,25mg,ok,25 mg,정상 밀리그램 표기(ASCII).,"식술 시행일)로부터 임신확인 일까지 (고시 제2018-97호, ʼ18.6.1.) [219] Aspirin 25mg + Dipyridamole 200mg 경구제 (품명: 아디녹스캡슐 등) 허가사항 범위(뇌의 일과성 허"
+301,200mg,ok,200 mg,정상 밀리그램 표기(ASCII).,"고시 제2018-97호, ʼ18.6.1.) [219] Aspirin 25mg + Dipyridamole 200mg 경구제 (품명: 아디녹스캡슐 등) 허가사항 범위(뇌의 일과성 허혈 또는 혈전에 의한 허혈성 뇌졸중을"
+302,500mg,ok,500 mg,정상 밀리그램 표기(ASCII).,"제2013-127호, ʼ13.9.1.) [219] Ferric citrate 경구제 (품명: 네폭실캡슐 500mg) 허가사항 범위 내에서 아래와 같은 기준으로 투여 시 요양 급여를 인정하며, 동 인정기준 이외에는 약값"
+302,5.5mg,ok,5.5 mg,정상 밀리그램 표기(ASCII).,"말기 신부전증 환자(ESRD)중 인 제한 식이요법에도 불구하고, 동 약제 투여 전 혈중 인 (P) 수치가 5.5mg/dL 이상인 경우. 다만, 동 약제 유지요법의 경우 혈중 인(P) 수치가 4.0mg/dL 이상에서"
+302,4.0mg,ok,4.0 mg,정상 밀리그램 표기(ASCII).,"(P) 수치가 5.5mg/dL 이상인 경우. 다만, 동 약제 유지요법의 경우 혈중 인(P) 수치가 4.0mg/dL 이상에서 인정함. ※ 동 약제의 허가사항 중 ‘사용상 주의사항’을 참고하여 알루미늄 함유 제제와"
+303,300mg,ok,300 mg,정상 밀리그램 표기(ASCII).,및 방법 심부전 환자(NYHA class II~IV)는 제외함. - 다 음 - 1) uACR > 300mg/g 또는 요 시험지봉 검사(urine dipstick test) 양성(1+ 이상) 2) 25≤eGF
+303,75mL,ok,75 mL,정상 밀리리터 표기.,또는 요 시험지봉 검사(urine dipstick test) 양성(1+ 이상) 2) 25≤eGFR<75mL/min/1.73m2인 경우 나. eGFR이 15mL/min/1.73m2미만으로 감소하는 경우 투여 중
+303,15mL,ok,15 mL,정상 밀리리터 표기.,"est) 양성(1+ 이상) 2) 25≤eGFR<75mL/min/1.73m2인 경우 나. eGFR이 15mL/min/1.73m2미만으로 감소하는 경우 투여 중단하여야 함. (고시 제2024-20호, ʼ24.2.1."
+305,5.6mg,ok,5.6 mg,정상 밀리그램 표기(ASCII).,"말기 신부전증 환자(ESRD)중 인 제한 식이요법에도 불구하고 동 약제 투여 전 혈중 인(P) 수치가 5.6mg/dL 이상인 경우 - 다만, 동 약제 유지요법의 경우 혈중 인(P) 수치가 4.0mg/dL 이상에서"
+305,4.0mg,ok,4.0 mg,정상 밀리그램 표기(ASCII).,"인(P) 수치가 5.6mg/dL 이상인 경우 - 다만, 동 약제 유지요법의 경우 혈중 인(P) 수치가 4.0mg/dL 이상에서 인정함. (고시 제2018-174호, ʼ18.9.1.) [219] Limaprost α-"
+305,α,ok,(그대로),그리스 문자 정상 검출.,"mg/dL 이상에서 인정함. (고시 제2018-174호, ʼ18.9.1.) [219] Limaprost α-cyclodextrin 경구제 (품명: 동아오팔몬정 등) 허가사항 범위 내에서 아래와 같은 기준으로 투여"
+306,100mg,ok,100 mg,정상 밀리그램 표기(ASCII).,"수 있는 미토콘드리아 DNA 또는 nuclear DNA 변이가 확인된 경우 나. 인정용량 : 30∼100mg/kg/day, 1일 최대 3g (고시 제2022-207호, ’22.9.1.) [219] Milrinone"
+307,5mg,ok,5 mg,정상 밀리그램 표기(ASCII).,"❘ 300 ❘ 구 분 세부인정기준 및 방법 [219] Nicergoline 5mg, 10mg 경구제 (품명: 사미온정 등) 허가사항 범위 내에서 아래와 같은 기준으로 투여 시 요양급여를"
+307,10mg,ok,10 mg,정상 밀리그램 표기(ASCII).,"❘ 300 ❘ 구 분 세부인정기준 및 방법 [219] Nicergoline 5mg, 10mg 경구제 (품명: 사미온정 등) 허가사항 범위 내에서 아래와 같은 기준으로 투여 시 요양급여를 인정하며,"
+308,400mg,ok,400 mg,정상 밀리그램 표기(ASCII).,"여는 인정하지 아니함. (고시 제2023-120호, ’23.7.1.) [219] Sevelamer HCl 400mg, 800mg 경구제 (품명: 레나젤정 등) Sevelamer carbonate 800mg 경구제 (품"
+308,800mg,ok,800 mg,정상 밀리그램 표기(ASCII).,"아니함. (고시 제2023-120호, ’23.7.1.) [219] Sevelamer HCl 400mg, 800mg 경구제 (품명: 레나젤정 등) Sevelamer carbonate 800mg 경구제 (품명: 렌벨라산"
+308,800mg,ok,800 mg,정상 밀리그램 표기(ASCII).,"er HCl 400mg, 800mg 경구제 (품명: 레나젤정 등) Sevelamer carbonate 800mg 경구제 (품명: 렌벨라산, 렌벨라정 등) 허가사항 범위 내에서 아래와 같은 기준으로 투여 시 요양 급"
+308,5.5mg,ok,5.5 mg,정상 밀리그램 표기(ASCII).,"말기 신부전증 환자(ESRD)중 인 제한 식이요법에도 불구하고, 동 약제 투여 전 혈중 인(P) 수치가 5.5mg/dL 이상인 경우 - 다만, 동 약제 유지요법의 경우 혈중 인(P) 수치가 4.0mg/dL 이상에"
+308,4.0mg,ok,4.0 mg,정상 밀리그램 표기(ASCII).,"P) 수치가 5.5mg/dL 이상인 경우 - 다만, 동 약제 유지요법의 경우 혈중 인(P) 수치가 4.0mg/dL 이상에서 인정함. (고시 제2018-174호, ʼ18.9.1.) [219] Sodium ozagrel"
+309,6.0mg,ok,6.0 mg,정상 밀리그램 표기(ASCII).,"❘ 302 ❘ 구 분 세부인정기준 및 방법 인(P) 수치가 6.0mg/dL 이상인 경우 - 다만, 동 약제 유지요법의 경우 혈중 인(P) 수치가 4.0mg/dL 이상에"
+309,4.0mg,ok,4.0 mg,정상 밀리그램 표기(ASCII).,"P) 수치가 6.0mg/dL 이상인 경우 - 다만, 동 약제 유지요법의 경우 혈중 인(P) 수치가 4.0mg/dL 이상에서 인정함. (고시 제2019-240호, ʼ20.1.1.) [219] Tenecteplase 주"
+309,50mg,ok,50 mg,정상 밀리그램 표기(ASCII).,"에서 급성혈전성 관상동맥폐색증의 경우 발작 후 6시간 이내에 투여한 경우에 한하여 1치료 기간 중 최대 50mg 내에서 요양급여를 인정하며, 동 인정기준 이외에는 약값 전액을 환자가 부담토록 함. (고시 제2013-1"
+311,2.5mg,ok,2.5 mg,정상 밀리그램 표기(ASCII).,"고시 제2022-250호, ’22.11.1.) [219] Vericiguat 경구제 (품명: 베르쿠보정 2.5mg 등) 허가사항 범위 내에서 아래와 같은 기준으로 투여 시 요양 급여를 인정하며, 동 인정기준 이외에는 약값"
+321,5mg,ok,5 mg,정상 밀리그램 표기(ASCII).,"드가 요구되는 천식 급성악화가 4번 이상 발생하였거나, 치료 시작 6개월 전부터 prednisolone 5mg/day 와 동등한 수준 이상의 경구용 코르티코스테로이드를 지속적으로 투여한 경우 2) 치료 시작"
+325,5mg,ok,5 mg,정상 밀리그램 표기(ASCII).,"드가 요구되는 천식 급성악화가 4번 이상 발생하였거나, 치료 시작 6개월 전부터 prednisolone 5mg/day 와 동등한 수준 이상의 경구용 코르티코스테로이드를 지속적으로 투여한 경우 2) 치료 시작"
+327,200ml,ok,200 mL,정상 밀리리터 표기.,"연간 Predicted FVC 감소량이 10% 이상 이거나 연간 Predicted FVC 200ml 이상 감소 나) 임상증상 악화 다) 흉부영상 악화 소견 (고시 제2018-280호, ʼ"
+333,20mg,ok,20 mg,정상 밀리그램 표기(ASCII).,"토록 함. (고시 제2018-253호, ʼ18.12.1.) [231] Doxycycline hyclate 20mg 경구제 (품명: 덴티스타캡슐) 허가사항 범위 내에서 만성 치주염상병에 아래와 같은 기준 으로 투여 시 요양"
+333,100ml,ok,100 mL,정상 밀리리터 표기.,- 가. 입원환자 및 암환자: 허가사항(용법·용량) 범위 내 나. 외래환자 1) 인정용량: 100ml 2) 인정용량 초과한 경우: 초과한 용량의 약값 전액을 환자가 부담토록 함. (고시
+334,20mg,ok,20 mg,정상 밀리그램 표기(ASCII).,"H.pylori) 감염이 확인된 다음의 환자에서 제균요법으로 투여하는 경우(단, Pantoprazole 20mg, Rabeprazole 5mg, ‘에소메졸디알서방캡슐 20mg’, ‘에소메졸디알서방캡슐 40mg’, Eso"
+334,5mg,ok,5 mg,정상 밀리그램 표기(ASCII).,"다음의 환자에서 제균요법으로 투여하는 경우(단, Pantoprazole 20mg, Rabeprazole 5mg, ‘에소메졸디알서방캡슐 20mg’, ‘에소메졸디알서방캡슐 40mg’, Esomeprazole 10mg은"
+334,20mg,ok,20 mg,정상 밀리그램 표기(ASCII).,"투여하는 경우(단, Pantoprazole 20mg, Rabeprazole 5mg, ‘에소메졸디알서방캡슐 20mg’, ‘에소메졸디알서방캡슐 40mg’, Esomeprazole 10mg은 제외) - 다 음 -"
+334,40mg,ok,40 mg,정상 밀리그램 표기(ASCII).,"zole 20mg, Rabeprazole 5mg, ‘에소메졸디알서방캡슐 20mg’, ‘에소메졸디알서방캡슐 40mg’, Esomeprazole 10mg은 제외) - 다 음 - 1) 소화성궤양 2) 저등급"
+334,20mg,ok,20 mg,정상 밀리그램 표기(ASCII).,"초과하여 아래와 같은 기준으로 투여 시 약값 전액을 환자가 부담토록 함.(단, Pantoprazole 20mg, Rabeprazole 5mg, ‘에소메졸디알서방캡슐 20mg’, ‘에소메졸디알서방캡슐 40mg’, Eso"
+334,5mg,ok,5 mg,정상 밀리그램 표기(ASCII).,"투여 시 약값 전액을 환자가 부담토록 함.(단, Pantoprazole 20mg, Rabeprazole 5mg, ‘에소메졸디알서방캡슐 20mg’, ‘에소메졸디알서방캡슐 40mg’, Esomeprazole 10mg은"
+334,20mg,ok,20 mg,정상 밀리그램 표기(ASCII).,"부담토록 함.(단, Pantoprazole 20mg, Rabeprazole 5mg, ‘에소메졸디알서방캡슐 20mg’, ‘에소메졸디알서방캡슐 40mg’, Esomeprazole 10mg은 제외) - 아 래 - 가"
+334,40mg,ok,40 mg,정상 밀리그램 표기(ASCII).,"zole 20mg, Rabeprazole 5mg, ‘에소메졸디알서방캡슐 20mg’, ‘에소메졸디알서방캡슐 40mg’, Esomeprazole 10mg은 제외) - 아 래 - 가. 헬리코박터 파일로리(H.pylo"
+336,8mg,ok,8 mg,정상 밀리그램 표기(ASCII).,ing) 또는 재출혈(Rebleeding) 고위험군인 경우에 초회 80mg을 일시(Bolus) 주입 후 8mg/hr 3일간 지속점적(Continuous infusion) 투여 시 인정 3) 의인성 위궤양(Iatrog
+337,8mg,ok,8 mg,정상 밀리그램 표기(ASCII).,ing) 또는 재출혈(Rebleeding) 고위험군인 경우에 초회 80mg을 일시(Bolus) 주입 후 8mg/hr 3일간 지속점적(Continuous infusion) 투여 시 인정 3) 의인성 위궤양(Iatrog
+339,100mg,ok,100 mg,정상 밀리그램 표기(ASCII).,"십이지장염, 식도염 등에 의한 출혈) 2) 투여용량 및 기간 가) 공복상태에서 1회 2앰플(100mg) 1일 3-4회 투여한 경우에도 인정 나) 투여기간은 5일 이내로 하고, 그 이후는 상용량으로"
+340,2mg,ok,2 mg,정상 밀리그램 표기(ASCII).,"8-58호, ʼ18.4.1.) [232] Irsogladine maleate 경구제 (품명: 가스론엔정 2mg 등, 4mg) 허가사항 범위 내에서 아래와 같은 기준으로 투여 시 요양 급여를 인정함. - 아 래"
+340,4mg,ok,4 mg,정상 밀리그램 표기(ASCII).,"18.4.1.) [232] Irsogladine maleate 경구제 (품명: 가스론엔정 2mg 등, 4mg) 허가사항 범위 내에서 아래와 같은 기준으로 투여 시 요양 급여를 인정함. - 아 래 - 가. 위궤양"
+345,5mg,ok,5 mg,정상 밀리그램 표기(ASCII).,"법 [239] Beclomethasone dipropionate 경구제 (품명: 클리퍼지속성 장용정 5mg) 허가사항 범위 내에서 아래와 같은 기준으로 투여 시 요양급여를 인정하며, 동 인정기준 이외에는 약값 전"
+345,14mg,ok,14 mg,정상 밀리그램 표기(ASCII).,"13-127호, ʼ13.9.1.) [239] E.Coli strain Nissle 1917 동결건조물 14mg 경구제 (품명: 뮤타플로캡슐) 허가사항 범위 내에서 아래와 같이 궤양성 대장염의 재발 방지에 투여 시 요"
+346,90ml,ok,90 mL,정상 밀리리터 표기.,여성 환자의 경우 유전자 검사로 확진할 수 있음) 항목 요건 신장※ ①사구체 여과율 감소 (30≦eGFR<90ml/min/1.73m2(adjusted for age>40)에 2회 이상 해당하는 경우)
+346,α,ok,(그대로),그리스 문자 정상 검출.,"는 징후를 보이며, 기타 원인이 배제된(감별진단 된) 환자 로서, 2) 백혈구 또는 피부섬유아세포 등에서 α-galactosidase A 활성도가 감소하고 유전자검사로 파브리병이 확진된 경우 (단, 특징적인 임상"
+346,α,ok,(그대로),그리스 문자 정상 검출.,"ase A 활성도가 감소하고 유전자검사로 파브리병이 확진된 경우 (단, 특징적인 임상 증상을 보이지만 α-galactosidase A의 활성도 감소가 확인되지 않는 여성 환자의 경우 유전자 검사로 확진할 수 있"
+347,30mg,ok,30 mg,정상 밀리그램 표기(ASCII).,"sidase alfa, agalsidase beta)과 병용투여는 인정하지 아니함. 남성 ②미세알부민뇨(>30mg/g) (최소 24시간 간격 2회 이상 검출) ③알부민뇨(>20㎍/min) (최소 24시간 간격 2회 이상"
+347,150mg,ok,150 mg,정상 밀리그램 표기(ASCII).,간 간격 2회 이상 검출) ③알부민뇨(>20㎍/min) (최소 24시간 간격 2회 이상 검출) ④ 단백뇨(>150mg/24hr) 여성 ⑤진행의 임상적 증거를 동반한 단백뇨 (>300mg/24hr) 심장 ⑥ MRI나 심초음파
+347,300mg,ok,300 mg,정상 밀리그램 표기(ASCII).,"간격 2회 이상 검출) ④ 단백뇨(>150mg/24hr) 여성 ⑤진행의 임상적 증거를 동반한 단백뇨 (>300mg/24hr) 심장 ⑥ MRI나 심초음파로 입증된 좌심실 비대 (좌심실벽 두께>12mm) (단, 고혈압이 동반"
+350,24mg,ok,24 mg,정상 밀리그램 표기(ASCII).,"세부인정기준 및 방법 [241] Somatrogon 주사제(성장호르몬제) (품명: 엔젤라프리필드펜주 24mg 등) 1. 허가사항 범위 내에서 아래와 같은 기준으로 투여 시 요양급여를 인정하며, 동 인정기준 이외에는"
+350,0.66mg,ok,0.66 mg,정상 밀리그램 표기(ASCII).,진되고 (다) 해당역연령보다 골연령이 감소된 자 (2) 투여용량: ○ 주당 0.66mg/kg (3) 투여기간 ○ 역연령 만 3세 이상부터 골단이 닫히기 전까지 투여하나 골
+352,0.5mg,ok,0.5 mg,정상 밀리그램 표기(ASCII).,고 (다) 해당역연령보다 골연령이 감소된 자 (2) 투여용량: ○ 주당 0.5mg/kg (3) 투여기간 ○ 역연령 만 2세 이후부터 골단이 닫히기 전까지 투여하나
+354,0.71 IU,ok,0.71 IU,정상 국제단위 표기.,(3) 해당 역연령보다 골연령이 감소된 자 나) 투여용량 ○ 주당 0.5 - 0.71 IU/㎏ 다) 투여기간 ○ 역연령 만2세 이후부터 골단이 닫히기 전까지 투여하나 골연령이
+355,1.0 IU,ok,1.0 IU,정상 국제단위 표기.,"소견에서 터너증후군의 특징을 갖춘 자로서 염색체 검사로 확진된 자 2) 투여용량 ○ 주당 1.0 IU/㎏ 단, 동 투여용량에 충분한 반응이 없는 경우, ‘노디트로핀노디플렉스주’에 한해 허가사항"
+355,1.4 IU,ok,1.4 IU,정상 국제단위 표기.,"단, 동 투여용량에 충분한 반응이 없는 경우, ‘노디트로핀노디플렉스주’에 한해 허가사항에 따라 주당 1.4 IU/kg까지 인정함. 3) 투여기간 ○ 역연령 만2세 이후부터 골단이 닫히기 전까지 투여 하나"
+355,1.5 IU,ok,1.5 IU,정상 국제단위 표기.,일 이하의 신장이면서 해당 역연령보다 골연령이 감소된 자 2) 투여용량 ○ 주당 0.9 - 1.5 IU/㎏ 3) 투여기간 ○ 역연령 만2세 이후부터 골단이 닫히기 전까지 투여 하나 골연령이 여자
+356,0.018 IU,ok,0.018 IU,정상 국제단위 표기.,성장호르몬 농도가 5ng/ml (또는 5㎍/L) 이하이면 인정) 3) 투여용량 ○ 1일 0.018 IU/㎏ ∼ 최대 1일 0.036 IU/㎏ 4) 투여기간 ○ 3년간 투여 후 다시 자극검사를 시
+356,0.036 IU,ok,0.036 IU,정상 국제단위 표기.,(또는 5㎍/L) 이하이면 인정) 3) 투여용량 ○ 1일 0.018 IU/㎏ ∼ 최대 1일 0.036 IU/㎏ 4) 투여기간 ○ 3년간 투여 후 다시 자극검사를 시행(기질적 원인에 의한 범뇌하수체
+357,2.7㎎,ok,2.7 ㎎,정상 밀리그램 표기(기호).,"2) 투여용량 ○ 각 약제별 허가사항(용법ㆍ용량) 범위 내에서 인정함. 단, 1일 최대 2.7㎎을 초과하여서는 안 됨. 3) 투여기간 ○ 역연령 만2세 이후부터 골단이 닫히기 전까지 투여"
+358,0.070mg,ok,0.070 mg,정상 밀리그램 표기(ASCII).,"투여용량 ○ 1일 0.035㎎/㎏(또는 1.0㎎/㎡). 단, 신장증가효과가 없을 경우에는 1일 0.070mg/kg(또는 2.0㎎/㎡) 까지 증량가능함. 3) 투여기간 ○ 역연령 만4세 이후부터 골단이"
+358,0.07mg,ok,0.07 mg,정상 밀리그램 표기(ASCII).,의 신장이면서 누난 증후군의 특이적인 임상소견을 보이는 자 2) 투여용량 ○ 1일 0.05-0.07mg/kg(주당 1.0-1.5 IU/kg) 3) 투여기간 ○ 역연령 만2세 이후부터 골단이 닫히
+358,1.5 IU,ok,1.5 IU,정상 국제단위 표기.,"이적인 임상소견을 보이는 자 2) 투여용량 ○ 1일 0.05-0.07mg/kg(주당 1.0-1.5 IU/kg) 3) 투여기간 ○ 역연령 만2세 이후부터 골단이 닫히기 전까지 투여 하나, 골연령이"
+361,30mL,ok,30 mL,정상 밀리리터 표기.,"sphonate, SERM 제제. 단, SERM 제제는 ① 전신성 과민반응 ② 중증 신부전 (eGFR < 30mL/min) ③ 약제 관련 턱뼈괴사(MRONJ) ④ 비전형 대퇴 골절 중 어느 하나에 해당하여 Bispho"
+362,30mL,ok,30 mL,정상 밀리리터 표기.,"sphonate, SERM 제제. 단, SERM 제제는 ① 전신성 과민반응 ② 중증 신부전 (eGFR < 30mL/min) ③ 약제 관련 턱뼈괴사(MRONJ) ④ 비전형 대퇴 골절 중 어느 하나에 해당하여 Bispho"
+365,60mg,ok,60 mg,정상 밀리그램 표기(ASCII).,"용된 Triamcinolone acetonide 주사제는 1 level당 20㎎ 으로 최대 3 level(60mg)까지, 양측은 각각 최대 2 level(80mg)까지 인정 다. 조산위험이 있는 24-34주 임신부에"
+365,80mg,ok,80 mg,정상 밀리그램 표기(ASCII).,"주사제는 1 level당 20㎎ 으로 최대 3 level(60mg)까지, 양측은 각각 최대 2 level(80mg)까지 인정 다. 조산위험이 있는 24-34주 임신부에게 신생아 호흡 곤란증후군(RDS) 등의 태아 합병"
+365,12mg,ok,12 mg,정상 밀리그램 표기(ASCII).,"ne sodium phosphate 주사제 투여 시 ○ 투여방법: betamethasone을 1회 12mg, 24시간 간격으로 2회 근육주사 (1주기, 총 24mg) - 단, 첫 주기 투여 후 7일 이"
+365,24mg,ok,24 mg,정상 밀리그램 표기(ASCII).,"○ 투여방법: betamethasone을 1회 12mg, 24시간 간격으로 2회 근육주사 (1주기, 총 24mg) - 단, 첫 주기 투여 후 7일 이상 경과하고 여전히 조산위험이 있는 34주 미만의 임신부의"
+366,2.3mg,ok,2.3 mg,정상 밀리그램 표기(ASCII).,"❘ 359 ❘ 구 분 세부인정기준 및 방법 [245] Budesonide (micronized) 2.3mg 제제 (품명: 엔토코트) 허가사항 범위 내에서 궤양성 대장염, 직장항문염 상병에 투여 시 스테로이드제 국"
+368,40mg,ok,40 mg,정상 밀리그램 표기(ASCII).,. - 아 래 - 가. 원형탈모증 및 켈로이드반흔 상병 등에 병변 내 주입 시 환자상태에 따라 1일 40mg 이내로 투여한 경우 나. 추간관절차단(Facet joint block/injection)시는 1 leve
+368,60mg,ok,60 mg,정상 밀리그램 표기(ASCII).,"단(Facet joint block/injection)시는 1 level당 20㎎으로 최대 3 level(60mg)까지, 양측 은 각각 최대 2 level(80mg)까지 인정 (고시 제2013-127호, ʼ13.9.1.)"
+368,80mg,ok,80 mg,정상 밀리그램 표기(ASCII).,"n)시는 1 level당 20㎎으로 최대 3 level(60mg)까지, 양측 은 각각 최대 2 level(80mg)까지 인정 (고시 제2013-127호, ʼ13.9.1.)"
+368,20㎎,ok,20 ㎎,정상 밀리그램 표기(기호).,"로 투여한 경우 나. 추간관절차단(Facet joint block/injection)시는 1 level당 20㎎으로 최대 3 level(60mg)까지, 양측 은 각각 최대 2 level(80mg)까지 인정 (고시 제20"
+372,60mg,ok,60 mg,정상 밀리그램 표기(ASCII).,❘ 365 ❘ 구 분 세부인정기준 및 방법 가. 자궁내막증에 고용량 투여(60mg/일) 나. 임파관평활근종증(Lymphangioleiomyomatosis) 다. 「보조생식술 급여기준」 급여
+373,600IU,ok,600 IU,정상 국제단위 표기.,"gonadotropin (hMG (menotrophin))과 병용 투여한 경우 병용 약제의 총 용량은 600IU/day 까지 요양급여를 인정함. - 단, Follitropin delta와 병용 투여할 경우에는 Fol"
+373,150IU,ok,150 IU,정상 국제단위 표기.,의사항 (일일 용량으로 이 약 10마이크로그램을 투여받은 환자의 대부분에서 일일 용량으로 폴리트로핀알파 150IU 투여 시 얻어진 것과 유사한 난소반응을 나타냄.)을 참고하여 병용 약제의 인정 총 용량 범위 내에서 투
+373,α,ok,(그대로),그리스 문자 정상 검출.,"정하며, 비급여로 실시한 경우에는 약값 전액을 환자가 부담토록 함. ※ 대상약제: Follitropin-α(품명: 고날-에프펜주 등, 고날에프주75IU), Follitropin-β(품명: 퓨레곤펜주 등, 퓨레곤"
+373,β,ok,(그대로),그리스 문자 정상 검출.,"대상약제: Follitropin-α(품명: 고날-에프펜주 등, 고날에프주75IU), Follitropin-β(품명: 퓨레곤펜주 등, 퓨레곤용액주100IU), Follitropin (r-hFSH) (품명: 폴리트롭"
+374,30mL,ok,30 mL,정상 밀리리터 표기.,이하 또는 헤마토크리트 (Hct) 30% 이하인 경우(투석을 받고 있지 않는 환자는 사구체여과율(GFR) 30mL/min/1.73㎡ 미만인 환자에 한함)
+374,5000IU,ok,5000 IU,정상 국제단위 표기.,"분 세부인정기준 및 방법 [249] 태반성성선자극호르몬 (hCG) 주사제 (품명: 아이브이에프씨주 5000IU 등) 허가사항 범위 내에서 투여 시 요양급여함을 원칙으로 함. 다만, 보조생식술에 투여 시에는 「보조생식"
+376,30mL,ok,30 mL,정상 밀리리터 표기.,"이하 또는 헤마토크리트 (Hct) 30% 이하인 경우(투석을 받고 있지 않는 환자는 사구체여과율(GFR) 30mL/min/1.73㎡ 미만인 환자에 한함) - 다만, 동 조건에 해당하여 약제를 투여하다 중단한"
+377,α,ok,(그대로),그리스 문자 정상 검출.,"risk category 분류 (고시 제2019-38호, ʼ19.3.1.) [249] Follitropin-α + lutropin α(r-hLH) 복합주사제 (품명: 퍼고베리스주) 1. 허가사항 범위 내에서 아래와"
+377,α,ok,(그대로),그리스 문자 정상 검출.,"분류 (고시 제2019-38호, ʼ19.3.1.) [249] Follitropin-α + lutropin α(r-hLH) 복합주사제 (품명: 퍼고베리스주) 1. 허가사항 범위 내에서 아래와 같은 기준으로 투여 시"
+378,25mg,ok,25 mg,정상 밀리그램 표기(ASCII).,"etate(품명∶세트로타이 드주0.25밀리그램 등), Ganirelix acetate(품명∶ 오가루트란주0.25mg/0.5ml 등) (고시 제2018-28호, ʼ18.3.1.) [249] Long-acting octre"
+378,0.5ml,ok,0.5 mL,정상 밀리리터 표기.,"(품명∶세트로타이 드주0.25밀리그램 등), Ganirelix acetate(품명∶ 오가루트란주0.25mg/0.5ml 등) (고시 제2018-28호, ʼ18.3.1.) [249] Long-acting octreotide"
+378,75IU,ok,75 IU,정상 국제단위 표기.,", ʼ19.10.1.) [249] Lutropin alpha (r-hLH) 주사제 (품명: 루베리스주 75IU) 허가사항 범위 내에서 아래와 같은 기준으로 투여 시 요양 급여를 인정하며, 동 인정기준 이외에는 약값 전"
+379,150IU,ok,150 IU,정상 국제단위 표기.,인한 부작용이 발생하였거나 그 위험성이 높은 경우에 투여 시 인정 나. LH결핍 환자의 보조생식술에 150IU/day까지 투여한 경우 다. 상기 가. 나. 조건에서 병용 투여한 난포자극호르몬 (FSH) 주사제는
+379,75IU,ok,75 IU,정상 국제단위 표기.,"제2024-55호, ʼ24.4.1.) [249] Menotrophin 주사제 (품명: 아이브이에프엠 주 75IU 등) Menotrophin HP 주사제 (품명: 아이브이에프엠 에이치피주 등) 1. 허가사항 범위 내에서"
+379,600IU,ok,600 IU,정상 국제단위 표기.,"여함을 원칙으로 하며, 보조생식술에 난포자극호르몬 (FSH)과 병용 투여한 경우 병용 약제의 총 용량은 600IU/day 까지 요양급여를 인정함. - 단, Follitropin delta와 병용 투여할 경우에는 Fo"
+379,150IU,ok,150 IU,정상 국제단위 표기.,사항 (일일 용량으로 이 약 10마이크로그램을 투여 받은 환자의 대부분에서 일일 용량으로 폴리트로핀알파 150IU 투여 시 얻어진 것과 유사한 난소반응을 나타냄.)을 참고하여 병용 약제의 인정 총 용량 범위 내에서 투
+380,30mL,ok,30 mL,정상 밀리리터 표기.,"이하 또는 헤마토크리트 (Hct) 30% 이하인 경우(투석을 받고 있지 않는 환자는 사구체여과율(GFR) 30mL/min/1.73㎡ 미만인 환자에 한함) - 다만, 동 조건에 해당하여 약제를 투여하다 중단한"
+380,75IU,ok,75 IU,정상 국제단위 표기.,"❘ 373 ❘ 구 분 세부인정기준 및 방법 1) 1cycle 당 최대 18앰플(75IU 기준) 정도 투여함을 원칙으로 하며(월단위), 가) 초기용량 투여로 배란유도에 실패한 경우에는 허가사항"
+380,75IU,ok,75 IU,정상 국제단위 표기.,가) 초기용량 투여로 배란유도에 실패한 경우에는 허가사항 범위를 초과(용법ㆍ용량)하여 1일 최대 6앰플(75IU 기준)까지 투여하는 경우에도 요양 급여를 인정함 나) 1cycle당 최대 72앰플(75IU기준)을 초과할
+380,β,ok,(그대로),그리스 문자 정상 검출.,"11호, ’22.5.1.) [249] Methoxy polyethylene glycol-epoetin β 주사제 (품명: 미쎄라프리필드주) 1. 허가사항 범위 내에서 아래와 같은 기준으로 투여 시 요양급여를"
+382,30mg,ok,30 mg,정상 밀리그램 표기(ASCII).,적절하지 않거나 수술로 치료되지 않은 말단 비대증 환자로서 다른 소마토스타틴 유사체(Octreotide 30mg 또는 Lanreotide 120mg)를 최소 24주간 투여 하였으나 충분한 반응을 보이지 않는 다음의 경우
+382,120mg,ok,120 mg,정상 밀리그램 표기(ASCII).,않은 말단 비대증 환자로서 다른 소마토스타틴 유사체(Octreotide 30mg 또는 Lanreotide 120mg)를 최소 24주간 투여 하였으나 충분한 반응을 보이지 않는 다음의 경우
+383,30mg,ok,30 mg,정상 밀리그램 표기(ASCII).,절한 반응을 보이지 않는 성인(만18세 이상) 말단비대증 환자로 소마토스타틴 유사체(Octreotide 30mg 또는 Lanreotide 120mg)를 최소 24주간 투여하였으나 충분한 반응을 보이지 않는 다음의 경
+383,120mg,ok,120 mg,정상 밀리그램 표기(ASCII).,18세 이상) 말단비대증 환자로 소마토스타틴 유사체(Octreotide 30mg 또는 Lanreotide 120mg)를 최소 24주간 투여하였으나 충분한 반응을 보이지 않는 다음의 경우 - 다 음 - - 인슐린성
+385,5mg,ok,5 mg,정상 밀리그램 표기(ASCII).,"용약 구 분 세부인정기준 및 방법 [259] 5알파 환원효소 억제제 경구제 (finasteride 5mg, dutasteride 0.5mg) 각 약제의 허가사항 중 양성 전립선 비대증에 아래와 같은 기준으로"
+385,0.5mg,ok,0.5 mg,정상 밀리그램 표기(ASCII).,"방법 [259] 5알파 환원효소 억제제 경구제 (finasteride 5mg, dutasteride 0.5mg) 각 약제의 허가사항 중 양성 전립선 비대증에 아래와 같은 기준으로 투여 시 요양급여를 인정하며, 동 인"
+385,30ml,ok,30 mL,정상 밀리리터 표기.,"state Symptom Score, 국제전립선증상점수표) 8점 이상 2) 초음파검사 상 전립선 크기가 30ml 이상이거나, 직장수지검사 상 중등도 이상의 양성 전립선비대증 소견이 있거나, 혈청 전립선특이항원(Pro"
+386,0.5mg,ok,0.5 mg,정상 밀리그램 표기(ASCII).,"은 48시 간을 넘지 않음 (고시 제2015-184호, ʼ15.11.1.) [259] dutasteride 0.5mg, tamsulosin hydrochloride 0.4mg 복합경구제 (품명: 듀오다트캡슐) 허가사항"
+386,0.4mg,ok,0.4 mg,정상 밀리그램 표기(ASCII).,"11.1.) [259] dutasteride 0.5mg, tamsulosin hydrochloride 0.4mg 복합경구제 (품명: 듀오다트캡슐) 허가사항 범위(중등도~중증의 양성 전립선 비대증) 내에서 아래와 같은"
+386,30ml,ok,30 mL,정상 밀리리터 표기.,"ostate Symptom Score, 국제전립선증상점수표) 8점 이상 2) 초음파검사 상 전립선 크기가 30ml 이상이거나, 직장수지검사 상 중등도 이상의 양성 전립선비대증"
+387,4mg,ok,4 mg,정상 밀리그램 표기(ASCII).,", ’22.3.1.) [259] Fesoterodine fumarate 경구제 (품명: 토비애즈서방정 4mg, 8mg) 허가사항 범위(절박뇨, 빈뇨, 절박성 요실금과 같은 과민성 방광 증상의 치료) 내에서 투여 시"
+387,8mg,ok,8 mg,정상 밀리그램 표기(ASCII).,".3.1.) [259] Fesoterodine fumarate 경구제 (품명: 토비애즈서방정 4mg, 8mg) 허가사항 범위(절박뇨, 빈뇨, 절박성 요실금과 같은 과민성 방광 증상의 치료) 내에서 투여 시 요양급여"
+388,320mg,ok,320 mg,정상 밀리그램 표기(ASCII).,"다. 요로결석이 동반된 신세뇨관 산증 라. 저구연산뇨증[24시간 소변 검사결과 구연산(Citrate) 320mg 미만]을 동반한 요로결석 (고시 제2019-191호, ʼ19.9.1.) [259] Silodosin 경구"
+388,4mg,ok,4 mg,정상 밀리그램 표기(ASCII).,"(고시 제2019-191호, ʼ19.9.1.) [259] Silodosin 경구제 (품명: 트루패스캡슐 4mg 등) 1. 허가사항 범위(전립선 비대증에 수반하는 배뇨장애) 내 에서 투여 시 요양급여를 인정함. 2. 허"
+391,20㎖,ok,20 ㎖,정상 밀리리터 표기.,"며, 동 인정기준 이외에는 약값 전액을 환자가 부담토록 함 - 아 래 - 가. 인정용량은 6주에 20㎖로 하고, 6주 치료 후 당뇨병 성 족부궤양의 크기가 40% 정도 감소된 경우에 한하여 계속 투여를 인정함"
+391,105 IU,ok,105 IU,정상 국제단위 표기.,63] Recombinant human epidermal growth factor 500mcg (6×105 IU) 외용제 (품명: 이지에프외용액 0.005%) 허가사항 범위 내에서 아래와 같은 기준으로 투여 시 요양
+397,12.5mg,ok,12.5 mg,정상 밀리그램 표기(ASCII).,"90 ❘ 266 피부연화제(부식제를 포함) 구 분 세부인정기준 및 방법 [266] Imiquimod 12.5mg 외용제 (품명: 알다라크림) 허가사항 중 아래와 같은 기준으로 투여 시 요양급여를 인정하며, 동 인정기"
+400,40ml,ok,40 mL,정상 밀리리터 표기.,"Calcitriol이 감소되어 이차성 부갑상선기능항진 증을 유발할 때로서, 1) 사구체여과율(GFR)이 40ml/min/1.73㎡ 이하 이면서, 부갑상선 기능항진증의 소견이 있는 경우 (혈청 부갑상선호르몬(Intact"
+400,25ml,ok,25 mL,정상 밀리리터 표기.,있는 경우 (혈청 부갑상선호르몬(Intact PTH)이 200pg/㎖ 이상) 2) 사구체여과율(GFR)이 25ml/min/1.73㎡ 이하인 경우 3. 허가사항 중 골다공증의 경우에는 골다공증 치료제 일반 원칙에 의하여
+405,200mg,ok,200 mg,정상 밀리그램 표기(ASCII).,") (고시 제2024-72호, ʼ24.5.1.) [322] Iron acetyl-transferrin 200mg 경구제 (품명: 알부맥스캅셀 등) 허가사항 범위 내에서 아래와 같은 기준으로 투여 시 요양 급여를 인정하며"
+410,2.0mg,ok,2.0 mg,정상 밀리그램 표기(ASCII).,성인기준)로 제한되어 있는 진행성 만성신부전으로 판정받은 환자로서 가. 투석 전 환자 중 혈청 크레아티닌 2.0mg/dL- 5.0mg/dL인 환자 나. 혈액투석 환자 중 알부민 수치가 4.0g/dL 이하이면서 고인산혈증
+410,5.0mg,ok,5.0 mg,정상 밀리그램 표기(ASCII).,있는 진행성 만성신부전으로 판정받은 환자로서 가. 투석 전 환자 중 혈청 크레아티닌 2.0mg/dL- 5.0mg/dL인 환자 나. 혈액투석 환자 중 알부민 수치가 4.0g/dL 이하이면서 고인산혈증(5.5mg/dL 초
+410,5.5mg,ok,5.5 mg,정상 밀리그램 표기(ASCII).,"dL- 5.0mg/dL인 환자 나. 혈액투석 환자 중 알부민 수치가 4.0g/dL 이하이면서 고인산혈증(5.5mg/dL 초과) 환자 (고시 제2013-127호, ʼ13.9.1.)"
+410,α,ok,(그대로),그리스 문자 정상 검출.,"하거나 제한되어 경정맥 영양공급이 필요한 환자 (고시 제2019-240호, ʼ19.11.1.) [325] α-Keto-DL-isoleuci ne calcium 67.0mg외 9종 경구제 (품명: 케토스테릴정) 저단"
+413,μ,ok,(그대로),그리스 문자 정상 검출.,"있는 경우 2) 혈액응고 7인자 활성도(FactorⅦ:c)가 2% 미만인 경우 나. 투여 용법·용량: 30μg/kg 이내, 주 3회 투여 시 (고시 제2019-252호, ʼ19.12.1.) [332] Gelatin"
+418,30ml,ok,30 mL,정상 밀리리터 표기.,"함. 2. 허가사항 중 사용상 주의사항을 참조하여 임상적으로 유의한 출혈환자, 중증 신장애 환자(CrCl<30ml/min) 등에는 투여하지 말아야 함. (고시 제2022-184호, ’22.8.1.)"
+419,2500 IU,ok,2500 IU,정상 국제단위 표기.,"증상 발현 후 2∼3일 이내의 급성기 또는 진행성 뇌경색증에 투여 시, 투여용량과 기간은 1일 1바이알 (2500 IU)을 2회씩 10일로 함. 나. 가임기 여성 및 임산부 중 다음과 같은 기준으로 투여한 경우 - 다"
+420,2mg,ok,2 mg,정상 밀리그램 표기(ASCII).,"간정맥폐쇄병 (Baltimore 진단기준) 조혈모세포이식 후 21일 초과 발병 간정맥폐쇄병 총 빌리루빈 2mg/dL 이상이면서, 아래 조건을 2가지 이상 만족 하는 경우 - 아 래 - ․ 통증을 동반한 간비대"
+420,2mg,ok,2 mg,정상 밀리그램 표기(ASCII).,확인된 간정맥폐쇄병 환자로 아래 조건을 2가지 이상 만족 하는 경우 - 아 래 - ․ 총 빌리루빈 2mg/dL 이상 ․ 통증을 동반한 간비대 ․ 기저치 대비 체중증가 5% 초과 ․ 복수 항목 기준 첫 임상적 증상
+421,2mg,ok,2 mg,정상 밀리그램 표기(ASCII).,상의학 검사) ․ 복수 (영상의학 검사) ․ 총빌리루빈 3일 연속 기저치 대비 증가 또는 72시간 내 2mg/dL 이상 2) 다음 기준을 1개 항목 이상 만족하는 중증인 경우 - 다 음 - 항목 기준 불
+425,5700 IU,ok,5700 IU,정상 국제단위 표기.,"일 이내의 급성기 또는 진행성 뇌경색증에 투여 시 요양급여를 인정하며, 투여용량과 기간은 1일 1바이알 (5700 IU)을 2회씩 10일로 함. (고시 제2013-127호, ʼ13.9.1.) [333] Rivaroxaban"
+426,2.5mg,ok,2.5 mg,정상 밀리그램 표기(ASCII).,건의 발생 위험성이 높은 관상동맥질환 또는 증상이 있는 말초동맥질환 성인 환자에서 Rivaroxaban 2.5mg 과 Aspirin의 병용요법
+428,15 mL,ok,15 mL,정상 밀리리터 표기.,"n fraction 30% 미만 또는 NYHA class III/IV의 중증 심부전 마) GFR<15 mL/분 바) 항혈소판 병용(2제)요법, 비아스피린 항혈소판제 치료, 경구 항응고제 치료가 필요한 환"
+429,500 IU,ok,500 IU,정상 국제단위 표기.,"-210호, ʼ14.12.1.) [339] Damoctocog alfa pegol 주사제 (품명: 지비주 500 IU 등) 허가사항 범위 내에서 아래와 같은 기준으로 투여 시 요양 급여를 인정하며, 동 인정기준 이외에는 약"
+429,25 IU,ok,25 IU,정상 국제단위 표기.,"이외에는 약값 전액을 환자가 부담토록 함. - 아 래 - 가) 1회 투여용량(1회분): 20-25 IU/kg 다만, 중등도(moderate) 이상 출혈의 경우 의사의"
+430,30 IU,ok,30 IU,정상 국제단위 표기.,"❘ 423 ❘ 구 분 세부인정기준 및 방법 의학적 판단에 따라서 최대 30 IU/kg - 입원진료가 필요하나 외래진료를 받는 경우, 임상 증상 및 검사 결과 등에 따라 용량 증"
+433,30mg,ok,30 mg,정상 밀리그램 표기(ASCII).,"26 ❘ 구 분 세부인정기준 및 방법 [339] Emicizumab 주사제 (품명: 헴리브라 피하주사 30mg 등) 허가사항 범위 내에서 아래와 같은 기준으로 투여 시 요양 급여를 인정하며, 동 인정기준 이외에는 약값"
+435,25 IU,ok,25 IU,정상 국제단위 표기.,"b 유지요법 중인 환자에서 8인자제제의 처방은 출혈이 있어 내원 시 원내에서의 투여분과 외래에서의 20-25 IU/kg 2회분 처방에 한해 인정함. - 다만, 중등도(moderate) 이상 출혈의 경우 의사의 의"
+435,30 IU,ok,30 IU,정상 국제단위 표기.,"인정함. - 다만, 중등도(moderate) 이상 출혈의 경우 의사의 의학적 판단에 따라서 최대 30 IU/kg 3. 투여방법 부하용량 투여 기간 동안 원내 투여를 원칙으로 하며, 해당기간 동안 자가투여에"
+438,μ,ok,(그대로),그리스 문자 정상 검출.,- 다 음 - 비호지킨림프종 다발골수종 ① 말초혈액 CD34+ cell count < 10 cell/μL* ② 조혈모세포 채집 첫째 날 채집량 < 0.7 × 106 CD34+cell/kg ① 말초혈액 CD
+438,μ,ok,(그대로),그리스 문자 정상 검출.,< 0.7 × 106 CD34+cell/kg ① 말초혈액 CD34+ cell count < 15 cell/μL* ② 조혈모세포 채집 첫째 날 채집량 < 1.0 × 106 CD34+cell/kg * 측정 시기:
+439,μ,ok,(그대로),그리스 문자 정상 검출.,방법 - 다 음 - 림프종 고형악성종양 ① 말초혈액 CD34+ cell count < 10 cell/μL* ② 조혈모세포 채집 첫째 날 채집량 < 0.7 × 106 CD34+cell/kg ① 말초혈액 CD
+439,μ,ok,(그대로),그리스 문자 정상 검출.,< 0.7 × 106 CD34+cell/kg ① 말초혈액 CD34+ cell count < 15 cell/μL* ② 조혈모세포 채집 첫째 날 채집량 < 1.0 × 106 CD34+cell/kg * 측정 시기:
+440,25 IU,ok,25 IU,정상 국제단위 표기.,"준 이외에는 약값 전액을 환자가 부담토록 함. - 아 래 - 가. 1회 투여용량(1회분): 20-25 IU/kg 다만, 중등도 (moderate) 이상 출혈의 경우 의사의 의학적 판단에 따라서 최대 30 IU/k"
+440,30 IU,ok,30 IU,정상 국제단위 표기.,"0-25 IU/kg 다만, 중등도 (moderate) 이상 출혈의 경우 의사의 의학적 판단에 따라서 최대 30 IU/kg - 상기 가.에도 불구하고 용량 증대가 반드시 필요한 다음의 어느 하나에 해당하는 경우에는 의"
+441,250 IU,ok,250 IU,정상 국제단위 표기.,"ctor Ⅷ-Fc fusion protein Efmoroctocog α 주사제 (품명: 엘록테이트주 250 IU 등) Recombinant blood coagulation factor Ⅷ, Rurioctocog α"
+441,250 IU,ok,250 IU,정상 국제단위 표기.,"agulation factor Ⅷ, Rurioctocog α pegol 주사제 (품명: 애디노베이트주 250 IU 등) Lonoctocog alfa 주사제 (품명: 앱스틸라주 250 IU 등) 1. 입원환자의 경우 허"
+441,"250 
+IU",ok,250 IU,정상 국제단위 표기.,주사제 (품명: 애디노베이트주 250 IU 등) Lonoctocog alfa 주사제 (품명: 앱스틸라주 250 IU 등) 1. 입원환자의 경우 허가사항 범위 내에서 투여 시 요양급여 함을 원칙으로 함. 2. 외래환자의 경
+441,25 IU,ok,25 IU,정상 국제단위 표기.,"준 이외에는 약값 전액을 환자가 부담토록 함. - 아 래 - 가. 1회 투여용량(1회분): 20-25 IU/kg 다만, 중등도(moderate) 이상 출혈의 경우 의사의 의학적 판단에 따라서 최대 30 IU/kg"
+441,30 IU,ok,30 IU,정상 국제단위 표기.,"20-25 IU/kg 다만, 중등도(moderate) 이상 출혈의 경우 의사의 의학적 판단에 따라서 최대 30 IU/kg - 상기 가.에도 불구하고 용량 증대가 반드시 필요한 다음의 어느 하나에 해당하는 경우에는 의"
+441,α,ok,(그대로),그리스 문자 정상 검출.,lood coagulation factor Ⅷ-Fc fusion protein Efmoroctocog α 주사제 (품명: 엘록테이트주 250 IU 등) Recombinant blood coagulation
+441,α,ok,(그대로),그리스 문자 정상 검출.,"IU 등) Recombinant blood coagulation factor Ⅷ, Rurioctocog α pegol 주사제 (품명: 애디노베이트주 250 IU 등) Lonoctocog alfa 주사제 (품명"
+442,39 IU,ok,39 IU,정상 국제단위 표기.,"외에는 약값 전액을 환자가 부담토록 함. - 아 래 - 가. 1회 투여용량(1회분) - 39 IU/kg(소아는 42 IU/kg) 다만, 중등도(moderate) 이상 출혈의 경우 의사의 의학"
+442,42 IU,ok,42 IU,정상 국제단위 표기.,"자가 부담토록 함. - 아 래 - 가. 1회 투여용량(1회분) - 39 IU/kg(소아는 42 IU/kg) 다만, 중등도(moderate) 이상 출혈의 경우 의사의 의학적 판단에 따라서 최대"
+442,65 IU,ok,65 IU,정상 국제단위 표기.,"/kg) 다만, 중등도(moderate) 이상 출혈의 경우 의사의 의학적 판단에 따라서 최대 65 IU/kg (소아는 최대 70 IU/kg) - 입원진료가 필요하나 외래진료를 받는 경우, 임상증상 및"
+442,70 IU,ok,70 IU,정상 국제단위 표기.,"도(moderate) 이상 출혈의 경우 의사의 의학적 판단에 따라서 최대 65 IU/kg (소아는 최대 70 IU/kg) - 입원진료가 필요하나 외래진료를 받는 경우, 임상증상 및 검사 결과 등에 따라 용량 증대"
+443,250 IU,ok,250 IU,정상 국제단위 표기.,lbumun fusion protein Albutrepenonacog α 주사제 (품명∶아이델비온주 250 IU 등) 1. 입원환자의 경우 허가사항 범위 내에서 투여 시 요양급여 함을 원칙으로 함. 2. 외래환자의 경
+443,23 IU,ok,23 IU,정상 국제단위 표기.,"이외에는 약값 전액을 환자가 부담토록 함. - 아 래 - 가. 1회 투여용량(1회분) - 23 IU/kg(소아는 30 IU/kg) 다만, 중등도(moderate) 이상 출혈의 경우 의사의 의학적 판단에 따"
+443,30 IU,ok,30 IU,정상 국제단위 표기.,"환자가 부담토록 함. - 아 래 - 가. 1회 투여용량(1회분) - 23 IU/kg(소아는 30 IU/kg) 다만, 중등도(moderate) 이상 출혈의 경우 의사의 의학적 판단에 따라서 최대 39 IU/k"
+443,39 IU,ok,39 IU,정상 국제단위 표기.,"는 30 IU/kg) 다만, 중등도(moderate) 이상 출혈의 경우 의사의 의학적 판단에 따라서 최대 39 IU/kg(소아는 최대 50 IU/kg) - 입원진료가 필요하나 외래진료를 받는 경우, 임상증상 및 검"
+443,50 IU,ok,50 IU,정상 국제단위 표기.,"등도(moderate) 이상 출혈의 경우 의사의 의학적 판단에 따라서 최대 39 IU/kg(소아는 최대 50 IU/kg) - 입원진료가 필요하나 외래진료를 받는 경우, 임상증상 및 검사 결과 등에 따라 용량 증대가"
+443,α,ok,(그대로),그리스 문자 정상 검출.,"lation factor Ⅸ, albumun fusion protein Albutrepenonacog α 주사제 (품명∶아이델비온주 250 IU 등) 1. 입원환자의 경우 허가사항 범위 내에서 투여 시 요양급"
+444,250 IU,ok,250 IU,정상 국제단위 표기.,tor Ⅸ-Fc fusion protein Eftrenonacog α 주사제 (품명: 알프로릭스주 250 IU 등) 1. 입원환자의 경우 허가사항 범위 내에서 투여 시 요양급여 함을 원칙으로 함. 2. 외래환자의 경
+444,30 IU,ok,30 IU,정상 국제단위 표기.,"이외에는 약값 전액을 환자가 부담토록 함. - 아 래 - 가. 1회 투여용량(1회분) - 30 IU/kg(소아는 42 IU/kg) 다만, 중등도(moderate) 이상 출혈의 경우 의사의 의학적"
+444,42 IU,ok,42 IU,정상 국제단위 표기.,"환자가 부담토록 함. - 아 래 - 가. 1회 투여용량(1회분) - 30 IU/kg(소아는 42 IU/kg) 다만, 중등도(moderate) 이상 출혈의 경우 의사의 의학적 판단에 따라서 최대 5"
+444,50 IU,ok,50 IU,정상 국제단위 표기.,"U/kg) 다만, 중등도(moderate) 이상 출혈의 경우 의사의 의학적 판단에 따라서 최대 50 IU/kg(소아는 최대 70 IU/kg) - 입원진료가 필요하나 외래진료를 받는 경우, 임상증상 및"
+444,70 IU,ok,70 IU,정상 국제단위 표기.,"등도(moderate) 이상 출혈의 경우 의사의 의학적 판단에 따라서 최대 50 IU/kg(소아는 최대 70 IU/kg) - 입원진료가 필요하나 외래진료를 받는 경우, 임상증상 및 검사 결과 등에 따라 용량 증대"
+444,α,ok,(그대로),그리스 문자 정상 검출.,lood coagulation factor Ⅸ-Fc fusion protein Eftrenonacog α 주사제 (품명: 알프로릭스주 250 IU 등) 1. 입원환자의 경우 허가사항 범위 내에서 투여 시 요
+445,33 IU,ok,33 IU,정상 국제단위 표기.,"에는 약값 전액을 환자가 부담토록 함. - 아 래 - 가. 1회 투여용량(1회분) - 33 IU/kg(소아는 42 IU/kg) 다만, 중등도(moderate) 이상 출혈의 경우 의사의 의학적 판단에 따"
+445,42 IU,ok,42 IU,정상 국제단위 표기.,"가 부담토록 함. - 아 래 - 가. 1회 투여용량(1회분) - 33 IU/kg(소아는 42 IU/kg) 다만, 중등도(moderate) 이상 출혈의 경우 의사의 의학적 판단에 따라서 최대"
+446,55 IU,ok,55 IU,정상 국제단위 표기.,"❘ 439 ❘ 구 분 세부인정기준 및 방법 55 IU/kg (소아는 최대 70 IU/kg) - 입원진료가 필요하나 외래진료를 받는 경우, 임상증상 및"
+446,70 IU,ok,70 IU,정상 국제단위 표기.,"❘ 439 ❘ 구 분 세부인정기준 및 방법 55 IU/kg (소아는 최대 70 IU/kg) - 입원진료가 필요하나 외래진료를 받는 경우, 임상증상 및 검사 결과 등에 따라 용량 증대"
+452,500ml,ok,500 mL,정상 밀리리터 표기.,"유리체절제술(자512-가, 자512-나) 3) 망막주위막제거술(자514-1) 나. 인정용량 수술 당 최대 500ml(1병). 다만, BSS Plus액사용 시는 약값 전액을 환자가 부담토록 함. (고시 제2013-127호,"
+453,100mg,ok,100 mg,정상 밀리그램 표기(ASCII).,❘ 446 ❘ 391 간장질환용제 구 분 세부인정기준 및 방법 [391] Lamivudine 100mg 경구제 (품명: 제픽스정 등) 1. 허가사항 범위 내에서 아래와 같은 기준으로 투여 시 요양급여를 인정
+454,2.0mg,ok,2.0 mg,정상 밀리그램 표기(ASCII).,"크레메진세립 등) 허가사항 범위 내에서 “진행성 만성신부전으로 판정받은 투석 전 환자 중 혈청 크레아티닌 2.0mg/dL- 5.0mg/dL인 환자”에게 투여 시 요양급여를 인정하며, 동 인정기준 이외에는 약값 전액을 환"
+454,5.0mg,ok,5.0 mg,정상 밀리그램 표기(ASCII).,"허가사항 범위 내에서 “진행성 만성신부전으로 판정받은 투석 전 환자 중 혈청 크레아티닌 2.0mg/dL- 5.0mg/dL인 환자”에게 투여 시 요양급여를 인정하며, 동 인정기준 이외에는 약값 전액을 환자가 부담토록 함."
+458,3.5mg,ok,3.5 mg,정상 밀리그램 표기(ASCII).,❘ 451 ❘ 395 효소제제 구 분 세부인정기준 및 방법 [395] Agalsidase alfa 3.5mg 주사제 (품명: 레프라갈주) 1. 허가사항 범위 내에서 아래와 같은 기준으로 투여 시 요양급여를 인정
+458,30mg,ok,30 mg,정상 밀리그램 표기(ASCII).,n/1.73m2(adjusted for age>40)에 2회 이상 해당하는 경우) 남성 ② 미세알부민뇨(>30mg/g) (최소 24시간 간격 2회 이상 검출) ③ 알부민뇨(>20㎍/min) (최소 24시간 간격
+458,150mg,ok,150 mg,정상 밀리그램 표기(ASCII).,2회 이상 검출) ③ 알부민뇨(>20㎍/min) (최소 24시간 간격 2회 이상 검출) ④ 단백뇨(>150mg/24hr) 여성 ⑤ 진행의 임상적 증거를 동반한 단백뇨 (>300mg/24hr) 심장 ⑥ MRI나 심초
+458,300mg,ok,300 mg,정상 밀리그램 표기(ASCII).,"간격 2회 이상 검출) ④ 단백뇨(>150mg/24hr) 여성 ⑤ 진행의 임상적 증거를 동반한 단백뇨 (>300mg/24hr) 심장 ⑥ MRI나 심초음파로 입증된 좌심실 비대(좌심실벽 두께>12mm) (단, 고혈압이 동"
+458,90ml,ok,90 mL,정상 밀리리터 표기.,전자 검사로 확진할 수 있음) - 다 음 - 항목 요건 신장※ ① 사구체 여과율 감소 (15≦eGFR<90ml/min/1.73m2(adjusted for age>40)에 2회 이상 해당하는 경우) 남성 ② 미세알부민
+458,α,ok,(그대로),그리스 문자 정상 검출.,"또는 징후를 보이며, 기타 원인이 배제된(감별진단 된) 환자로서, 2) 백혈구 또는 피부섬유아세포 등에서 α-galactosidase A 활성도가 감소하고 유전자검사로 파브리병이 확진된 경우 (단, 이 중 α-g"
+458,α,ok,(그대로),그리스 문자 정상 검출.,"서 α-galactosidase A 활성도가 감소하고 유전자검사로 파브리병이 확진된 경우 (단, 이 중 α-galactosidase A의 활성도 감소가 확인되지 않는 여성 환자의 경우 유전자 검사로 확진할 수 있"
+459,37mg,ok,37 mg,정상 밀리그램 표기(ASCII).,를 위해 진료기록 등을 통해 약제 효과가 지속적으로 입증되어야 함) 등 [395] Agalsidase β 37mg 주사제 (품명: 파브라자임주 등) 1. 허가사항 범위 내에서 아래와 같은 기준으로 투여 시 요양급여
+459,β,ok,(그대로),그리스 문자 정상 검출.,투여를 위해 진료기록 등을 통해 약제 효과가 지속적으로 입증되어야 함) 등 [395] Agalsidase β 37mg 주사제 (품명: 파브라자임주 등) 1. 허가사항 범위 내에서 아래와 같은 기준으로 투여 시
+459,α,ok,(그대로),그리스 문자 정상 검출.,"또는 징후를 보이 며, 기타 원인이 배제된(감별진단 된) 환자로서, 2) 백혈구 또는 피부섬유아세포 등에서 α-galactosidase A 활성도가 감소하고 유전자검사로 파브리병이 확진된 경우 (단, 이 중 α-g"
+459,α,ok,(그대로),그리스 문자 정상 검출.,"서 α-galactosidase A 활성도가 감소하고 유전자검사로 파브리병이 확진된 경우 (단, 이 중 α-galactosidase A의 활성도 감소가 확인되지 않는 여성 환자의 경우 유전자 검사로 확진할 수 있"
+460,30mg,ok,30 mg,정상 밀리그램 표기(ASCII).,n/1.73m2(adjusted for age>40)에 2회 이상 해당하는 경우) 남성 ② 미세알부민뇨(>30mg/g) (최소 24시간 간격 2회 이상 검출) ③ 알부민뇨(>20㎍/min) (최소 24시간 간격 2회 이상
+460,150mg,ok,150 mg,정상 밀리그램 표기(ASCII).,간격 2회 이상 검출) ③ 알부민뇨(>20㎍/min) (최소 24시간 간격 2회 이상 검출) ④ 단백뇨(>150mg/24hr) 여성 ⑤ 진행의 임상적 증거를 동반한 단백뇨 (>300mg/24hr) 심장 ⑥ MRI나 심초
+460,300mg,ok,300 mg,정상 밀리그램 표기(ASCII).,"간격 2회 이상 검출) ④ 단백뇨(>150mg/24hr) 여성 ⑤ 진행의 임상적 증거를 동반한 단백뇨 (>300mg/24hr) 심장 ⑥ MRI나 심초음파로 입증된 좌심실 비대(좌심실벽 두께>12mm) (단, 고혈압이 동"
+460,90ml,ok,90 mL,정상 밀리리터 표기.,"(고시 제2020-17호, ʼ20.2.1.) 항목 요건 신장※ ① 사구체 여과율 감소 (15≦eGFR<90ml/min/1.73m2(adjusted for age>40)에 2회 이상 해당하는 경우) 남성 ② 미세알부민"
+461,40mg,ok,40 mg,정상 밀리그램 표기(ASCII).,"제2023-165호, ʼ23.9.1.) [395] Asfotase alfa 주사제 (품명: 스트렌식주 40mg/mL 등) 1. 허가사항 범위 내에서 아래와 같은 기준으로 투여 시 요양급여를 인정하며, 동 인정기준 이"
+464,5mg,ok,5 mg,정상 밀리그램 표기(ASCII).,"기관이 관리하여야 함. (고시 제2024-55호, ʼ24.4.1.) [395] Elosulfase alfa 5mg 주사제 (품명: 비미짐주) 허가사항 범위 내에서 아래와 같은 기준으로 투여 시 요양급여를 인정하며, 동"
+466,6mg,ok,6 mg,정상 밀리그램 표기(ASCII).,"기능 장애 또는 종양에 의한 신장 침범이 있는 경우(단, 성인 고형암 제외) ○ 투여용량: 최대 6mg (고시 제2018-253호, ʼ18.12.1.)"
+470,60mg,ok,60 mg,정상 밀리그램 표기(ASCII).,"21-194호, ’21.7.23.) [399] BDDE bridged sodium hyaluronate 60mg 주사제 (품명: 시노비안주, 하이히알원스주, 하이알원샷주) 1. 허가사항 범위 내에서 방사선학적으로"
+471,3.0mg,ok,3.0 mg,정상 밀리그램 표기(ASCII).,kets severity score) 2점 이상 3) 생화학적 검사(모두 만족) - 저인산혈증(3.0mg/dL 미만) - 신장 인 소실 확인(TmP/GFR 참고치 미만) - 정상 혈청 크레아티닌
+474,μ,ok,(그대로),그리스 문자 정상 검출.,가. 요소회로대사이상증이 강력히 의심되나 진단이 되지 않은 환자 1) 투여대상: 혈청암모니아 수치 150μmol/L이상으 로써 의식변화를 동반한 환자 2) 투여기간: 5일 이내 * 카바글루는 대사이상에 대한
+475,9.0mg,ok,9.0 mg,정상 밀리그램 표기(ASCII).,"❘ 468 ❘ 구 분 세부인정기준 및 방법 9.0mg/dL 이상이고 부갑상선호르몬(iPTH)이 300pg/mL 이상인 경우 - 다만, 동 약제 투여 중 부갑상"
+478,1ml,ok,1 mL,정상 밀리리터 표기.,"과하여 다음과 같은 기준 으로 투여한 경우에도 요양급여를 인정함. - 다 음 - 가. 소아변비에 1일 1ml/kg 투여를 원칙으로 하며, 투여 소견서를 첨부 시 2ml/kg 용량까지 인정 나. 만성신부전 환자의 만"
+478,2ml,ok,2 mL,정상 밀리리터 표기.,"정함. - 다 음 - 가. 소아변비에 1일 1ml/kg 투여를 원칙으로 하며, 투여 소견서를 첨부 시 2ml/kg 용량까지 인정 나. 만성신부전 환자의 만성변비에 투여 시 1일 60ml 용량까지 인정 (고시 제2"
+478,60ml,ok,60 mL,정상 밀리리터 표기.,"하며, 투여 소견서를 첨부 시 2ml/kg 용량까지 인정 나. 만성신부전 환자의 만성변비에 투여 시 1일 60ml 용량까지 인정 (고시 제2013-127호, ʼ13.9.1.) [399] Miglustat 경구제 (품명"
+478,μ,ok,(그대로),그리스 문자 정상 검출.,"이는 경우 2) 혈액학적 검사결과 헤모글로빈이 9.0g/dL 이상이고 혈소판 수치가 50,000/μL 이상인 경우 3) 효소대체요법이 불가능한 경우(효소 약제에 대해 알러지 또는 과민반응이 있거나"
+482,20mg,ok,20 mg,정상 밀리그램 표기(ASCII).,"을 예외함. (고시 제2020-133호, ʼ20.7.1.) [399] Sodium hyaluronate 20mg 주사제 1. 각 약제별 허가사항 범위 내에서 사용함을 원칙으로 하고, 아래와 같은 기준으로 투여 시 요"
+483,25mg,ok,25 mg,정상 밀리그램 표기(ASCII).,"말아야 함. (고시 제2020-79호, ʼ20.5.1.) [399] Sodium hyaluronate 25mg 주사제 (품명: 하이알주 등) 1. 허가사항 범위 내에서 아래와 같은 기준으로 투여 시 요양급여를 인정"
+484,α,ok,(그대로),그리스 문자 정상 검출.,nction Test) 나. 병용투여 ○ Thioctic acid 주사제와 Thioctic acid(또는 α- lipoic acid)경구제와의 병용은 인정하지 않음. 다. 투여기간 : 상기 투여대상에 대해
+485,5mg,ok,5 mg,정상 밀리그램 표기(ASCII).,❘ 478 ❘ 구 분 세부인정기준 및 방법 [399] Zoledronic acid 5mg/100ml 주사제 (품명: 대웅졸레드론산주사액 5밀리그램/100밀리리터 등) 허가사항 범위 내에서 아래와
+485,80mg,ok,80 mg,정상 밀리그램 표기(ASCII).,골밀도 측정시 T-score가 -2.5 이하인 경우 나) 정량적 전산화 단층 골밀도검사(QCT): 80mg/㎤ 이하인 경우 다) 방사선 촬영 등에서 골다공증성 골절*이 확인된 경우 * 골다공증성
+485,100ml,ok,100 mL,정상 밀리리터 표기.,❘ 478 ❘ 구 분 세부인정기준 및 방법 [399] Zoledronic acid 5mg/100ml 주사제 (품명: 대웅졸레드론산주사액 5밀리그램/100밀리리터 등) 허가사항 범위 내에서 아래와 같은 기준
+486,450mg,ok,450 mg,정상 밀리그램 표기(ASCII).,- 아 래 - 1) 투여대상 6개월 이내에 최소 90일을 초과하여 prednisolone을 총 450mg 이상(또는 그에 상응하는 글루코코르티코이드 약제 용량)을 투여받은 환자로서 가) 폐경 후 여성 및
+487,α,ok,(그대로),그리스 문자 정상 검출.,❘ 480 ❘ 구 분 세부인정기준 및 방법 [399] α-lipoic acid(또는 Thioctic acid)경구제 허가사항 범위 내에서 투여 시 요양급여 함을
+490,5 IU,ok,5 IU,정상 국제단위 표기.,"(생식샘자극호르몬분비호르몬)자극검사에서 황체형성호르몬(LH)이 기저치의 2-3배 증가되면서 최고 농도는 5 IU/L 이상인 경우. 나) 투여기간 (1) 투여시작: 역연령 여아 9세(8세 365일),"
+492,3.6mg,ok,3.6 mg,정상 밀리그램 표기(ASCII).,"경우에는 약값 전액을 환자가 부담토록 함. - 아 래 - 가. 대상약제성분: Goserelin 3.6mg, Triptorelin 0.1mg, Triptorelin 3.75mg, Leuprolide 14mg"
+492,0.1mg,ok,0.1 mg,정상 밀리그램 표기(ASCII).,"토록 함. - 아 래 - 가. 대상약제성분: Goserelin 3.6mg, Triptorelin 0.1mg, Triptorelin 3.75mg, Leuprolide 14mg 나. 급여 범위 1) 조기배"
+492,3.75mg,ok,3.75 mg,정상 밀리그램 표기(ASCII).,". 대상약제성분: Goserelin 3.6mg, Triptorelin 0.1mg, Triptorelin 3.75mg, Leuprolide 14mg 나. 급여 범위 1) 조기배란방지 가) Long prot"
+492,14mg,ok,14 mg,정상 밀리그램 표기(ASCII).,"3.6mg, Triptorelin 0.1mg, Triptorelin 3.75mg, Leuprolide 14mg 나. 급여 범위 1) 조기배란방지 가) Long protocol: 황체기 중반에 투여"
+492,3.6mg,ok,3.6 mg,정상 밀리그램 표기(ASCII).,배란방지 가) Long protocol: 황체기 중반에 투여 (1) goserelin 3.6mg 또는 triptorelin 3.75mg 1회 투여 (2) triptorelin 0.1mg 또
+492,3.75mg,ok,3.75 mg,정상 밀리그램 표기(ASCII).,tocol: 황체기 중반에 투여 (1) goserelin 3.6mg 또는 triptorelin 3.75mg 1회 투여 (2) triptorelin 0.1mg 또는 leuprolide 1mg를 배란 유
+492,0.1mg,ok,0.1 mg,정상 밀리그램 표기(ASCII).,n 3.6mg 또는 triptorelin 3.75mg 1회 투여 (2) triptorelin 0.1mg 또는 leuprolide 1mg를 배란 유도 직전까지 투여(투여용량은 감량 가능) 나) Short
+492,0.1mg,ok,0.1 mg,정상 밀리그램 표기(ASCII).,"가능) 나) Short protocol (1) 월경주기 초반에 triptorelin 0.1mg 또는 leuprolide 1mg를 투여 시작하여, 배란유도 직전까지 투여 (투여용량은 감량가능)"
+492,0.1mg,ok,0.1 mg,정상 밀리그램 표기(ASCII).,Ultra-short protocol (1) 월경주기 3일부터 5일까지 triptorelin 0.1mg 또는 leuprolide 1mg를 투여(투여 용량은 감량가능) 2) 배란유도(ovulation
+493,50IU,ok,50 IU,정상 국제단위 표기.,확인된 경우에만 12개월까지 투여를 인정(휴약 기간 제외) 다) HCV RNA가 100Copies/ml (50IU/ml)이하로 감소되지 않거나 또는 기저치로부터 최소 100배 이상 감소되지 않은 경우에는 치료를 중단
+493,α,ok,(그대로),그리스 문자 정상 검출.,❘ 486 ❘ 구 분 세부인정기준 및 방법 [421] Interferon α-2a 주사제 (품명: 로페론에이프리필드주) 1. 각 약제의 허가사항 범위 내에서 투여 시 요양급여를
+493,α,ok,(그대로),그리스 문자 정상 검출.,"odeoxycholic acid, DDB 함유 제제 등) 와의 병용투여는 인정하나, ○ Interferon α-2a 주사제와 Hepatotonics 약제 중 한 가지 약제의 약값 전액을 환자가 본인부담토록 함. 나."
+494,α,ok,(그대로),그리스 문자 정상 검출.,"deoxycholic acid, DDB 함유 제제 등)와의 병용 투여는 인정하나, ○ Interferon α-2a 주사제와 Hepatotonics 약제 중 한가지 약제의 약값 전액을 환자가 본인부담토록 함. 3."
+495,50IU,ok,50 IU,정상 국제단위 표기.,확인된 경우에만 12개월까지 투여를 인정(휴약기간 제외)함 다) HCV RNA가 100Copies/ml (50IU/ml)이하로
+495,α,ok,(그대로),그리스 문자 정상 검출.,❘ 488 ❘ 구 분 세부인정기준 및 방법 [421] Interferon α-2b 주사제 (품명: 인트론에이멀티도스펜) 1. 각 약제의 허가사항 범위 내에서 투여 시 요양급여를 인
+495,α,ok,(그대로),그리스 문자 정상 검출.,"xycholic acid, DDB 함유 제제 등) 와의 병용투여는 인정 가능하나, 가) Interferon α-2b 주사제와 Hepatotonics 약제 중 한 가지 약제의 약값 전액을 환자가 본인부담 토록 함 나)"
+496,α,ok,(그대로),그리스 문자 정상 검출.,"oxycholic acid, DDB 함유 제제 등)와의 병용투여는 인정 가능하나, ○ Interferon α-2b 주사제와 Hepatotonics 약제 중 한 가지 약제의 약값은 환자가 전액 본인부담토록 함 3."
+497,2.5mg,ok,2.5 mg,정상 밀리그램 표기(ASCII).,"phene 등 배란유도제에 반응이 없거나 사용 할 수 없는 경우 나. 투여 용법·용량 ○ 1일 2.5mg∼5mg을 5∼10일간 복용 (고시 제2019-93호, ʼ19.6.7.) [421] Megestrol ace"
+498,25mg,ok,25 mg,정상 밀리그램 표기(ASCII).,"제 복용이 불가능한 사유 등이 있는 경우에 한하여 인정함. 다. 주사제의 경우 크론병에 관해 유도 시 25mg/week, 관해 유지 시 15mg/week 으로 투여 시 인정함. 라. 조혈모세포이식 후 이식편대숙"
+498,15mg,ok,15 mg,정상 밀리그램 표기(ASCII).,"경우에 한하여 인정함. 다. 주사제의 경우 크론병에 관해 유도 시 25mg/week, 관해 유지 시 15mg/week 으로 투여 시 인정함. 라. 조혈모세포이식 후 이식편대숙주질환(GVHD) 예방을 위하여 이"
+498,β,ok,(그대로),그리스 문자 정상 검출.,"대상은 제외) - 다 음 - 가) 임신 6주 이하 나) 혈청 사람융모성성선자극호르몬(β-hCG)가 15,000mIU/ml 이하 다) 자궁외 임신으로 인한 난관의 종괴가 3.5㎝ 이하"
+499,1mg,ok,1 mg,정상 밀리그램 표기(ASCII).,"❘ 구 분 세부인정기준 및 방법 2) 투여요법 가) 복합요법(Methotrexate 1mg/kg/day와 Leucovorin 0.1mg/kg/day를 교대로 근주, 각각 4일) 나) 단"
+499,0.1mg,ok,0.1 mg,정상 밀리그램 표기(ASCII).,"2) 투여요법 가) 복합요법(Methotrexate 1mg/kg/day와 Leucovorin 0.1mg/kg/day를 교대로 근주, 각각 4일) 나) 단일요법(Methotrexate 50mg/㎡ 근주"
+499,50mg,ok,50 mg,정상 밀리그램 표기(ASCII).,"in 0.1mg/kg/day를 교대로 근주, 각각 4일) 나) 단일요법(Methotrexate 50mg/㎡ 근주) 바. 아토피성 피부염 ○ 기존치료에 불응성인 중증의 아토피성 피부염에 2차적으로 투"
+499,12mg,ok,12 mg,정상 밀리그램 표기(ASCII).,높은 재발완화형 다발경화증(RRMS) 2) 이차진행성 다발경화증 나. 투여 방법 1) 5∼12mg/㎡ 씩 3개월마다 투여
+500,140mg,ok,140 mg,정상 밀리그램 표기(ASCII).,"❘ 493 ❘ 구 분 세부인정기준 및 방법 2) 총 투여용량: 120∼140mg/㎡ 다만, 동 약제는 허가사항 중 사용상의 주의사항을 참고하여 골수 억제 및 심근 독성 발생 여부를 주"
+500,α,ok,(그대로),그리스 문자 정상 검출.,준(2010년 제정)에 부합하는 성인 류마티스 관절염 환자 중 1종 이상의 종양괴사인자알파저해제(TNF-α inhibitor)에 반응이 불충분하거나 부작용 등으로 치료를 중단한 중증의 활동성 류마티스 관절염 환
+500,α,ok,(그대로),그리스 문자 정상 검출.,반응이 불충분하거나 부작용 등으로 치료를 중단한 중증의 활동성 류마티스 관절염 환자 ※ TNF-α inhibitor요법에 반응이 불충분한 경우란 다음 조건에 해당하는 경우로 함 - 다 음 -
+500,α,ok,(그대로),그리스 문자 정상 검출.,or요법에 반응이 불충분한 경우란 다음 조건에 해당하는 경우로 함 - 다 음 - 가) TNF-α inhibitor를 6개월간 사용 후 평가시 DAS28이 1.2 이상 감소하지 않은 경우 나) T
+500,α,ok,(그대로),그리스 문자 정상 검출.,hibitor를 6개월간 사용 후 평가시 DAS28이 1.2 이상 감소하지 않은 경우 나) TNF-α inhibitor를 6개월간 사용 후 평가에서 계속
+501,375mg,ok,375 mg,정상 밀리그램 표기(ASCII).,시 요양급여를 인정함. - 아 래 - 가. ABO 혈액형 부적합 신이식 환자의 거부반응 예방에 375mg/㎡ 용량으로 1회 나. 패널반응성항체(Panel reactive antibody)>50%
+501,α,ok,(그대로),그리스 문자 정상 검출.,"3) 동 약제에 효과가 없거나 부작용으로 투약을 지속할 수 없어 이전에 투여한 적이 없는 다른 TNF-α inhibitor (Adalimumab, Etanercept, Golimumab, Infliximab"
+502,375mg,ok,375 mg,정상 밀리그램 표기(ASCII).,분 세부인정기준 및 방법 또는 교차반응검사에서 양성에 해당하는 고도 감작된 신이식 환자의 거부반응 예방에 375mg/㎡ 용량으로 1회 다. 면역글로불린/혈장반출술 등의 치료에 반응하지 않는 신이식 후 발생한 급성 체액
+502,375mg,ok,375 mg,정상 밀리그램 표기(ASCII).,1회 다. 면역글로불린/혈장반출술 등의 치료에 반응하지 않는 신이식 후 발생한 급성 체액성 거부반응에 375mg/㎡ 용량으로 1회 라. 면역억제제 감량에 반응하지 않는 이식 후 발생한 림프증식성 질환(Posttr
+502,375mg,ok,375 mg,정상 밀리그램 표기(ASCII).,발생한 림프증식성 질환(Posttransplant lymphoproliferative disease)에 375mg/㎡ 용량으로 4회 마. 소장이식후 거부반응 치료시에 375mg/㎡ 용량으로 1회 바. 시신경척수염
+502,375mg,ok,375 mg,정상 밀리그램 표기(ASCII).,oliferative disease)에 375mg/㎡ 용량으로 4회 마. 소장이식후 거부반응 치료시에 375mg/㎡ 용량으로 1회 바. 시신경척수염(Neuromyelitis optica)으로 진단된 환자 중 Az
+502,375mg,ok,375 mg,정상 밀리그램 표기(ASCII).,"(흉터) 유사천포창, 후천성 수포성 표피박리증 환자로서 아래의 가), 나) 조건을 동시에 만족하는 경우 375mg/㎡/주씩 4주까지 또는 1000mg/회씩 2회까지 인정 가) 20mg/일 이상의 Prednison"
+502,1000mg,ok,1000 mg,정상 밀리그램 표기(ASCII).,"표피박리증 환자로서 아래의 가), 나) 조건을 동시에 만족하는 경우 375mg/㎡/주씩 4주까지 또는 1000mg/회씩 2회까지 인정 가) 20mg/일 이상의 Prednisone 투여에도 2번 이상 재발하거나 1"
+502,20mg,ok,20 mg,정상 밀리그램 표기(ASCII).,을 동시에 만족하는 경우 375mg/㎡/주씩 4주까지 또는 1000mg/회씩 2회까지 인정 가) 20mg/일 이상의 Prednisone 투여에도 2번 이상 재발하거나 1.5mg/kg/일 용량으로 8주간 투여한
+502,1.5mg,ok,1.5 mg,정상 밀리그램 표기(ASCII).,g/회씩 2회까지 인정 가) 20mg/일 이상의 Prednisone 투여에도 2번 이상 재발하거나 1.5mg/kg/일 용량으로 8주간 투여한 Prednisone에 불응인 경우 또는 Steroid에 금기인 경우
+502,500mg,ok,500 mg,정상 밀리그램 표기(ASCII).,"중의 난치성 심상성(보통) 천포창, 낙엽상 천포창 환자는 상기 1)의 투여 12개월 후 6개월 간격으로 500mg/회씩 2회 인정 아. 자가면역성뇌염(Autoimmune encephalitis) 환자"
+504,375mg,ok,375 mg,정상 밀리그램 표기(ASCII).,"❘ 497 ❘ 구 분 세부인정기준 및 방법 2) 투여방법 - 375mg/m2(최대 500mg) 용량으로 1회 투여를 인정하며, 투여 3∼6개월 후 1회 추가 투여를 인정함 (1"
+504,500mg,ok,500 mg,정상 밀리그램 표기(ASCII).,"❘ 497 ❘ 구 분 세부인정기준 및 방법 2) 투여방법 - 375mg/m2(최대 500mg) 용량으로 1회 투여를 인정하며, 투여 3∼6개월 후 1회 추가 투여를 인정함 (1년간 최대 2회)"
+505,10mg,ok,10 mg,정상 밀리그램 표기(ASCII).,"응 환자 (2) 만성: 개시 3개월 이후 1개월 단위 평가에서 반응 환자 ※ 1일 용량 10mg 이하이고 부분반응 이상의 반응을 보이는 만성 환자에 한해 최대 3개월 단위로 평가 가능하며, 호전되어"
+508,μ,ok,(그대로),그리스 문자 정상 검출.,이외에는 약값 전액을 환자가 부담토록 함. - 아 래 - 가. 투여개시 1) 혈소판수가 150만/μL 이상 또는 2) 혈소판수치 45만/μL 이상으로써 다음 중 어느 하나에 해당하는 경우 가)
+508,μ,ok,(그대로),그리스 문자 정상 검출.,함. - 아 래 - 가. 투여개시 1) 혈소판수가 150만/μL 이상 또는 2) 혈소판수치 45만/μL 이상으로써 다음 중 어느 하나에 해당하는 경우 가) 만 60세 이상인 환자 나)
+508,μ,ok,(그대로),그리스 문자 정상 검출.,다) 혈소판증가증 관련 증상의 기왕력이 있는 환자 나. 투여기간 혈소판수치가 40만/μL 이하가 될 때까지 점진적으로 증량하여 투여하고 이후 반응이 유지되도록 최저 유효량을 조정하여 투여함.
+519,α,ok,(그대로),그리스 문자 정상 검출.,"평가하여 첫 3개월째의 평가 결과가 유지되면 지속적인 투여를 인정함. 다. 종양괴사인자알파저해제(TNF-α inhibitor: Adalimumab, Etanercept, Golimumab, Infliximab 주"
+530,α,ok,(그대로),그리스 문자 정상 검출.,"나. 중등도에서 중증의 심부전(NYHA class Ⅲ/Ⅳ) 환자 4. 다른 종양괴사인자알파저해제(TNF-α inhibitor: Etanercept, Golimumab, Infliximab 주사제) 또는 Abata"
+531,α,ok,(그대로),그리스 문자 정상 검출.,"보이고 부작용이 없는 환자의 경우 최대 8∼12주분까지 인정함. 7. 동 약제를 사용하는 경우에는「TNF-α inhibitor 사용시 잠복결핵 치료지침」을 따라야 함. (고시 제2024-130호, ʼ24.7.1.)"
+532,μ,ok,(그대로),그리스 문자 정상 검출.,"A1C) 10% 이하 나) 최단 중심망막두께(Central retinal thickness) 300μm 이상인 경우 2) 제외대상 가) 황반부 위축, 손상, 또는 경성삼출물 등이 심하여 치료 효"
+534,μ,ok,(그대로),그리스 문자 정상 검출.,"A1C) 10% 이하 나) 최단 중심망막두께(Central retinal thickness) 300μm 이상인 경우 2) 제외대상 가) 황반부 위축, 손상, 또는 경성삼출물 등이 심하여 치료 효"
+540,α,ok,(그대로),그리스 문자 정상 검출.,"상 해당 연령 이전에 동 약제를 투여하는 경우에는 사례별 심사함. 3. 다른 종양괴사인자알파저해제(TNF-α inhibitor: Adalimumab, Golimumab, Infliximab 주사제) 또는 Abata"
+540,α,ok,(그대로),그리스 문자 정상 검출.,"고 부작용이 없는 환자의 경우 최대 8∼12주분 까지 인정함. 6. 동 약제를 사용하는 경우에는 「TNF-α inhibitor 사용시 잠복결핵 치료지침」을 따라야 함. (고시 제2024-130호, ʼ24.7.1.)"
+541,μ,ok,(그대로),그리스 문자 정상 검출.,"A1C) 10% 이하 나) 최단 중심망막두께(Central retinal thickness) 300μm 이상인 경우 2) 제외대상 가) 황반부 위축, 손상, 또는 경성삼출물 등이 심하여 치료 효"
+550,5mg,ok,5 mg,정상 밀리그램 표기(ASCII).,"아 래 - 가. 스테로이드와 cyclosporine 경구제에 반응하지 않는 괴저성 농피증(용량: 5mg/kg)에 3회 투여 인정 ○단, 3회를 초과하여 투여한 경우에는 약값 전액을 환자가 부담토록 함"
+551,5mg,ok,5 mg,정상 밀리그램 표기(ASCII).,") 투여대상: 정맥용 면역글로불린 투여 종료 후 36시간 이상 발열이 지속되는 환자 2) 투여용량: 5mg/kg 1회 투여에 한하여 인정 - 단, 정맥용 면역글로불린과의 병용투여는 인정하지 아니함."
+551,α,ok,(그대로),그리스 문자 정상 검출.,"나. 중등도에서 중증의 심부전(NYHA class Ⅲ/Ⅳ) 환자 4. 다른 종양괴사인자알파저해제(TNF-α inhibitor: Adalimumab, Etanercept, Golimumab 주사제) 또는 Abata"
+551,α,ok,(그대로),그리스 문자 정상 검출.,"하며, 이 경우에는 교체투여에 대한 투여 소견서를 첨부하여야 함. 5. 동 약제를 사용하는 경우에는「TNF-α inhibitor 사용시 잠복결핵 치료지침」을 따라야 함."
+555,μ,ok,(그대로),그리스 문자 정상 검출.,"A1C) 10% 이하 나) 최단 중심망막두께(Central retinal thickness) 300μm 이상인 경우 2) 제외대상 가) 황반부 위축, 손상, 또는 경성삼출물 등이 심하여 치료 효"
+559,α,ok,(그대로),그리스 문자 정상 검출.,"552 ❘ 구 분 세부인정기준 및 방법 한하여 유지요법을 인정함. 2. 종양괴사인자알파저해제(TNF-α inhibitor: Adalimumab, Golimumab, Infliximab 주사제) 또는 Ustek"
+561,200mg,ok,200 mg,정상 밀리그램 표기(ASCII).,"(고시 제2024-55호, ʼ24.4.1.) [611] Tedizolid 경구제 (품명: 시벡스트로정 200mg 등) 허가사항 범위 내에서 아래와 같은 기준으로 투여 시 요양 급여를 인정하며, 동 인정기준 이외에는 약값"
+562,400mg,ok,400 mg,정상 밀리그램 표기(ASCII).,"아 래 - 정상 신기능을 가진 성인 또는 고령자의 중등도, 중증 감염에 유지용량을 1일 1회 200-400mg 또는 3-6mg/kg 으로 인정함. (고시 제2013-127호, ʼ13.9.1.)"
+562,6mg,ok,6 mg,정상 밀리그램 표기(ASCII).,"상 신기능을 가진 성인 또는 고령자의 중등도, 중증 감염에 유지용량을 1일 1회 200-400mg 또는 3-6mg/kg 으로 인정함. (고시 제2013-127호, ʼ13.9.1.)"
+568,500mg,ok,500 mg,정상 밀리그램 표기(ASCII).,투여 시 요양급여를 인정함. - 아 래 - 가. 미만성 범세기관지염 1) 투여용량: 250∼500mg/day 2) 투여기간: 최소 6개월∼2년 이내 나. Mycoplasma genitalium에 의한
+568,500mg,ok,500 mg,정상 밀리그램 표기(ASCII).,"단순 생식기 감염 ○ 투여방법 1) 초치료 시 - 1g 한 번 투여 - 첫 날 500mg 1일 1회, 둘째 날부터 1일 1회 250mg을 4일간 투여 (총 투여량 1.5g) 2) 치료 실패"
+569,600mg,ok,600 mg,정상 밀리그램 표기(ASCII).,시 요양급여를 인정함. - 아 래 - ○ 미만성 범세기관지염 가. 투여용량: 400∼600mg/day 나. 투여기간: 최소 6개월∼2년 이내 3. 허가사항 범위를 초과하여 아래와 같은 기준으
+569,300mg,ok,300 mg,정상 밀리그램 표기(ASCII).,"투여 시 요양급여를 인정함. - 아 래 - ○ 미만성 범세기관지염 가. 투여용량: 150~300mg/day 나. 투여기간: 최소 6개월~2년 이내 (고시 제2018-174호, ʼ18.9.1.)"
+570,100mg,ok,100 mg,정상 밀리그램 표기(ASCII).,"케치아, 비루스에 작용하는 것 구 분 세부인정기준 및 방법 [615] Doxycycline 50, 100mg 제제 (품명: 국제독시사이클린하이 클레이트수화물캡슐100 밀리그램 등) 1. 허가사항 범위 내에서 투여 시"
+570,300mg,ok,300 mg,정상 밀리그램 표기(ASCII).,"하여 아래와 같은 기준으로 투여 시 요양 급여를 인정함. - 아 래 - 가. 요도염에 1일 200-300mg, 상기도염에 1일 200mg 투여 나. 마크로라이드 불응성 마이코플라즈마 폐렴 1) 투여대상:"
+570,200mg,ok,200 mg,정상 밀리그램 표기(ASCII).,"여 시 요양 급여를 인정함. - 아 래 - 가. 요도염에 1일 200-300mg, 상기도염에 1일 200mg 투여 나. 마크로라이드 불응성 마이코플라즈마 폐렴 1) 투여대상: 마크로라이드계 항생제 투여 3"
+570,4mg,ok,4 mg,정상 밀리그램 표기(ASCII).,"마크로라이드계 항생제 투여 3일 후에도 증상이 개선되지 않는 12세 미만 소아 2) 용법용량: 2~4mg/kg/일, 2회 분복(최대 200 mg/일) 3) 투여기간: 7~14일 이내 ※ 허가사항 중 사"
+570,200 mg,ok,200 mg,정상 밀리그램 표기(ASCII).,"후에도 증상이 개선되지 않는 12세 미만 소아 2) 용법용량: 2~4mg/kg/일, 2회 분복(최대 200 mg/일) 3) 투여기간: 7~14일 이내 ※ 허가사항 중 사용상의 주의사항을 고려하여 임상적 유용"
+571,300mg,ok,300 mg,정상 밀리그램 표기(ASCII).,"방법 [616] Pentamidine isethionate 주사제 (품명: 화이자펜타미딘이세티 온산염주 300mg) 허가사항 범위 내에서 투여 시 요양급여 함을 원칙으로 하며, 허가사항 범위를 초과하여 아래와 같은 기준"
+571,300mg,ok,300 mg,정상 밀리그램 표기(ASCII).,"구투여가 불가능한 경우 3) Sulfonamide 과민성 등을 보이는 경우 다. 투여용량·용법: 300mg(1바이알)을 3-4주마다 네블 라이저(초음파) 흡입 (고시 제2018-158호, ʼ18.8.1.)"
+577,250mg,ok,250 mg,정상 밀리그램 표기(ASCII).,"분 세부인정기준 및 방법 [619] Clarithromycin 경구제 (품명: 클래리시드필름코팅정 250mg 등) 1. 허가사항 범위 내에서 투여 시 요양급여 함을 원칙으로 하며, 허가사항 범위를 초과하여 아래와"
+577,500mg,ok,500 mg,정상 밀리그램 표기(ASCII).,openic purpura) 5) 위선종의 내시경절제술 후 나. 미만성 범세기관지염 1) 투여용량: 250~500mg/day 2) 투여기간: 최소 6개월~2년 이내 2. 허가사항 범위를 초과하여 아래와 같은 기준으로 투여 시
+581,100mg,ok,100 mg,정상 밀리그램 표기(ASCII).,"분 세부인정기준 및 방법 [622] Bedaquiline fumarate 경구제 (품명: 서튜러정 100mg) 동 약제의 요양급여 인정 여부는 질병관리청에 사전 신청하여 승인 받은 경우에 한하여 인정하며, 아래와"
+582,50mg,ok,50 mg,정상 밀리그램 표기(ASCII).,"동시투여 (고시 제2024-55호, ʼ24.4.1.) [622] Delamanid 경구제 (품명: 델티바정 50mg) 동 약제의 요양급여 인정 여부는 질병관리청에 사전 신청하여 승인 받은 경우에 한하여 인정하며, 아래와"
+583,200mg,ok,200 mg,정상 밀리그램 표기(ASCII).,"고시 제2024-55호, ʼ24.4.1.) [622] Pretomanid 경구제 (품명: 도브프렐라정 200mg) 동 약제의 요양급여 인정 여부는 질병관리청에 사전 신청하여 승인 받은 경우에 한하여 인정하며, 아래와"
+584,25mg,ok,25 mg,정상 밀리그램 표기(ASCII).,❘ 623 치나제 구 분 세부인정기준 및 방법 [623] Dapsone 경구제 (품명: 태준답손정 25mg 등) 1. 허가사항 범위 내에서 투여 시 요양급여 함을 원칙으로 함. 2. 허가사항 범위(효능·효과)를 초
+586,100mg,ok,100 mg,정상 밀리그램 표기(ASCII).,"경구약제 투여를 인정함. (고시 제2019-38호, ʼ19.3.1.) [629] Balofloxacin 100mg (품명: 큐록신정) 허가사항 범위 내에서 아래와 같은 기준으로 투여 시 요양 급여를 인정하며, 동 인정기준"
+586,40ml,ok,40 mL,정상 밀리리터 표기.,"3-5일 정도 인정함. 1) 성인: 1회 100mg을 1일 2회 2) 신장애 환자 (크레아티닌 청소율이 40ml/min 이하의 심한 신기능 장애 환자) : 1회 100mg을 2일 1회 나. 골반내 감염증, 자궁경관염"
+587,433.64mg,ok,433.64 mg,정상 밀리그램 표기(ASCII).,"도 인정함. (고시 제2017-77호, ʼ17.5.1.) [629] Darunavir ethanolate 433.64mg 경구제 (품명: 프레지스타정 400mg) 허가사항 범위 내에서 아래와 같은 기준으로 투여 시 요양급여를"
+587,400mg,ok,400 mg,정상 밀리그램 표기(ASCII).,5.1.) [629] Darunavir ethanolate 433.64mg 경구제 (품명: 프레지스타정 400mg) 허가사항 범위 내에서 아래와 같은 기준으로 투여 시 요양급여를 인정함. - 아 래 - ○ 치료경
+587,40ml,ok,40 mL,정상 밀리리터 표기.,"정함. 4) 투여용량 가) 성인: 1회 200mg을 1일 2회 나) 신장애 환자 (크레아티닌 청소율이 40ml/min 이하의 심한 신기능 장애 환자) : 1회 200mg을 2 일 1회 (고시 제2017-77호, ʼ1"
+587,β,ok,(그대로),그리스 문자 정상 검출.,"중증감염환자, 심부장기감염환자(예: 폐렴, 급성신우신염), 위장관감염증 나. 중증 폐렴 환자의 경우는 β-Lactam과 병용하여 투여 시에도 인정함. (고시 제2017-77호, ʼ17.5.1.) [629] Da"
+588,650.46mg,ok,650.46 mg,정상 밀리그램 표기(ASCII).,❘ 581 ❘ 구 분 세부인정기준 및 방법 [629] Darunavir ethanolate 650.46mg 경구제 (품명: 프레지스타정 600mg) 허가사항 범위 내에서 아래와 같은 기준으로 투여 시 요양급여를
+588,600mg,ok,600 mg,정상 밀리그램 표기(ASCII).,및 방법 [629] Darunavir ethanolate 650.46mg 경구제 (품명: 프레지스타정 600mg) 허가사항 범위 내에서 아래와 같은 기준으로 투여 시 요양급여를 인정함. - 아 래 - ○ 항레
+589,250mg,ok,250 mg,정상 밀리그램 표기(ASCII).,"al agent와 병용요법 (고시 제2013-127호, ʼ13.9.1.) [629] Famciclovir 250mg 경구제 (품명: 팜비어정 250mg 등) 1. 허가사항 범위 내에서 아래와 같은 기준으로 투여 시 요"
+589,250mg,ok,250 mg,정상 밀리그램 표기(ASCII).,"013-127호, ʼ13.9.1.) [629] Famciclovir 250mg 경구제 (품명: 팜비어정 250mg 등) 1. 허가사항 범위 내에서 아래와 같은 기준으로 투여 시 요양급여를 인정하며, 동 인정기준 이외에는"
+591,β,ok,(그대로),그리스 문자 정상 검출.,", 면역기능이 저하된 환자, 중증 감염환자, 심부장기감염환자(예: 폐렴) 나. 중증 폐렴 환자의 경우는 β-Lactam과 병용하여 투여 시에도 인정함 (고시 제2013-127호, ʼ13.9.1.) [629] Gl"
+595,β,ok,(그대로),그리스 문자 정상 검출.,"환자, 중증 감염환자, 심부 장기감염환자(예: 폐렴, 급성 신우신염) 나. 중증 폐렴환자의 경우는 β-Lactam과 병용하여 투여"
+596,20 mg,ok,20 mg,정상 밀리그램 표기(ASCII).,"이드계 항생제 투여 3일 후에도 증상이 개선되지 않는 소아 2) 용법용량 ○5세 미만: 16~20 mg/kg/일, 2회 분복 (최대 750mg/일) ○5세 이상: 8~10 mg/kg/일, 1일 1회 (최"
+596,750mg,ok,750 mg,정상 밀리그램 표기(ASCII).,"개선되지 않는 소아 2) 용법용량 ○5세 미만: 16~20 mg/kg/일, 2회 분복 (최대 750mg/일) ○5세 이상: 8~10 mg/kg/일, 1일 1회 (최대 750mg/일) ○근골격계 성"
+596,10 mg,ok,10 mg,정상 밀리그램 표기(ASCII).,"○5세 미만: 16~20 mg/kg/일, 2회 분복 (최대 750mg/일) ○5세 이상: 8~10 mg/kg/일, 1일 1회 (최대 750mg/일) ○근골격계 성숙이 이루어진청소년: 500 mg/일, 1"
+596,750mg,ok,750 mg,정상 밀리그램 표기(ASCII).,"g/일, 2회 분복 (최대 750mg/일) ○5세 이상: 8~10 mg/kg/일, 1일 1회 (최대 750mg/일) ○근골격계 성숙이 이루어진청소년: 500 mg/일, 1일"
+596,500 mg,ok,500 mg,정상 밀리그램 표기(ASCII).,"이상: 8~10 mg/kg/일, 1일 1회 (최대 750mg/일) ○근골격계 성숙이 이루어진청소년: 500 mg/일, 1일"
+598,20 mg,ok,20 mg,정상 밀리그램 표기(ASCII).,"❘ 591 ❘ 구 분 세부인정기준 및 방법 ○5세 미만: 16~20 mg/kg/일, 12시간 간격 (최대 750mg/일) ○5세 이상: 8~10 mg/kg/일, 1일 1회"
+598,750mg,ok,750 mg,정상 밀리그램 표기(ASCII).,"구 분 세부인정기준 및 방법 ○5세 미만: 16~20 mg/kg/일, 12시간 간격 (최대 750mg/일) ○5세 이상: 8~10 mg/kg/일, 1일 1회 (최대 750mg/일) 3) 투여기간"
+598,10 mg,ok,10 mg,정상 밀리그램 표기(ASCII).,"○5세 미만: 16~20 mg/kg/일, 12시간 간격 (최대 750mg/일) ○5세 이상: 8~10 mg/kg/일, 1일 1회 (최대 750mg/일) 3) 투여기간: 7~14일 이내 ※ 허가사항 중"
+598,750mg,ok,750 mg,정상 밀리그램 표기(ASCII).,"12시간 간격 (최대 750mg/일) ○5세 이상: 8~10 mg/kg/일, 1일 1회 (최대 750mg/일) 3) 투여기간: 7~14일 이내 ※ 허가사항 중 사용상의 주의사항을 고려하여 임상적 유용"
+599,β,ok,(그대로),그리스 문자 정상 검출.,"환자, 중증 감염환자, 심부장기감염환자(예: 폐렴, 합병성복강내감염) 나. 중증 폐렴 환자의 경우는 β-Lactam과 병용하여 투여 시에도 인정함. 2. 허가범위를 초과하여 결핵치료에 아래와 같은 기준으로"
+600,400mg,ok,400 mg,정상 밀리그램 표기(ASCII).,"방법 치료 실패가 PCR 등으로 확인된 경우에 요양급여를 인정함. ○ 투여용량과 투여기간 - 400mg 1일 1회, 14일 이내 (고시 제2021-26호, ’21.2.1.) [629] Nelfinavir mes"
+610,"0.5 
+IU",ok,0.5 IU,정상 국제단위 표기.,"장기 위험에 있는 대상자들은 예방접종을 하여야 함. 6개월 마다 혈청반응 검사를 하도록 권장하며, 항체가가 0.5 IU/ml 이하인 경우에 추가접종을 해야 함. 고위험군으로 분류되어 접종이 권장되는 대상군은 다음과 같음 수의"
+620,1mg,ok,1 mg,정상 밀리그램 표기(ASCII).,"nitis): 진단 시 1.5g/kg, 3일째 1g/kg 투여 인정. 단, serum creatinine>1mg/dL 또는 BUN>30mg/dL 또는 total bilirubin> 4mg/dL이어야 함 ⑥ 간신증"
+620,30mg,ok,30 mg,정상 밀리그램 표기(ASCII).,"5g/kg, 3일째 1g/kg 투여 인정. 단, serum creatinine>1mg/dL 또는 BUN>30mg/dL 또는 total bilirubin> 4mg/dL이어야 함 ⑥ 간신증후군(Hepatorenal s"
+620,4mg,ok,4 mg,정상 밀리그램 표기(ASCII).,erum creatinine>1mg/dL 또는 BUN>30mg/dL 또는 total bilirubin> 4mg/dL이어야 함 ⑥ 간신증후군(Hepatorenal syndrome): Type I에 혈관수축제와 병용
+620,100mL,ok,100 mL,정상 밀리리터 표기.,"정(Circulatory instability)이 있는 경우 등): 복수 3L~5L 천자 시 1병(20% 100mL), 5L 이상 천자 시 2병(20% 100mL) 인정 ⑤ 자발적 세균성 복막염(Spontaneous"
+620,100mL,ok,100 mL,정상 밀리리터 표기.,"있는 경우 등): 복수 3L~5L 천자 시 1병(20% 100mL), 5L 이상 천자 시 2병(20% 100mL) 인정 ⑤ 자발적 세균성 복막염(Spontaneous bacterial peritonitis): 진단"
+621,100mL,ok,100 mL,정상 밀리리터 표기.,여시는 알부민 수치와 관계없이 수술 당시에 2~3병 정도 인정함. 마. 개심술 후 48시간 이내에 20% 100mL/1일 사용한 경우 바. 간이식 및 간절제 수술 후 혈중 알부민 검사치가 3.0 초과 3.5 이하인 다음
+621,300mL,ok,300 mL,정상 밀리리터 표기.,"(grade 3) 이상의 요흔부종(pitting edema)이 있는 경우 또는 2) 1일 복수 배액량이 300mL 이상 나오는 경우 (고시 제2016-145호, ʼ16.8.1.)"
+624,250IU,ok,250 IU,정상 국제단위 표기.,기준 및 방법 3) 투여용량 가) 성인: 허가사항(용법.용량) 범위 내에서 인정함 나) 소아: 1일 150-250IU/kg 다. 간이식환자의 간동맥혈전의 예방 및 치료 1) 생체부분간이식수술 후 간동맥혈전을 예방하기 위한
+624,000 IU,ok,000 IU,정상 국제단위 표기.,"급여를 인정함. - 아 래 - (1) 수술 중 - HBV-DNA 또는 HBeAg 양성인 경우: 20,000 IU 이내1회 투여, - HBV-DNA, HBeAg 음성인 경우: 10,000 IU이내 1회 투여 (2) 수"
+624,000 IU,ok,000 IU,정상 국제단위 표기.,"0 IU이내 1회 투여 (2) 수술 후 1주일까지 - HBV-DNA 또는 HBeAg 양성인 경우: 20,000 IU 이내/day"
+625,000 IU,ok,000 IU,정상 국제단위 표기.,",000 IU이내 /day (3) 수술 후 1달까지 - HBV-DNA 또는 HBeAg 양성인 경우: 20,000 IU 이내/week - HBV-DNA, HBeAg 음성인 경우: 10,000 IU이내 /week (4) 수술 후"
+625,000 IU,ok,000 IU,정상 국제단위 표기.,"000 IU이내 /week (4) 수술 후 1달이후 - HBV-DNA 또는 HBeAg 양성인 경우: 20,000 IU 이내/month - HBV-DNA, HBeAg 음성인 경우: 10,000 IU이내 /month (고시 제2"
+626,25 IU,ok,25 IU,정상 국제단위 표기.,"준 이외에는 약값 전액을 환자가 부담토록 함. - 아 래 - 가. 1회 투여용량(1회분): 20-25 IU/kg 다만, 중등도 (moderate) 이상 출혈의 경우 의사의 의학적 판단에 따라서 최대 30 IU/k"
+626,30 IU,ok,30 IU,정상 국제단위 표기.,"0-25 IU/kg 다만, 중등도 (moderate) 이상 출혈의 경우 의사의 의학적 판단에 따라서 최대 30 IU/kg - 상기 가.에도 불구하고 용량증대가 반드시 필요한 다음의 어느 하나에 해당하는 경우에는 의사"
+627,5 IU,ok,5 IU,정상 국제단위 표기.,아 래 - 가. 투여대상 유전성 X인자 결핍이 확인된 환자로서 1) 응고인자 활성도 <5 IU/dL (5%) 미만인 경우 또는 2) 응고인자 활성도 <10 IU/dL (10%) 미만이면서 중증 출
+627,10 IU,ok,10 IU,정상 국제단위 표기.,자로서 1) 응고인자 활성도 <5 IU/dL (5%) 미만인 경우 또는 2) 응고인자 활성도 <10 IU/dL (10%) 미만이면서 중증 출혈의 병력이 확인된 경우 나. 1회 투여용량(1회분): 만 12세 미만
+627,40 IU,ok,40 IU,정상 국제단위 표기.,"dL (10%) 미만이면서 중증 출혈의 병력이 확인된 경우 나. 1회 투여용량(1회분): 만 12세 미만 40 IU/kg, 만 12세 이상 25 IU/kg 다. 투여횟수 1) 1회 내원 시 최대 4회분을 인정하며"
+627,25 IU,ok,25 IU,정상 국제단위 표기.,"의 병력이 확인된 경우 나. 1회 투여용량(1회분): 만 12세 미만 40 IU/kg, 만 12세 이상 25 IU/kg 다. 투여횟수 1) 1회 내원 시 최대 4회분을 인정하며, 환자의 상태가 안정적인 경우 등"
+628,60 IU,ok,60 IU,정상 국제단위 표기.,의 임상 조건에 따라 다르다. • 각 환자의 임상 반응에 기초하여 투여량 및 빈도를 결정 한다. 하루에 60 IU/kg 이상 투여하지 않는다. 출혈의 예방 연령 최초 투여량 추가 관리 어린이: 12세 미만 주 2회 40
+628,"40 
+IU",ok,40 IU,정상 국제단위 표기.,"IU/kg 이상 투여하지 않는다. 출혈의 예방 연령 최초 투여량 추가 관리 어린이: 12세 미만 주 2회 40 IU/kg 환자 간 및 환자 내 변동성으로 인해, 특히 요법의 첫 주 또는 투여량 변경 후 간헐적으로 X 인자"
+628,5 IU,ok,5 IU,정상 국제단위 표기.,후 간헐적으로 X 인자의 최저 혈액치를 모니터링하는 것이 좋다. 임상 반응 및 X 인자의 최저 수준(최소 5 IU/ dL)으로 투여 요법을 조정한다. 최고치인 120 IU/dL을 초과하지 않도록 한다. 성인 및 청소년
+628,120 IU,ok,120 IU,정상 국제단위 표기.,좋다. 임상 반응 및 X 인자의 최저 수준(최소 5 IU/ dL)으로 투여 요법을 조정한다. 최고치인 120 IU/dL을 초과하지 않도록 한다. 성인 및 청소년: 12세 이상 주 2회 25 IU/kg 출혈의 치료 및
+628,"25 
+IU",ok,25 IU,정상 국제단위 표기.,조정한다. 최고치인 120 IU/dL을 초과하지 않도록 한다. 성인 및 청소년: 12세 이상 주 2회 25 IU/kg 출혈의 치료 및 조절 연령 최초 투여량 추가 관리 어린이: 12세 미만 30 IU/kg 출혈의 첫
+628,30 IU,ok,30 IU,정상 국제단위 표기.,이상 주 2회 25 IU/kg 출혈의 치료 및 조절 연령 최초 투여량 추가 관리 어린이: 12세 미만 30 IU/kg 출혈의 첫 번째 징후가 나타나면 코아가덱스를 주입 한다 [임상 시험 경험 (3.1) 참조] 출혈이
+628,25 IU,ok,25 IU,정상 국제단위 표기.,(3.1) 참조] 출혈이 멈출 때까지 24시간 간격으로 반복 투여한다. 성인 및 청소년: 12세 이상 25 IU/kg 수술 전후 출혈 관리 연령 최초 투여량 추가 관리 어린이: 12세 미만 ‘투여량’ 공식 (2.1)
+628,90 IU,ok,90 IU,정상 국제단위 표기.,해 각 환자의 수술 전후에 주입 후 혈장 X 인자 수준을 측정한다. 수술 전: 혈장 X 인자 수준을 70-90 IU/dL 까지 상승시키기 위해 코아가덱스의 투여량을 계산한다.
+629,400mg,ok,400 mg,정상 밀리그램 표기(ASCII).,또는 나) 흡인(Aspiration)과 관련된 연하곤란이 있거나 호흡곤란이 있는 경우 2) 투여용량 : 400mg/kg/day × 5일 또는 허가사항 범위(용법·용량)를 초과하여 1g/kg/day × 2일 3) 재투여
+629,50 IU,ok,50 IU,정상 국제단위 표기.,계산한다. 수술 후: 환자에게 더 이상 수술로 인한 출혈 위험이 없을 때까지 혈장 X 인자 수준을 최소 50 IU/dL 이상으로 유지하기 위해 필요에 따라 투여량을 반복한다. X 인자의 증가는 2.0의 체내 회복가를
+630,0.5ml,ok,0.5 mL,정상 밀리리터 표기.,다 음 - (가) 신장: 충분한 수액 공급에도 불구하고 급성 핍뇨증(적어도 2시간 동안 소변량<0.5ml/kg/h)인 경우 (나) 호흡기: 급성 저산소혈증(PaO2/FiO2<300) (다) 혈액: 혈소판
+630,μ,ok,(그대로),그리스 문자 정상 검출.,"경우 (나) 호흡기: 급성 저산소혈증(PaO2/FiO2<300) (다) 혈액: 혈소판<100,000/μL (라) 대사: Hyperlactatemia(>2mmol/L) (2) 임상 증상이 상당히 진행된 다발"
+631,400mg,ok,400 mg,정상 밀리그램 표기(ASCII).,"mmunoglobulin G 주사제)으로 치료가 있었던 환자에서 증상 재발 시 나) 용법 및 인정기간: 400mg/kg/day를 5일간 투여하거나, 허가사항 범위(용법·용량)를 초과 하여 1g/kg/day로 2일간 또는"
+632,400mg,ok,400 mg,정상 밀리그램 표기(ASCII).,"적출이 요구될 때 (8) 경태반 모체 항체로 인한 급성 혈소판 감소증인 신생아 나) 용량 및 인정기간: 400mg/kg/day를 5일간 투여하거나, 허가사항 범위(용법·용량)를 초과하여 1g/kg/day로 2일간 또는"
+632,400mg,ok,400 mg,정상 밀리그램 표기(ASCII).,"진단받은 환자 중 관상동맥합병증 발병 위험이 있다고 진료의사가 판단하여 투여하는 경우 2) 투여용량 : 400mg/kg씩 5일까지 또는 2g/㎏ /day×1일 단, 1차 투여 종료 후 36시간 이상 발열이 지속되는 불응"
+633,400mg,ok,400 mg,정상 밀리그램 표기(ASCII).,"크레아티닌키나제(CK; Serum creatine kinase)가 지속적으로 상승된 경우 2) 투여용량: 400mg/kg/day ×5일 (또는 2g/kg/day ×1일, 1g/kg/day ×2일)을 매월 반복하여 3개월"
+634,400mg,ok,400 mg,정상 밀리그램 표기(ASCII).,❘ 627 ❘ 구 분 세부인정기준 및 방법 경우 2) 투여 용량: 400mg/kg/dayx5일 (또는 2g/kg/day을 2-5회 분할투여) 다. 골수이식(제대혈 조혈모세포이식 포함
+634,500mg,ok,500 mg,정상 밀리그램 표기(ASCII).,"5회 분할투여) 다. 골수이식(제대혈 조혈모세포이식 포함)후 감염 위험이 있는 경우에는 3개월까지 격주로 500mg/kg, 그 후 6개월까지 매월 500mg/kg을 요양급여하며, 특이사례 발생 시에는 사례별로 인정함."
+634,500mg,ok,500 mg,정상 밀리그램 표기(ASCII).,"세포이식 포함)후 감염 위험이 있는 경우에는 3개월까지 격주로 500mg/kg, 그 후 6개월까지 매월 500mg/kg을 요양급여하며, 특이사례 발생 시에는 사례별로 인정함. 라. 신생아 면역 용혈성 질환 1) 투여대상"
+638,400mg,ok,400 mg,정상 밀리그램 표기(ASCII).,"mmunoglobulin G 주사제)으로 치료가 있었던 환자에서 증상 재발 시 2) 용법 및 인정기간: 400mg/kg/day × 5일 (또는, 1g/kg/day × 2일, 2g/kg/day × 1일) 3. 허가사항 범"
+638,400mg,ok,400 mg,정상 밀리그램 표기(ASCII).,"분율이 12% 이상 이며, 3회 이상 반복하여 유산 또는 착상실패를 경험한 경우 - 투여방법 및 기간: 400mg/kg, 3~4주 간격으로 배란일(또는 보조생식술 시행일)~14주 나. 중증근무력증 1) 근력 약화가 심해"
+639,40 IU,ok,40 IU,정상 국제단위 표기.,투여한 경우에는 급여인정 투여횟수 산정 시 원내 투여분을 포함 나. 1회 투여용량 ○ 매4주마다 40 IU/Kg ※ 식품의약품안전처장이 인정한 범위 ○ 투여 대상 제 13인자의 선천적 결핍 및
+639,40 IU,ok,40 IU,정상 국제단위 표기.,및 상처 치유에서의 장애 ○ 투여 용량(1회분) 1) 일반적인 예방요법 - 초기용량: 40 IU/kg - 유지용량: 최저 혈액응고 제13인자 활성수치가 대략
+640,5 IU,ok,5 IU,정상 국제단위 표기.,용량 조절 혈액응고 제13인자 최저 활성수치(%) 용량 변화 1개의 최저 활성수치가 5%보다 작은 경우 5 IU/kg 증가 최저 활성수치가 5∼20%인 경우 용량 변화 없음 2개의 최저 활성수치가 20%보다 큰 경우 5
+640,5 IU,ok,5 IU,정상 국제단위 표기.,U/kg 증가 최저 활성수치가 5∼20%인 경우 용량 변화 없음 2개의 최저 활성수치가 20%보다 큰 경우 5 IU/kg 감소 1개의 최저 활성수치가 25%보다 큰 경우 5 IU/kg 감소 2) 수술 전 예방적 조
+640,5 IU,ok,5 IU,정상 국제단위 표기.,"2개의 최저 활성수치가 20%보다 큰 경우 5 IU/kg 감소 1개의 최저 활성수치가 25%보다 큰 경우 5 IU/kg 감소 2) 수술 전 예방적 조치 - 환자의 마지막 예방적 용량 투여 이후, 21일∼2"
+640,1.4 IU,ok,1.4 IU,정상 국제단위 표기.,"가적 용량은 필요하지 않을 수 있음 큰 수술과 심한 출혈이 있는 경우 정상 범위(건강한 사람: 0.7 – 1.4 IU/ml) 내의 값을 목표로 함 (고시 제2021-65호, ’21.3.1.) [634] IgM 고함유 사"
+641,5000IU,ok,5000 IU,정상 국제단위 표기.,"분 세부인정기준 및 방법 [634] Immunoglobulin anti-D(Rh) 600, 1500, 5000IU 주사제 (품명: 윈로에스디에프주) 1. Rho(-)형 산모에게 투여 시에는 허가사항 범위 내에서 인정함."
+643,4ml,ok,4 mL,정상 밀리리터 표기.,"서 양성으로 확인된 경우 나. 인정용량 및 기간 1) 조혈모세포이식: 가) 1일, 2일, 7일째(3회): 4ml/kg 나) 14일째(1회): 2ml/kg 다) 필요시 21일째(1회): 2ml/kg 2) 고형장기이식:"
+643,2ml,ok,2 mL,정상 밀리리터 표기.,"량 및 기간 1) 조혈모세포이식: 가) 1일, 2일, 7일째(3회): 4ml/kg 나) 14일째(1회): 2ml/kg 다) 필요시 21일째(1회): 2ml/kg 2) 고형장기이식: 1ml/kg의 용량을 48시간 간격으"
+643,2ml,ok,2 mL,정상 밀리리터 표기.,"2일, 7일째(3회): 4ml/kg 나) 14일째(1회): 2ml/kg 다) 필요시 21일째(1회): 2ml/kg 2) 고형장기이식: 1ml/kg의 용량을 48시간 간격으로 2주간 투여 (고시 제2013-127호,"
+643,1ml,ok,1 mL,정상 밀리리터 표기.,"kg 나) 14일째(1회): 2ml/kg 다) 필요시 21일째(1회): 2ml/kg 2) 고형장기이식: 1ml/kg의 용량을 48시간 간격으로 2주간 투여 (고시 제2013-127호, ʼ13.9.1.) [634]"
+647,60mL,ok,60 mL,정상 밀리리터 표기.,"Association Class III), 폐동맥고혈압 확진 다) 신부전: 신부전 병력(eGFR≤60mL/min/1.73㎡) 라) 평활근 연축: 입원, 마약성 진통제가 필요한 중증의 재발성 통증 에피소드"
+651,μ,ok,(그대로),그리스 문자 정상 검출.,"- 단, ADAMTS-13 활성 결과 확인 전 혈소판 수 30×109/L 이상 및 혈청 크레아티닌 150μmol/L (또는 1.7㎎/㎗) 이상인 경우에는 사전신청서 제출 후 투여 가능하며, ADAMTS-13 활성"
+656,β,ok,(그대로),그리스 문자 정상 검출.,"심사 대상에 해당되지 않음.) (고시 제2024-55호, ʼ24.4.1.) [639] Interferon β-1a 주사제 (품명: 레비프프리필드 주사, 레비도즈프리필드펜, 아보넥스주 등) Peginterfero"
+656,β,ok,(그대로),그리스 문자 정상 검출.,"a 주사제 (품명: 레비프프리필드 주사, 레비도즈프리필드펜, 아보넥스주 등) Peginterferon β-1a 주사제 (품명: 플레그리디펜주 등) 각 약제별 허가사항 범위 내에서 아래와 같은 기준으로 투여"
+657,β,ok,(그대로),그리스 문자 정상 검출.,"한 없이 계속 투여를 인정함. (고시 제2021-26호, ’21.2.1.) [639] Interferon β-1b (품명: 베타페론주사) 1. 허가사항 범위 내에서 아래와 같은 기준으로 투여 시 요양급여를 인정하며"
+658,γ,ok,(그대로),그리스 문자 정상 검출.,"경우에도 요양급여를 인정함. (고시 제2021-26호, ’21.2.1.) [639] Interferon-γ 주사제 (품명: 인터맥스감마주 200만단위) 1. 허가사항 범위 내에서(만성골수성백혈병) 투여 시 요양"
+660,000IU,ok,000 IU,정상 국제단위 표기.,"위 이상인 성인(만 18세 이상) 만성 활동성 B형간염 가) HBeAg(+)로서 HBV-DNA≥20,000IU/mL 또는 나) HBeAg(-)로서 HBV-DNA≥2,000IU/mL 2) 금기 대상부전 간 질환(Hep"
+660,000IU,ok,000 IU,정상 국제단위 표기.,"HBeAg(+)로서 HBV-DNA≥20,000IU/mL 또는 나) HBeAg(-)로서 HBV-DNA≥2,000IU/mL 2) 금기 대상부전 간 질환(Hepatic decompensation) 3) 투여방법 가) 단독요법"
+660,α,ok,(그대로),그리스 문자 정상 검출.,"holic acid, DDB 함유 제제 등)와의 병용투여는 인정 가능하나, ○ Peg interferon α-2a와 Hepatotonics 중 한 가지 약제의 약값 전액을 환자가 본인부담토록 함. 나. 만성B형 간"
+660,α,ok,(그대로),그리스 문자 정상 검출.,"lic acid, DDB 함유 제제 등) 와의 병용투여는 인정 가능하나, ○ Peg interferon α-2a와 Hepatotonics 중 한 가지 약제의 약값 전액을 환자가 본인부담토록 함."
+661,60mL,ok,60 mL,정상 밀리리터 표기.,"sociation Class III), 폐동맥고혈압 확진 (3) 신부전: 신부전 병력(eGFR≤60mL/min/1.73㎡) (4) 평활근 연축: 입원, 마약성 진통제가 필요한 중증의 재발성 통증 에피"
+665,250mg,ok,250 mg,정상 밀리그램 표기(ASCII).,"❘ 658 ❘ 641 항원충제 구 분 세부인정기준 및 방법 [641] Atovaquone 250mg, Proguanil HCl 100mg 경구제 (품명: 말라론정) 1. 클로로퀸(Chloroquine)"
+665,100mg,ok,100 mg,정상 밀리그램 표기(ASCII).,"제 구 분 세부인정기준 및 방법 [641] Atovaquone 250mg, Proguanil HCl 100mg 경구제 (품명: 말라론정) 1. 클로로퀸(Chloroquine) 내성 지역을 다녀와 급성, 비복합성 열"
+668,500ml,ok,500 mL,정상 밀리리터 표기.,"여 시 요양급여 함을 원칙으로 하며, 황산바리움 현탁액(70%)을 대장조영촬영에 사용 시는 250∼500ml 범위 내에서 인정토록 함. 2. 허가사항 범위(효능· 효과)를 초과하여 비뇨계통의 종양 질환(Tumor)에"
+672,4㎖,ok,4 ㎖,정상 밀리리터 표기.,"압, 뇌질환 환자 등)를 고려하여, 1) 마취의사의 판단에 따라 사용시 흡입마취제 병용 유무와 관계없이 4㎖까지 급여함 2) 심혈관계 변동이 심한 경우에는 8㎖까지 급여(8㎖ 초과 투여된 금액은 조정)하고, 흡입마"
+672,8㎖,ok,8 ㎖,정상 밀리리터 표기.,"판단에 따라 사용시 흡입마취제 병용 유무와 관계없이 4㎖까지 급여함 2) 심혈관계 변동이 심한 경우에는 8㎖까지 급여(8㎖ 초과 투여된 금액은 조정)하고, 흡입마취제는 사용 기준량에 의한 해당 약값 범위 내에서 인"
+674,15mg,ok,15 mg,정상 밀리그램 표기(ASCII).,". 기계적 환기를 실시중인 중환자의 진통 및 진정(18세 이상)에 투여시 ○ 3일 이내 사용량(1일 최대 15mg)까지 인정함 (고시 제2016-203호, ʼ16.11.1.) [821] Sufentanil citrate"
+692,α,ok,(그대로),그리스 문자 정상 검출.,이내 투여”를 원칙으로 함. (2011. 3. 1. 진료분 부터) [심사지침] 류마티스질환에서 TNF-α inhibitor 제제 (품명: 엔브렐주사 등)를 휴약 후 재 투여 시 적용기준 류마티스질환(류마
+692,α,ok,(그대로),그리스 문자 정상 검출.,"후 재 투여 시 적용기준 류마티스질환(류마티스관절염, 건선성관절염, 강직성 척추염)에서 TNF-α inhibitor(품명∶엔브렐주사 등) 제제를 투여 중 의학적 사유 등으로 휴약 후 재 투여한 경우 다"
+698,15mg,ok,15 mg,정상 밀리그램 표기(ASCII).,al 2 acemetacin methotrexate (분류번호 : 421) methotrexate 1주에 15mg 이상 투여시 3 acetazolamide methazolamide 4 acetazolamide topira
+700,15mg,ok,15 mg,정상 밀리그램 표기(ASCII).,phrine amoxapine 74 aspirin methotrexate methotrexate 1주에 15mg 이상 투여시 75 aspirin + dipyridamole methotrexate (분류번호 : 421)
+700,15mg,ok,15 mg,정상 밀리그램 표기(ASCII).,+ dipyridamole methotrexate (분류번호 : 421) methotrexate 1주에 15mg 이상 투여시 76 atazanavir dihydroergotamine 77 atazanavir ergot
+702,15mg,ok,15 mg,정상 밀리그램 표기(ASCII).,dexketoprofen methotrexate (분류번호 : 421) methotrexate 1주에 15mg 이상 투여시 152 diethylpropion mazindol 153 diethylpropion moc
+704,20mg,ok,20 mg,정상 밀리그램 표기(ASCII).,e sparfloxacin 238 ibuprofen methotrexate methotrexate 1주에 20mg 이상 투여시 239 ilaprazole atazanavir 240 imipramine moclobemi
+705,15mg,ok,15 mg,정상 밀리그램 표기(ASCII).,en (분류번호 : 114) methotrexate (분류번호 : 421) methotrexate 1주에 15mg 이상 투여시 278 ketorolac aceclofenac 279 ketorolac acemetacin
+706,15mg,ok,15 mg,정상 밀리그램 표기(ASCII).,320 meloxicam methotrexate (분류번호 : 421) methotrexate 1주에 15mg 이상 투여시 321 melphalan nalidixic acid
+711,15mg,ok,15 mg,정상 밀리그램 표기(ASCII).,490 piroxicam methotrexate (분류번호 : 421) methotrexate 1주에 15mg 이상 투여시 491 posaconazole anhydrous caffeine + ergotamine 49
+713,20mg,ok,20 mg,정상 밀리그램 표기(ASCII).,cin amiodarone 581 tenoxicam methotrexate methotrexate 1주에 20mg 이상 투여시
+714,15mg,ok,15 mg,정상 밀리그램 표기(ASCII).,d(tiaprofenate) methotrexate (분류번호 : 421) methotrexate 1주에 15mg 이상 투여시 586 tizanidine ciprofloxacin 587 tranexamic acid th
+720,15mg,ok,15 mg,정상 밀리그램 표기(ASCII).,selegiline 814 etoricoxib methotrexate methotrexate 1주에 15mg 이상 투여시 815 tapentadol moclobemide 816 tapentadol rasagiline
+743,β,ok,(그대로),그리스 문자 정상 검출.,"127 venlafaxine 18세 미만 정제, 캡슐제 128 zolpidem 18세 미만 정제 129 6β-Iodomethyl-19-norcholest- 5(10)-en-3β-ol(131I) 18세 미만 주사제 1"
+743,β,ok,(그대로),그리스 문자 정상 검출.,lpidem 18세 미만 정제 129 6β-Iodomethyl-19-norcholest- 5(10)-en-3β-ol(131I) 18세 미만 주사제 130 balofloxacin 18세 미만 정제 131 moxiflox
+767,α,ok,(그대로),그리스 문자 정상 검출.,"Ruxolitinib 2등급 719 Etonogestrel 1등급 720 Choriogonadotropin α 1등급 721 Human chorionic gonadotropin 1등급 (다만 습관성 유산, 절박유산"
+767,α,ok,(그대로),그리스 문자 정상 검출.,"c gonadotropin 1등급 (다만 습관성 유산, 절박유산 치료 시 제외) 722 Lutropin α 1등급 723 Darbepoetin α 2등급 724 Erythropoietin 2등급 725 Methox"
+767,α,ok,(그대로),그리스 문자 정상 검출.,"만 습관성 유산, 절박유산 치료 시 제외) 722 Lutropin α 1등급 723 Darbepoetin α 2등급 724 Erythropoietin 2등급 725 Methoxy polyethylene glycol-"
+767,β,ok,(그대로),그리스 문자 정상 검출.,Erythropoietin 2등급 725 Methoxy polyethylene glycol-epoetin β 2등급 726 Octreotide 2등급 727 Carbetocin 1등급
+768,β,ok,(그대로),그리스 문자 정상 검출.,pa 2등급 743 Sodium Fluoride (18F) 2등급 744 N-(3-Fluorpropyl)-2β-carboxy -methoxy-3β-(4-[123I]iodophenyl) -tropane 1등급 745 N
+768,β,ok,(그대로),그리스 문자 정상 검출.,uoride (18F) 2등급 744 N-(3-Fluorpropyl)-2β-carboxy -methoxy-3β-(4-[123I]iodophenyl) -tropane 1등급 745 N-Isopropyl-4-iodoamp
+768,β,ok,(그대로),그리스 문자 정상 검출.,nidine (123I) 1등급 747 3-Iodobenzylguanidine (131I) 1등급 748 6β-Iodomethyl-19- norcholest-5(10)-en-3β-ol (131I) 1등급 749 Sod
+768,β,ok,(그대로),그리스 문자 정상 검출.,idine (131I) 1등급 748 6β-Iodomethyl-19- norcholest-5(10)-en-3β-ol (131I) 1등급 749 Sodium Molybdate (99Mo) + Sodium Pertechn
+772,α,ok,(그대로),그리스 문자 정상 검출.,anthanum carbonate 2등급 885 Sevelamer 2등급 886 Alglucosidase α 2등급 887 Rasburicase 2등급
+40,"426
+G",ok_or_large_g,426 g,값이 커서 실제 g(그램)일 가능성이 높음.,.1. 423 Emicizumab 주사제 헴리브라피하주사 30mg 등 고시 제2023-82호 23.5.1. 426 G-CSF 주사제 filgrastim 그라신프리필드 시린지주 등 고시 제2013-127호 13.9.1. 428
+40,180g,ok_or_large_g,180 g,값이 커서 실제 g(그램)일 가능성이 높음.,착탄 경구제 크레메진세립 등 고시 제2022-131호 22.6.1. 447 Betaine anhydrous 180g 경구제 시스타단산 1그램 고시 제2014-17호 14.2.1. 447 Deferasirox 경구제 엑스자이
+50,180g,ok_or_large_g,180 g,값이 커서 실제 g(그램)일 가능성이 높음.,····································· 433 Betaine anhydrous 180g 경구제·························· 447 Bethanechol chloride 경구제·
+52,"583
+G",ok_or_large_g,583 g,값이 커서 실제 g(그램)일 가능성이 높음.,iclovir 주사제················································ 583 G-CSF 주사제 filgrastim ········································
+454,180g,ok_or_large_g,180 g,값이 커서 실제 g(그램)일 가능성이 높음.,"부담토록 함. (고시 제2022-131호, ’22.6.1.) [392] Betaine anhydrous 180g 경구제 (품명: 시스타단산 1그램) 호모시스틴뇨증이 확진된 환자로서 아래와 같은 기준으로 투여 시 요양"

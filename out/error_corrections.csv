@@ -1,0 +1,7 @@
+﻿sheet,row_idx,column,rule,before,after,detail,had_ocr_match
+Sheet1,125,구분,g_to_micro_conditional,0.1g,0.1 ㎍,value<=threshold & has_form & no_lab,True
+Sheet1,320,구분,ascii_micro,20mcg,20 ㎍,mcg -> ㎍,True
+Sheet1,353,구분,ascii_micro,500mcg,500 ㎍,mcg -> ㎍,True
+Sheet1,365,구분,ascii_micro,20.87mcg,20.87 ㎍,mcg -> ㎍,True
+Sheet1,490,구분,ascii_micro,10mcg,10 ㎍,mcg -> ㎍,True
+Sheet1,17,세부인정기준 및 방법,ascii_micro,37.5ug,37.5 ㎍,ug -> ㎍,True
