@@ -5,7 +5,8 @@
       "Bash(dir data)",
       "Bash(dir:*)",
       "Bash(python:*)",
-      "Bash(pip install:*)"
+      "Bash(pip install:*)",
+      "Bash(tree:*)"
     ],
     "deny": [],
     "ask": []

@@ -19,10 +19,10 @@ from collections import Counter
 
 BASE = r"C:\Jimin\pharmaLex_sentinel"
 IN_CAND = os.path.join(BASE, r"out\mapping_candidates.csv")
-IN_XLSX = os.path.join(BASE, r"data\요양심사약제_후처리.xlsx")
+IN_XLSX = os.path.join(BASE, r"out\요양심사약제_후처리_fffd_autofixed.xlsx")  # 이미 처리된 파일 사용
 OUT_DIR = os.path.join(BASE, "out")
-OUT_XLSX = os.path.join(OUT_DIR, "요양심사약제_후처리_fffd_autofixed.xlsx")
-OUT_LOG  = os.path.join(OUT_DIR, "fffd_autofix_log.csv")
+OUT_XLSX = os.path.join(OUT_DIR, "요양심사약제_후처리_fffd_autofixed_v2.xlsx")
+OUT_LOG  = os.path.join(OUT_DIR, "fffd_autofix_log_v2.csv")
 
 # --------- 자동 확정 기준 (형님 원하는대로 '확신만' 자동) ----------
 MIN_HITS = 3         # top 후보 최소 히트수
